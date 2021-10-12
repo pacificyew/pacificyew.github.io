@@ -1,46 +1,8 @@
-I"Π<p><img src="/assets/inquiry2/Doug1.JPG" alt="Fig. 1" />
-This post includes the first measurements of trees from Konuckson Park.</p>
+I"G�<p>This page maintains a running list and map of the trees measured and documents in my <a href="https://pacificyew.github.io/content/demo/2021/09/23/InquiryOutline/">Big Tree Inquiry.</a> It is also populated with direct quotations from “Plants of Coastal British Columbia”<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup> describing the trees included in my projects. I do not claim ownership or authorship in any form for these desriptions. The intention of these quotes is to enhance the educational qualities of this blog. I set to profit in no way from this brilliant ecological work.</p>
 
-<h3 id="the-park">The Park</h3>
-<p><img src="/assets/inquiry2/wow.png" align="right" width="335px" /></p>
+<p>Note, there is error associated with the reported values below. I haven’t gotten around to reporting nice numbers yet. It will be done.</p>
 
-<h5 id="where">Where?</h5>
-<p>Konuckson Park is located in the center of ten-mile point in Saanich, 10 minutes south of the university by bike. It is a walk away from Cadboro bay and is worth the hike because I believe it contains one of the largest Cottonwoods on the peninsula.</p>
-
-<h5 id="when">When?</h5>
-<p>I cant for the life of me find any historical documents about the park or its previous uses. Even the Saanich Parks website doesn’t have an article about Konuckson. I resort to Provincial GIS layers to try and infer what the history of the area is. It likely isn’t accurate, but all I’m trying to do is guess where the biggest trees are so. Yeah.</p>
-
-<h5 id="what">What?</h5>
-<p>The image above is a city zoning map found on <a href="https://www.saanich.ca/EN/main/community/archives/collections-research.html">the Saanich archives.</a> It depicts the city subdivisions as cut in the year 1948. The entirety of what is now Konuckson park lies over the block of lots between Phylis, Bedford, Tudor and Minnie. These roads’ names have since changed, but what doesn’t make sense to me is where these subdivisions went. There are something like 50 lots here which somehow have become a park. More digging using government layers on <a href="https://maps.gov.bc.ca/ess/hm/imap4m/">imapsBC</a> reveals only about 10 of those original lots (the blocks south and north of the semi-circular lot 5) were turned into park. Since this was once private land, I did not expect to find anything old or big since settler landowners were privy to logging and clearing lots for agriculture.</p>
-
-<p><img src="/assets/inquiry2/Arb1.JPG" align="right" width="334px" />
-As a curious tangent, I also found an interesting layer shaded light green below through imapsBC. The dark green areas are parks with the biggest one in the center being Konuckson. The light green patches overlap privately owned lots but are nevertheless marked “Registered and Recognized historic places”. The <a href="https://catalogue.data.gov.bc.ca/dataset/a8d72ad9-2379-4d6d-9ff7-f3d0527dfb80">government data catalogue</a> describes this layer as:</p>
-
-<blockquote>
-  <p>“The Historic Environment Spatial Layer contains polygons and related attributes representing post-1846 historic places in British Columbia that are recorded on the provincial heritage register. It does not include any archaeological site information.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>”</p>
-</blockquote>
-
-<p><br />
-<img src="/assets/inquiry2/wow2.png" alt="Fig. 1" />
-Some of them actually are archaological sites, but this isn’t the place to talk about that. Most of them are “historic residences”. Other than that, its seems what were “roads” through the park no longer exist. I guess houses were never built on the Konuckson blocks, and the land in some places may be mostly undisturbed.</p>
-
-<p><img src="/assets/inquiry2/Doug2.JPG" align="right" width="340px" /></p>
-<h5 id="who">Who?</h5>
-<p>Judging by the way the park has been zoned historically, I expect the land management of this area to have been dominated by settlers throughout the lifespans of any trees that now live there. I know in some places, indigenous groups maintain gardens and spiritual trails to this day. I don’t know if that would be the case here considering the circumstances, but I will tread lightly. It is in a very convenient location close to Cadboro bay, and its beyond question that the area was used extensively by groups here prior to settler arrival.</p>
-
-<p>Settlers may have modified the land by clearing, burning, or introducing new species, pests and diseases into the native ecosystem here. This wouldn’t really be conducive to saving large trees.</p>
-
-<h5 id="why">Why?</h5>
-<p>Trees in parks generally aren’t cut down after they become parks. Its good reason to suspect that larger undisturbed areas might be found there. Also, the topographical shape of Konuckson is kind of like a bowl. It collects water, and the center of the park is quite wet; conducive to growing Cedar and Cottonwood. This is definitely an area to scout around.</p>
-
-<h3 id="what-we-found">What we Found</h3>
-<p><img src="/assets/inquiry2/Cotton1.JPG" align="right" width="340px" />
-Konuckson has many trails covering the entire park. Its hard to get lost if you know which way you want to walk. Some of the trails look maintained by the city. Others look like they were made by deer or people infrequently walking by. I don’t know what the indigenous relationship with the area is, but my girlfriend pointed out Rattlesnake everywhere in one particular area. There was a large boulder, a semi-circle of smaller boulders, and some older Arbutus. Perfect place for a campfire.</p>
-
-<p>The largest treee was easily the biggest Cottonwood I’ve ever seen right in the middle of the park where its the wettest. There are two Arbutus in one region that are about a meter across as well. The locations and measurements that we took are shown in the map below. Go check them out!</p>
-
-<!--
-	<div id="leaflet-map-d6a73b6572fb9235ace82d092d550aa3" class="leaflet-map"></div>
+<div id="leaflet-map-cd312bd1aa7207bf0a46d170486e5fa2" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -48,60 +10,60 @@ Konuckson has many trails covering the entire park. Its hard to get lost if you 
 
     // Get tag input arguments & inside block object list
     var tagInputArg = { "center" : [48.455773,  -123.274262],
-	                 "zoom" : 15,
-	                 "providerBasemap": "Stamen.Toner" } ;
+                 "zoom" : 13,
+                 "providerBasemap": "Stamen.Toner" } ;
     var blockLeafletItems = [
 
-		{id: "a96f09d71f4b36c45f2bef5d78ce6f8b",
+      {id: "5118558adde87a7601ed2c6bbda5c730",
               type: "LeafletMarker",
               value: { "latitude" : 48.455773,
-		                   "longitude" : -123.274262,
-		                   "popupContent" : "Pacific Yew @ [48.45529, -123.27502]<br>DBH = 14.96 cm, Height = 8.04 m"} },
-		{id: "d5e4531afeba606327ff985d77b69af0",
+                         "longitude" : -123.274262,
+                         "popupContent" : "Pacific Yew @ [48.45529, -123.27502]<br>DBH = 14.96 cm, Height = 8.04 m"} },
+      {id: "cea8f315efa4b4dc8259b295d233aad9",
               type: "LeafletMarker",
               value: { "latitude" : 48.45580,
-		                   "longitude" : -123.27541,
-		                   "popupContent" : "Cottonwood @ [48.45580, -123.27541]<br>DBH = 165.84 cm, Height = 43.23 m"} },         
-		{id: "25ff9a0baf7b41e3069e1c0371dece8c",
+                         "longitude" : -123.27541,
+                         "popupContent" : "Cottonwood @ [48.45580, -123.27541]<br>DBH = 165.84 cm, Height = 43.23 m"} },         
+      {id: "ab78f7114b3e53db547ce8384c88c5df",
               type: "LeafletMarker",
               value: { "latitude" : 48.45636,
-		                   "longitude" : -123.27605,
-		                   "popupContent" : "Douglas Fir @ [48.45636, -123.27605]<br>DBH = 136.24 cm, Height = 29.81 m"} },
-		{id: "dbe61b53c372d13ae0f67d2fe30724af",
+                         "longitude" : -123.27605,
+                         "popupContent" : "Douglas Fir @ [48.45636, -123.27605]<br>DBH = 136.24 cm, Height = 29.81 m"} },
+      {id: "e90e4ff7c0c33d7e8eacde540f23a90d",
               type: "LeafletMarker",
               value: { "latitude" : 48.456874,
-		                   "longitude" : -123.27581,
-		                   "popupContent" : "Douglas Fir @ [48.456874, -123.27581]<br>DBH = 137.83 cm, Height = 27.60 m"} },
-		{id: "cd5cd509037cd2f2124d58c4e9703c86",
+                         "longitude" : -123.27581,
+                         "popupContent" : "Douglas Fir @ [48.456874, -123.27581]<br>DBH = 137.83 cm, Height = 27.60 m"} },
+      {id: "e0ccb1623715c7d2c62d078cf905769c",
               type: "LeafletMarker",
               value: { "latitude" : 48.45607,
-		                   "longitude" : -123.273086,
-		                   "popupContent" : "Douglas Fir @ [48.45607, -123.273086]<br>DBH = 148.33 cm, Height = 25.12 m"} },
-		{id: "dbcfde50710ca493cb5e2c38c9def9c5",
+                         "longitude" : -123.273086,
+                         "popupContent" : "Douglas Fir @ [48.45607, -123.273086]<br>DBH = 148.33 cm, Height = 25.12 m"} },
+      {id: "223143fd4b35398d1b612ae8798e0737",
               type: "LeafletMarker",
               value: { "latitude" : 48.4550,
-		                   "longitude" : -123.2729,
-		                   "popupContent" : "Arbutus @ [48.45507, -123.2729]<br>DBH = 99.95 cm, Height = 14.03 m"} }, 
-		{id: "077b3252787ebab00a037dbb84972658",
+                         "longitude" : -123.2729,
+                         "popupContent" : "Arbutus @ [48.45507, -123.2729]<br>DBH = 99.95 cm, Height = 14.03 m"} }, 
+      {id: "d2a16ff0e0035038c23aefc8f60dbd12",
               type: "LeafletMarker",
               value: { "latitude" : 48.4551,
-		                   "longitude" : -123.2728,
-		                   "popupContent" : "Arbutus @ [48.4551, -123.2728]<br>DBH = 96.45 cm, Height = 16.49 m"} },
-		{id: "9eb7a706e8c4b4543faa78eb2dc06606",
+                         "longitude" : -123.2728,
+                         "popupContent" : "Arbutus @ [48.4551, -123.2728]<br>DBH = 96.45 cm, Height = 16.49 m"} },
+      {id: "f2423e596533d58adbc65dda4d91de63",
               type: "LeafletMarker",
               value: { "latitude" : 48.4538,
-		                   "longitude" : -123.2682,
-		                   "popupContent" : "Douglas Fir @ [48.4538, -123.2682]<br>DBH = 117.77 cm, Height = 19.59 m"} },
-		{id: "3fab1e20209194d6f447f094fb6a534b",
+                         "longitude" : -123.2682,
+                         "popupContent" : "Douglas Fir @ [48.4538, -123.2682]<br>DBH = 117.77 cm, Height = 19.59 m"} },
+      {id: "62b3a69f79df46d90d5d4a9f67ff6497",
               type: "LeafletMarker",
               value: { "latitude" : 48.4539,
-		                   "longitude" : -123.2683,
-		                   "popupContent" : "Garry Oak @ [48.4539, -123.2683]<br>DBH = 99.95 cm, Height = 13.94 m"} },
-		{}
-	];
+                         "longitude" : -123.2683,
+                         "popupContent" : "Garry Oak @ [48.4539, -123.2683]<br>DBH = 99.95 cm, Height = 13.94 m"} },
+      {}
+];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-d6a73b6572fb9235ace82d092d550aa3";
+    var defaultMapElId = "leaflet-map-cd312bd1aa7207bf0a46d170486e5fa2";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -234,7 +196,7 @@ Konuckson has many trails covering the entire park. Its hard to get lost if you 
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map d6a73b6572fb9235ace82d092d550aa3 with these args:");
+        console.log("Creating map cd312bd1aa7207bf0a46d170486e5fa2 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -1136,12 +1098,256 @@ Konuckson has many trails covering the entire park. Its hard to get lost if you 
 })();
 </script>
 
--->
+<h2 id="douglas-fir-pseudotsuga-menziesii">Douglas Fir (Pseudotsuga menziesii)</h2>
+<p><img src="/assets/image/Doug2.JPG" align="right" width="350px" /></p>
+
+<p><strong>General:</strong> Large, to 70 m tall (sometimes 80-90 m); crown of young trees pyramidal with a stiffly erect leader; branches spreading sharply pointed; bark ultimately very thick, fluted, ridged, rough and dark brown.</p>
+
+<p><strong>Leaves:</strong> Needles flat, yellowish-green, 2-3 cm long with pointed tips, 1 groove on upper surface and 2 white bands of stomata on lower surface, spirally arranged, leave small, flat scar on twig upon falling; buds sharp-pointed.</p>
+
+<p><strong>Cones:</strong> Pollen cones small, reddish-brown; young seed cones hanging, oval, 5-10 cm long, green at flowering, turning reddish-brown to grey; scales papery; bracts prominently 3-forked, extend beyond scales (look for the ‘mice’ hiding in the cones-the bracts are their feet and tails).</p>
+
+<p><strong>Ecology:</strong> From extremely dry, low elevation sites to moist mountain sites; on the outer south coast it is replaced by western hemlock except on dry, rocky sites or in areas influenced by fire.</p>
+
+<p><strong>Notes:</strong> Douglas-fir wood and bark was thought by most coastal groups to be an excellent fuel, but it had the reputation of throwing sparks and giving slivers to those handling it. The wood was also used to make items such as spear handles, harpoon shafts, spoons, dip-net poles, arpoon barbs, fire-tongs, salmon weirs, caskets and halibut and cod hooks. Its pitch was used for sealing joints of implements such as harpoon heads, gaffs and fishhooks, and for caulking canoes and water vessels. The pitch, like that of many coniferous trees was used to make a medicinal salve for wounds and skin irritations.</p>
+<ul>
+  <li>The Nuxalk, Quinault and others made torches from the pitchy heartwood.</li>
+  <li>The Comox prepared dogfish by stuffing it with rotten, powdered Douglas-fir and burying the fish in a pit lined with the same material.</li>
+</ul>
+
+<p>Douglas-fir is usually separated into two subspecies: coastal (ssp. menziesii) and interior (ssp. glauca). Interior Douglas-fir, which does not occur in our region, is a smaller stockier tree with smaller cones (to 7 cm long) and blueish-green foliage. Under natural conditions, Douglas-fir established primarily after fires on wetter sites, and the trees can live for over a thousand years. Thus, many old-growth forests contain giant Douglas-fir that represent the legacy of fires that swept the landscape many centuries ago. The trees have very thick bark, which allows them to survive moderate surface fires.</p>
+
+<p><img src="/assets/image/Doug3.JPG" alt="dougy" />
+Douglas-fir is not related to true firs (Abies spp.) There are only 2 species of Pseudotsuga in western North America. Bigcone Douglas-fir (P. macrocarpa) is much more restricted in range, ocurring in southern California and northern Baja. Douglas-fir did not appear in our region until about 7000 years ago.</p>
+
+<p>This species was first described by naturalist-surgeon Dr. Archibald Menzies and is named after north-west explorer-botanist David Douglas. The latin name comes from pseudo (‘false’) and tsuga (‘hemlock’).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>DBH (cm)</th>
+      <th>Height (m)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48.4563559</td>
+      <td>-123.2767514</td>
+      <td>136.237</td>
+      <td>29.809</td>
+    </tr>
+    <tr>
+      <td>48.4568742</td>
+      <td>-123.2758059</td>
+      <td>137.828</td>
+      <td>27.597</td>
+    </tr>
+    <tr>
+      <td>48.456074</td>
+      <td>-123.2730855</td>
+      <td>148.332</td>
+      <td>25.121</td>
+    </tr>
+    <tr>
+      <td>48.4538</td>
+      <td>-123.2682</td>
+      <td>117.775</td>
+      <td>19.588</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="pacific-yew-taxus-brevifolia">Pacific Yew (Taxus brevifolia)</h2>
+
+<p><strong>General:</strong> Evergreen shrub to small tree, 2-15 m high, up to 30 cm in diamter; branches dropp; trunk often twisted and fluted; bark reddish, papery, scaly to shreddy.</p>
+
+<p><strong>Leaves:</strong> Needles flat, 2-3 cm lond, dull green above, striped with stomata below, ending abruptly in fine point, arranged in 2 rows in flat sprays.</p>
+
+<p><strong>Fruits:</strong> Male and Female cones inconspicuous, on separate trees; although a conifer, instead of a seed cone it produces a single bony seed almost completely surrounded by a bright red, fleshy cup that looks like a large red huckleberry with a hole in the end; poisonous to humans although highly attractive to birds.</p>
+
+<p><strong>Ecology::</strong> Moist mature forest at low to middle elevations in the southern part of our region, oftern with Douglas-fir and western hemlock in productive old-growth forests as a small understorey tree; from northern vancouver island north, in low-elevation, open, scrubby redcedar-western hemlock forests, as a mid-canopy or understorey tree or shrub ; in Alaska and much of northern mainland BC., only withing a few km of shoreline.</p>
+
+<p><strong>Notes:</strong> The heavy, tough, durable wood of the yew was prized by all coastal groups within its range and was often traded to the interior. the hard wood is ideal for carving and takes on a high polish. Yew was named ‘bow plant’ by the Haida, Halq’emeylem, and Stl’atl’imx and ‘wedge plant’ in Sechelt, Squamish, and Nuu-chah-nulth. Many implements were made from yew wood, including bows, wedges, clubs, paddles, digging sticks, adze knives, dishes, spoons, bowls, dowels and pegs, drum frames, snoshoeframes, canoes spreaders, bark-scrapers, fire tongs and combs.</p>
+<ul>
+  <li>The Saanich used the entire trunk of a sapling to catapault spears in warfare, and they molded their yew bows to the proper curvature by first steaming them inside a bull-kelp stalk.</li>
+  <li>The Kwakwaka’wakw bound a bundleof yew branchesto a hemlock pole for gathering sea urchins, which would get tangles in the branches.</li>
+  <li>The fleshy seed coverings were eaten by the Haida, but only in small quantities because too many were said to make women sterile.</li>
+  <li>The Saanich and many Salish groups from Washington used to smoke dry yew needles, often mixed with kinnikinnick; these were very strong, and potentially harmful, soke mixtures.
+Yew is still today sought by wood carvers.</li>
+</ul>
+
+<p>A new, potent and apparently promising anti-cancer drug, taxol, has been identified in the bark and other parts of this tree and related yew species. It is being tested against a varieety of types of cancer, including ovarian, breast and kidney cancers, adn the harvesting of yew bark for this medecine has become a significant source of income for some people along the northwest coast. There are, however, concerns the the slow-growing western yew may be endangered from over-harvesting.</p>
+
+<p>Western yew seeds are poisonous and humans should avoid the fleshy ‘berries’ although a wide variety of birds consume them and disperse the seeds. The foliage is poisonous to horses and cattle, especially if left to rot, but it is also a winter browse for moose.</p>
+
+<p>Some dictionaries say ‘yew’ is from the celtic ‘iw’ meaning green, but others say there is no such word. One explanation is that, through a series of blunders, it is derived from the latin name ascribed to a plant by Pliny: abiga, which means ‘abortion.’ Abiga was misspelled and became ajuga, and then corrupted to ‘iua’ or ‘iva.’ Both ‘yew’ and ‘ivy’ appear to have the same origin. Whether or not the abiga of Pliny was actually the yew tree is not clear. However, if it was, it is interesting to note the possible connection between abiga and the Haida belief that eating too many ‘berries’ would make them sterile.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>DBH (cm)</th>
+      <th>Height (m)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48.4552921</td>
+      <td>-123.2750163</td>
+      <td>15.056</td>
+      <td>8.042</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="cottonwood-populus-balsamifera">Cottonwood (Populus balsamifera)</h2>
+
+<p><strong>General:</strong> Large, tall, deciduous, up to 50 m tall; buds very sticky (full of resin) and fragrant; old bark deeply furrowed, dark grey; young shoots often angles in cross section.</p>
+
+<p><strong>Leaves:</strong> Alternate, deciduous, thick, oval, 5-15 cm long, with rounded to heart-shaped base and sharp-pointed tip; margin finely round-toothed; under-surface pale and often stained with patches of old brown resin beneath; leaf stalks round, often with a pair of glands at the junction with the blade.</p>
+
+<p><strong>Flowers:</strong> Male and female flowers in catkins, and on separate plants; male flowers with 40-60 stamens, female flowers with 3 stigmas; flower before leaves open up.</p>
+
+<p><strong>Fruits:</strong> Round, green, hairy capsules that split when ripe into 3 part; seeds covered with white, fluffy hairs.</p>
+
+<p><strong>Ecology:</strong> On low to medium elevation, moist to wet sites; forms extensive stands on islands and floodplains along major rivers and on disturbed pland sites.</p>
+
+<p><strong>Notes:</strong> Black cottonwood is also known as Populus trichocarpa. Trembling aspen (P. tremuloides) is a smaller tree (up to 25 m) with shorter leaves (up to 7 cm long) found sporadically on southeastern Vancouver Island,around the shores of Puget Sound, and in the Cascades. It usually forms clonal stands and is best distinguished from black cottonwood by its flat leaf-stalks, which allow the leaves to flutter in the slightest breeze (hence the common name).</p>
+<ul>
+  <li>Nuxalk, Kwakwaka’wakw, Halq’emeylem and Stl’atlimx: The sweet inner bark and cambium tissues were eaten in late spring and early summer immediately after they were harvested so they would not ferment.</li>
+  <li>Hesquiat, Nuu-chah-nulth, and Ditidaht: The buds were picked in the spring and boiled in deer fat to make a fragrant salve, which was molded in the bulbous float of bull kelp.</li>
+  <li>Nuxalk: the gum from buds was used in preparations for baldness, sore throats, whooping cough and TB. The buds were used as a poultice for lung pains and rheumatism, and the old, rotten leaves were boiled and used in a bath for body pains, rheumatism, and stomach trouble.</li>
+  <li>Stl’atl’imx, Tahltan: Cottonwood was used as a fuel for smoking fish.</li>
+  <li>Coast Salish: Cottonwood was thought by the Squaxin to be an antiseptic plant; they placed the bruised leaves on cuts and made an infusion from the bark for sore throats.</li>
+  <li>Quinault: this group placed the gum that exudes from the burls of cottonwood directly on cuts and wounds, and took a bark infusion for TB.</li>
+  <li>Ditidaht: the inner bark was used to reinforce other plant fibres in spinning.</li>
+  <li>Vancouver Island Salish: This group occasionally made small dugout canoes from black cottonwood, a practice more common among interior groups. The aromatic gum from the spring buds of cottonwood was used to waterproof baskets and boxes.</li>
+  <li>Okanagan, Halq’meylem, Cowlitz: Frition-fire sets were made using dried cottonwood roots for the hearth and dried branches for the drill.</li>
+  <li>Okanagan: Soap and a hairwash were made using ashes from cottonwood.</li>
+  <li>Coast Salish, Okanagan, Stl’atl’imxL The bark was stripped off and used to make buckets for carrying and storing food. Young shoots were used to make sweatlodge frames.</li>
+  <li>Nisga’a, Quinault: Temporary cabins were occasionally constructed using cottonwood bark, and the roots were twisted into rope for tying house planks and making fish-traps.</li>
+  <li>Okanagan, Stl’atl’imx: The aromatic gum from the spring buds was used as a glue for securing arrowheads and feathers to shafts.</li>
+  <li>Chehalis: Cottonwood is thought to have a life of its own because it shakes when there is no wind, and for this reason was never used for firewood.</li>
+  <li>Okanagan, Ditidaht: The rich, yellow, aromatic gum from the buds was boiled in a grease and mixed with other pigments (alder bark, larch, wolf lichen, charcoal) to make paint.</li>
+</ul>
+
+<p>The sticky resin on black cottonwood buds and recently opened leaves has a powerful sweet, balsamic fragrance that permeates whole river valleys in the spring and early summer. Bees collect the resin, which is an anti-infectant, for their hives and seal intruders (such as mice) in the resin to prevent decay and protect the hive.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>DBH (cm)</th>
+      <th>Height (m)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48.4558040</td>
+      <td>-123.2754170</td>
+      <td>165.839</td>
+      <td>43.236</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="arbutus-arbutus-menziesii">Arbutus (Arbutus menziesii)</h2>
+
+<p><strong>General:</strong> Small to medium-sized, with heavy branches, to 30 m tall but usually much shorter; young bark chartreuse and smooth, older bark dark brownish-red and peeling off.</p>
+
+<p><strong>Leaves:</strong> Alternate, evergreen, oval, to 15 cm long, dark shiny green above, whitish-green below, hairless, leathery, without teeth except sometimes on young growth.</p>
+
+<p><strong>Flowers:</strong> White, urn-shaped, 6-7mm long, fragrant (like buckwheat honey); in large drooping clusters.</p>
+
+<p><strong>Fruits:</strong> Orange-red berries, about 1 cm across, surface finely granular; not usually eaten by humans, but popular with birds.</p>
+
+<p><strong>Ecology:</strong> On dry, sunny, often rocky sites, frequently with coarse-textured soils; low to middle elevations; typically associated with Douglas-fir and Garry Oak.</p>
+
+<p><strong>Notes:</strong> Another evergreen broadleaf tree (or large shrub) in our region is chinquapin (Castanopsis chrysophylla), a relative of oaks and chestnuts. It has leathery, lance-shaped leaves that are dark green above  and golden-scaly below, white flowers in upright catkins, and spiny, burr-like fruits like small chestnuts. Chinquapin is known from a few locations at low elevations in the Puget Trough, and from low to middle elevations in Oregon.</p>
+
+<ul>
+  <li>Arbutus berries were eaten in California, but not in quantity.</li>
+  <li>The straits Salish of Vancouver Island sometimes cooked the reddish papery bark with camas bulbs to colour them pink. Red-alder bark was also used for this purpose.</li>
+  <li>The Saanich used medicinal preparations from arbutus bark and leaves for colds, stomach problems, as a post-childbirth contraceptive, and in a ten-ingredient bark medicine for tuberculosis and spitting up blood (Turner and Hebda 1990)<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</li>
+  <li>A straits Salish myth recorded by early ethnographer Diamond Jenness Pitch used to go fishing before the sun rose, and then retire to the shade before it became strong. One day he was late and had just reached the beach when he melted. Other people rushed to share him. Douglas-fir arrived first and secured most of the pitch which he poured over his head and body. Grand fir obtained only a little and by the time Arbutus arrived there was none left. Therefore, Arbutus has no pitch to this day.</li>
+  <li>In a Straits Salish story, told by the late Chief Phillip Paul of the Saanich people, arbutus was the used by the survivors of the Great Flood (a tradition common to almost all northwest coast peoples) to anchor their canoe to the top of Mount Newton. To this day, the Saanich people do not burn arbutus in their stoves, because of the important service this tree provided long ago.</li>
+</ul>
+
+<p><img src="/assets/image/Arb3.JPG" alt="dougy" />
+Arbutus is a magnificent evergreen tree with white flowers in the spring and red fruit in the fall, and attractive reddish bark that peels off in large strips. Its berries sometimes persist on the trees until Christmas-time. The tree looks like it belongs to warmer climates than ours. ‘Arbutus’ means “strawberry tree” in latin, in reference to the bright red fruits. It was called “madrono” (Spanish for ‘strawberry tree’) by Father Juan Crespi, the chronicler of the overland Portola expedition of 1769 to discover the ‘lost bay’ of Monterey. He named it for its resemblance to the Mediteranean strawberry tree (A. unedo).</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>DBH (cm)</th>
+      <th>Height (m)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48.4550</td>
+      <td>-123.2729</td>
+      <td>99.95</td>
+      <td>14.038</td>
+    </tr>
+    <tr>
+      <td>48.4551</td>
+      <td>-123.2730</td>
+      <td>96.448</td>
+      <td>19.588</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="garry-oak-quercus-garyana">Garry Oak (Quercus garyana)</h2>
+
+<p><strong>General:</strong> Beautiful, heavy-limbed tree to 25 m tall, but often short and crooked in rocky habitats; bark light grey, with thick furrows and ridges.</p>
+
+<p><strong>Leaves:</strong> Alternate, deciduous, deeply round-lobed oak leaves to 12 cm long, shiny dark green above, greenish-yellow and brown hairy below; turn dull yellow-brown in the fall.</p>
+
+<p><strong>Flowers:</strong> Male and female flowers tiny, inconspicuous; borne in separate inflorescences on the same tree, male flowers in hanging catkins, female flowers single or in small clusters; flowers as leaves appear.</p>
+
+<p><strong>Fruits:</strong> Acorns, 2-3 cm long, in shallow, rough-surfaced cups; sweet, tannic, edible.</p>
+
+<p><strong>Ecology:</strong> Dry, rocky slopes or blufs, sometimes on deep, rich, well-drained soil; low elevations.</p>
+
+<p><strong>Notes:</strong> A similar oak with pointy-toothed leaves tipped with bristles is California black oak (Quercus kelloggii). Its range is from the Lane County, oregon to California. The acorns of the Garry oak were eaten by the Salish peoples of the Puget Sound region after soaking to leech out the bitter tannins.</p>
+<ul>
+  <li>The bark was one of the ingredients in the Saanich ‘4 barks’ medecine used against TB and other ailments (Turner and Hebda 1991)<sup id="fnref:2:1" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</li>
+</ul>
+
+<table>
+  <thead>
+    <tr>
+      <th>Latitude</th>
+      <th>Longitude</th>
+      <th>DBH (cm)</th>
+      <th>Height (m)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>48.4539</td>
+      <td>-123.2683</td>
+      <td>99.95</td>
+      <td>13.939</td>
+    </tr>
+  </tbody>
+</table>
 
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
-      <p>Theresa McFarland, “Historic Environment Spatial Layer”  2018-05-08 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>Pojar J. and Mackinnon A. “Plants of Coastal British Columbia”. Lone Pine., 2014. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Turner, N. J., and R. J. Hebda. 1990. Contemporary use of bark for medecine by two salishan native elders of southeast Vancouver Island. Journal of Ethnopharmacology 229: 59-72. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a> <a href="#fnref:2:1" class="reversefootnote" role="doc-backlink">&#8617;<sup>2</sup></a></p>
     </li>
   </ol>
 </div>

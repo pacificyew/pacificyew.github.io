@@ -2,7 +2,7 @@
 
 <p>Note, there is error associated with the reported values below. I haven’t gotten around to reporting nice numbers yet. It will be done.</p>
 
-<div id="leaflet-map-f35c0f4557b8bc5d73d43aa0a26bae7f" class="leaflet-map"></div>
+<div id="leaflet-map-2bb6e5f1902238fa748674dcea40ae51" class="leaflet-map"></div>
 <script>(() => {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = "https://unpkg.com/leaflet@1.6.0/dist/";
@@ -14,47 +14,47 @@
                  "providerBasemap": "Stamen.Toner" } ;
     var blockLeafletItems = [
 
-      {id: "5d9bdeb18bd0fddf5c5c3e45bad563fa",
+      {id: "051e532acedd46cb3890a13f68ed534b",
               type: "LeafletMarker",
               value: { "latitude" : 48.455773,
                          "longitude" : -123.274262,
                          "popupContent" : "Pacific Yew @ [48.45529, -123.27502]<br>DBH = 14.96 cm, Height = 8.04 m"} },
-      {id: "b1084e2847050ed340b4fdd66c052724",
+      {id: "eb80083462c85e28f9d2f9b13d818e1c",
               type: "LeafletMarker",
               value: { "latitude" : 48.45580,
                          "longitude" : -123.27541,
                          "popupContent" : "Cottonwood @ [48.45580, -123.27541]<br>DBH = 165.84 cm, Height = 43.23 m"} },         
-      {id: "e280c342d2367a1fe0ccb30fc5d9b9bd",
+      {id: "bbfdae3c564f2400a42960f0eb2eed03",
               type: "LeafletMarker",
               value: { "latitude" : 48.45636,
                          "longitude" : -123.27605,
                          "popupContent" : "Douglas Fir @ [48.45636, -123.27605]<br>DBH = 136.24 cm, Height = 29.81 m"} },
-      {id: "e22647268fe7de82e5767757d62ff515",
+      {id: "8ee9724752b22cdc66124aca9f78fe66",
               type: "LeafletMarker",
               value: { "latitude" : 48.456874,
                          "longitude" : -123.27581,
                          "popupContent" : "Douglas Fir @ [48.456874, -123.27581]<br>DBH = 137.83 cm, Height = 27.60 m"} },
-      {id: "ce9aa422ae2eccd635ea818615c246e1",
+      {id: "0d302ea4cdae71adeb04f533f8f4cd2f",
               type: "LeafletMarker",
               value: { "latitude" : 48.45607,
                          "longitude" : -123.273086,
                          "popupContent" : "Douglas Fir @ [48.45607, -123.273086]<br>DBH = 148.33 cm, Height = 25.12 m"} },
-      {id: "2a544e089f68cdd2f6dba2c5606ddd8c",
+      {id: "12cc23febabdadd349419253a5655e9e",
               type: "LeafletMarker",
               value: { "latitude" : 48.4550,
                          "longitude" : -123.2729,
                          "popupContent" : "Arbutus @ [48.45507, -123.2729]<br>DBH = 99.95 cm, Height = 14.03 m"} }, 
-      {id: "d159fba8c52b7f1a58ff570689b36525",
+      {id: "b9ab1082f57ba72d41c77195cc7a6a6b",
               type: "LeafletMarker",
               value: { "latitude" : 48.4551,
                          "longitude" : -123.2728,
                          "popupContent" : "Arbutus @ [48.4551, -123.2728]<br>DBH = 96.45 cm, Height = 16.49 m"} },
-      {id: "8cbf6df350f35fcce1ee1c684b0910ac",
+      {id: "5b06296791cb2929fb6dd1f901eda011",
               type: "LeafletMarker",
               value: { "latitude" : 48.4538,
                          "longitude" : -123.2682,
                          "popupContent" : "Douglas Fir @ [48.4538, -123.2682]<br>DBH = 117.77 cm, Height = 19.59 m"} },
-      {id: "d6e5f4051441678127bba8d1a331a2a7",
+      {id: "30bd91eb3b8f544dba6e9bbe503d65a1",
               type: "LeafletMarker",
               value: { "latitude" : 48.4539,
                          "longitude" : -123.2683,
@@ -63,7 +63,7 @@
 ];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = "leaflet-map-f35c0f4557b8bc5d73d43aa0a26bae7f";
+    var defaultMapElId = "leaflet-map-2bb6e5f1902238fa748674dcea40ae51";
    var defaultMapElStyle = "height:300px; margin-top:15px; margin-bottom:15px";
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -196,7 +196,7 @@
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log("Creating map f35c0f4557b8bc5d73d43aa0a26bae7f with these args:");
+        console.log("Creating map 2bb6e5f1902238fa748674dcea40ae51 with these args:");
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments

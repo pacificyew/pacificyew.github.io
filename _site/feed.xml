@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-12T11:52:16-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pacific Yew</title><subtitle>A hub for technology, photography, and trees.</subtitle><entry><title type="html">Big Tree Inquiry - Konuckson Park</title><link href="http://localhost:4000/content/demo/2021/10/04/Inquiry2/" rel="alternate" type="text/html" title="Big Tree Inquiry - Konuckson Park" /><published>2021-10-04T00:00:00-07:00</published><updated>2021-10-04T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/04/Inquiry2</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/04/Inquiry2/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug1.JPG&quot; alt=&quot;Fig. 1&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-12T12:04:15-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pacific Yew</title><subtitle>A hub for technology, photography, and trees.</subtitle><entry><title type="html">Big Tree Inquiry - Konuckson Park</title><link href="http://localhost:4000/content/demo/2021/10/04/Inquiry2/" rel="alternate" type="text/html" title="Big Tree Inquiry - Konuckson Park" /><published>2021-10-04T00:00:00-07:00</published><updated>2021-10-04T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/04/Inquiry2</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/04/Inquiry2/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug1.JPG&quot; alt=&quot;Fig. 1&quot; /&gt;
 This post includes the first measurements of trees from Konuckson Park.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-park&quot;&gt;The Park&lt;/h3&gt;
@@ -39,8 +39,7 @@ Konuckson has many trails covering the entire park. Its hard to get lost if you 
 
 &lt;p&gt;The largest treee was easily the biggest Cottonwood I’ve ever seen right in the middle of the park where its the wettest. There are two Arbutus in one region that are about a meter across as well. The locations and measurements that we took are shown in the map below. Go check them out!&lt;/p&gt;
 
-&lt;!--
-	&lt;div id=&quot;leaflet-map-e31789860c63018bb00d6eded4b3f859&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
+&lt;div id=&quot;leaflet-map-30f4cd22c616ca78159f22b28ff53bdf&quot; class=&quot;leaflet-map&quot;&gt;&lt;/div&gt;
 &lt;script&gt;(() =&gt; {
 // Specify configuration variables, setup any elements and styling
     var leafletCdn = &quot;https://unpkg.com/leaflet@1.6.0/dist/&quot;;
@@ -48,60 +47,60 @@ Konuckson has many trails covering the entire park. Its hard to get lost if you 
 
     // Get tag input arguments &amp; inside block object list
     var tagInputArg = { &quot;center&quot; : [48.455773,  -123.274262],
-	                 &quot;zoom&quot; : 15,
-	                 &quot;providerBasemap&quot;: &quot;Stamen.Toner&quot; } ;
+                 &quot;zoom&quot; : 15,
+                 &quot;providerBasemap&quot;: &quot;Stamen.Toner&quot; } ;
     var blockLeafletItems = [
 
-		{id: &quot;017b2760f00637d2ac5155e3d629c316&quot;,
+	{id: &quot;b4086f79594de4126802fc98ba47361d&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.455773,
-		                   &quot;longitude&quot; : -123.274262,
-		                   &quot;popupContent&quot; : &quot;Pacific Yew @ [48.45529, -123.27502]&lt;br&gt;DBH = 14.96 cm, Height = 8.04 m&quot;} },
-		{id: &quot;0491dd2e116bb48a98516df61065bec7&quot;,
+	                   &quot;longitude&quot; : -123.274262,
+	                   &quot;popupContent&quot; : &quot;Pacific Yew @ [48.45529, -123.27502]&lt;br&gt;DBH = 14.96 cm, Height = 8.04 m&quot;} },
+	{id: &quot;df29d2fb3e6dd58b2287b28994dea834&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.45580,
-		                   &quot;longitude&quot; : -123.27541,
-		                   &quot;popupContent&quot; : &quot;Cottonwood @ [48.45580, -123.27541]&lt;br&gt;DBH = 165.84 cm, Height = 43.23 m&quot;} },         
-		{id: &quot;1bde10bf8aa73c1086617bd3e5b316d4&quot;,
+	                   &quot;longitude&quot; : -123.27541,
+	                   &quot;popupContent&quot; : &quot;Cottonwood @ [48.45580, -123.27541]&lt;br&gt;DBH = 165.84 cm, Height = 43.23 m&quot;} },         
+	{id: &quot;68c85caf630335216cfe2e3831619577&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.45636,
-		                   &quot;longitude&quot; : -123.27605,
-		                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.45636, -123.27605]&lt;br&gt;DBH = 136.24 cm, Height = 29.81 m&quot;} },
-		{id: &quot;160b3c5c1340b32d8991cb4fb05792d2&quot;,
+	                   &quot;longitude&quot; : -123.27605,
+	                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.45636, -123.27605]&lt;br&gt;DBH = 136.24 cm, Height = 29.81 m&quot;} },
+	{id: &quot;fc32df81a70ed9a96e049d6b3cbe63d9&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.456874,
-		                   &quot;longitude&quot; : -123.27581,
-		                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.456874, -123.27581]&lt;br&gt;DBH = 137.83 cm, Height = 27.60 m&quot;} },
-		{id: &quot;f1032fff7af26467d7ae9287efc142e3&quot;,
+	                   &quot;longitude&quot; : -123.27581,
+	                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.456874, -123.27581]&lt;br&gt;DBH = 137.83 cm, Height = 27.60 m&quot;} },
+	{id: &quot;9eee751b38a64c45f2077d8098fc2c6c&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.45607,
-		                   &quot;longitude&quot; : -123.273086,
-		                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.45607, -123.273086]&lt;br&gt;DBH = 148.33 cm, Height = 25.12 m&quot;} },
-		{id: &quot;1591d699c14336189084c31cf84f3318&quot;,
+	                   &quot;longitude&quot; : -123.273086,
+	                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.45607, -123.273086]&lt;br&gt;DBH = 148.33 cm, Height = 25.12 m&quot;} },
+	{id: &quot;67710f1b9bdb25b203818bc0df3fc2bc&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.4550,
-		                   &quot;longitude&quot; : -123.2729,
-		                   &quot;popupContent&quot; : &quot;Arbutus @ [48.45507, -123.2729]&lt;br&gt;DBH = 99.95 cm, Height = 14.03 m&quot;} }, 
-		{id: &quot;1cd107fa62f7b53535753438bdb12705&quot;,
+	                   &quot;longitude&quot; : -123.2729,
+	                   &quot;popupContent&quot; : &quot;Arbutus @ [48.45507, -123.2729]&lt;br&gt;DBH = 99.95 cm, Height = 14.03 m&quot;} }, 
+	{id: &quot;3254941d8fcc8d8db8d4fafc120f30c3&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.4551,
-		                   &quot;longitude&quot; : -123.2728,
-		                   &quot;popupContent&quot; : &quot;Arbutus @ [48.4551, -123.2728]&lt;br&gt;DBH = 96.45 cm, Height = 16.49 m&quot;} },
-		{id: &quot;f77b9eae4629cf8f709b121e07900c31&quot;,
+	                   &quot;longitude&quot; : -123.2728,
+	                   &quot;popupContent&quot; : &quot;Arbutus @ [48.4551, -123.2728]&lt;br&gt;DBH = 96.45 cm, Height = 16.49 m&quot;} },
+	{id: &quot;aa389f3faa5490e987ef56d7087c63d7&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.4538,
-		                   &quot;longitude&quot; : -123.2682,
-		                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.4538, -123.2682]&lt;br&gt;DBH = 117.77 cm, Height = 19.59 m&quot;} },
-		{id: &quot;1814e8001fda0690117871dbc00d03e0&quot;,
+	                   &quot;longitude&quot; : -123.2682,
+	                   &quot;popupContent&quot; : &quot;Douglas Fir @ [48.4538, -123.2682]&lt;br&gt;DBH = 117.77 cm, Height = 19.59 m&quot;} },
+	{id: &quot;115dc091f7a9d5456c17c263d880e0ae&quot;,
               type: &quot;LeafletMarker&quot;,
               value: { &quot;latitude&quot; : 48.4539,
-		                   &quot;longitude&quot; : -123.2683,
-		                   &quot;popupContent&quot; : &quot;Garry Oak @ [48.4539, -123.2683]&lt;br&gt;DBH = 99.95 cm, Height = 13.94 m&quot;} },
-		{}
-	];
+	                   &quot;longitude&quot; : -123.2683,
+	                   &quot;popupContent&quot; : &quot;Garry Oak @ [48.4539, -123.2683]&lt;br&gt;DBH = 99.95 cm, Height = 13.94 m&quot;} },
+	{}
+];
 
     // Override the map div id if specified, apply default CSS
-    var defaultMapElId = &quot;leaflet-map-e31789860c63018bb00d6eded4b3f859&quot;;
+    var defaultMapElId = &quot;leaflet-map-30f4cd22c616ca78159f22b28ff53bdf&quot;;
    var defaultMapElStyle = &quot;height:300px; margin-top:15px; margin-bottom:15px&quot;;
     var mapEl = document.getElementById(defaultMapElId);
     if('divId' in tagInputArg){
@@ -234,7 +233,7 @@ Konuckson has many trails covering the entire park. Its hard to get lost if you 
 
 //The actual section that is called that creates a map
     function createMap(){
-        console.log(&quot;Creating map e31789860c63018bb00d6eded4b3f859 with these args:&quot;);
+        console.log(&quot;Creating map 30f4cd22c616ca78159f22b28ff53bdf with these args:&quot;);
         console.log(tagInputArg);
 
         //Initialize Map with the correct input arguments
@@ -1135,8 +1134,6 @@ Konuckson has many trails covering the entire park. Its hard to get lost if you 
     addToHeadIfNotLoaded(leafletJsEl);
 })();
 &lt;/script&gt;
-
---&gt;
 
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
