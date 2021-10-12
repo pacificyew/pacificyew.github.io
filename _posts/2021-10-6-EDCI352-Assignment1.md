@@ -2,7 +2,7 @@
 layout: post
 title: EDCI 352 - Assignment 1 (Multiliteracies Event)
 categories: [content, demo]
-published: true
+published: false
 
 ---
 

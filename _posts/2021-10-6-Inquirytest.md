@@ -2,7 +2,7 @@
 layout: post
 title: Big Tree Inquiry - Konuckson Park
 categories: [content, demo]
-published: true
+published: false
 
 ---
 ![Fig. 1](/assets/inquiry2/Doug1.JPG)
