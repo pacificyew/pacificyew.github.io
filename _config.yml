@@ -89,12 +89,8 @@ gems:
   - jekyll-paginate
   - jekyll-seo-tag
   - webrick
-  - jekyll-leaflet
   - jemoji
 
-
-plugins:
-  - jekyll-leaflet
   
 # Exclude these files from your production _site
 exclude:

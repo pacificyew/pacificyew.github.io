@@ -4,44 +4,14 @@ title: Trees of BC
 permalink: /treesofBC
 tags: about, pacificyew
 ---
+<!--AIzaSyCiwPUU7URxV_DI6nk-0AseY0F0JNPilkE-->
+
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK" width="720" height="480"></iframe>
 
 This page maintains a running list and map of the trees measured and documents in my [Big Tree Inquiry.](https://pacificyew.github.io/content/demo/2021/09/23/InquiryOutline/) It is also populated with direct quotations from "Plants of Coastal British Columbia"[^1] describing the trees included in my projects. I do not claim ownership or authorship in any form for these desriptions. The intention of these quotes is to enhance the educational qualities of this blog. I set to profit in no way from this brilliant ecological work.
 
 Note, there is error associated with the reported values below. I haven't gotten around to reporting nice numbers yet. It will be done.
-
-{% leaflet_map { "center" : [48.455773,  -123.274262],
-                 "zoom" : 13,
-                 "providerBasemap": "Stamen.Toner" } %}
-
-      {% leaflet_marker { "latitude" : 48.455773,
-                         "longitude" : -123.274262,
-                         "popupContent" : "Pacific Yew @ [48.45529, -123.27502]<br>DBH = 14.96 cm, Height = 8.04 m"} %}
-      {% leaflet_marker { "latitude" : 48.45580,
-                         "longitude" : -123.27541,
-                         "popupContent" : "Cottonwood @ [48.45580, -123.27541]<br>DBH = 165.84 cm, Height = 43.23 m"} %}         
-      {% leaflet_marker { "latitude" : 48.45636,
-                         "longitude" : -123.27605,
-                         "popupContent" : "Douglas Fir @ [48.45636, -123.27605]<br>DBH = 136.24 cm, Height = 29.81 m"} %}
-      {% leaflet_marker { "latitude" : 48.456874,
-                         "longitude" : -123.27581,
-                         "popupContent" : "Douglas Fir @ [48.456874, -123.27581]<br>DBH = 137.83 cm, Height = 27.60 m"} %}
-      {% leaflet_marker { "latitude" : 48.45607,
-                         "longitude" : -123.273086,
-                         "popupContent" : "Douglas Fir @ [48.45607, -123.273086]<br>DBH = 148.33 cm, Height = 25.12 m"} %}
-      {% leaflet_marker { "latitude" : 48.4550,
-                         "longitude" : -123.2729,
-                         "popupContent" : "Arbutus @ [48.45507, -123.2729]<br>DBH = 99.95 cm, Height = 14.03 m"} %} 
-      {% leaflet_marker { "latitude" : 48.4551,
-                         "longitude" : -123.2728,
-                         "popupContent" : "Arbutus @ [48.4551, -123.2728]<br>DBH = 96.45 cm, Height = 16.49 m"} %}
-      {% leaflet_marker { "latitude" : 48.4538,
-                         "longitude" : -123.2682,
-                         "popupContent" : "Douglas Fir @ [48.4538, -123.2682]<br>DBH = 117.77 cm, Height = 19.59 m"} %}
-      {% leaflet_marker { "latitude" : 48.4539,
-                         "longitude" : -123.2683,
-                         "popupContent" : "Garry Oak @ [48.4539, -123.2683]<br>DBH = 99.95 cm, Height = 13.94 m"} %}
-      {}
-{% endleaflet_map %}
 
 ## Douglas Fir (Pseudotsuga menziesii)
 <img src="/assets/image/Doug2.JPG" align="right" width="350px"/>
