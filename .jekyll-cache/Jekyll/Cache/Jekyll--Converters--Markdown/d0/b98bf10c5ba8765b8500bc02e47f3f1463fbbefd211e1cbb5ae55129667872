@@ -1,0 +1,82 @@
+I"�&<p><img src="/assets/jekyllreflection/jekyll.png" align="right" width="330px" />
+This website is no longer in its infancy. This post outlines the process by which I created this blog.</p>
+
+<h3 id="homebrew">Homebrew</h3>
+
+<p>I don’t really have much coding experience. Most of my data crunching was done in MATLAB in my undergrad. I had a course in Fortran, but those skills dont really translate to useful languages that are actually used today. The most useful thing i learned was navigating my computer using bash. Creating and deleting files, editing documents, and writing programs from the command line.<img src="/assets/jekyllreflection/homebrew.png" align="right" width="230px" />UNIX based computers do this with a “terminal” program, Windows computers have DOS and whatever they call their command line. This is basically where my knowledge ended before this program. Anyone who is looking at this post for advice, look elsewhere; I basically just banged my head against it for a couple months.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup></p>
+
+<p>Homebrew is a free open-source package manager that operates from command line on UNIX-based operating systems. It was created in 2009. I used Homebrew to install jekyll and its dependancies as well as other useful software that I didnt know existed before this. Homebrew installs into <code class="language-plaintext highlighter-rouge">/usr/local</code> by default. Hit <code class="language-plaintext highlighter-rouge">Cmd + Shift + .</code> to see otherwise hidden folders in Finder. Dont delete any of them for no reason though, apple hid them for a reason. Running</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+</code></pre></div></div>
+<p>in Terminal will install Homebrew. The <a href="https://brew.sh/">Homebrew webiste</a> contains analytics data, programs, changelogs etc. Homebrew was necessary for installing Jekyll which is the main compiler for the website. After all the programs necessary for jekyll were installed, I haven’t really used Homebrew much.</p>
+
+<h3 id="jekyll">Jekyll<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup></h3>
+
+<p>Jekyll is a program that compiles websites. It is written in Ruby by Github founder Tom Preston-Werner. A host of volunteers maintains the software, and its most stable release was 4.2.0 in 2020. Detailed instructions for its installation are on <a href="https://jekyllrb.com/docs/">their website</a>. If you are running the latest operating systems of MacOS, I think it will probably work as advertised. For the rest of us stuck in late 2015, Jekyll only works with a particular version of Ruby installed (&gt;2.5.0). Newer versions for whatever reason dont like being installed. I had issues with OpenSSH not being the right version. I don’t honestly remember what I did to get everything to install properly but forums are your friend. People with actual modern computers probably won’t have the issues I did since</p>
+
+<blockquote>
+  <p>“Jekyll requires Ruby v2.5.0 or higher. macOS Big Sur 11.x ships with Ruby 2.6.3. Check your Ruby version using ruby -v.”</p>
+</blockquote>
+
+<p>I mostly followed the instructions on the <a href="https://jekyllrb.com/docs/installation/macos/">Jekyll website</a> for the installation. Once set up, define a folder that you want to permanently be the website folder, then hit</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ gem install bundler jekyll
+$ jekyll name-of-new-website
+$ cd name-of-new-website
+$ bundle exec jekyll serve
+</code></pre></div></div>
+<p>The last line here hosts the website locally and updates every time you make a change to it. You can turn off your internet and work on it remotely. To view it in your browser go to <code class="language-plaintext highlighter-rouge">localhost:4000</code>.</p>
+
+<h3 id="github">Github</h3>
+
+<p>Now there needs to be some way to host the website. <a href="https://pages.github.com/">Github pages</a> does this for free as long as you can keep your website to under 1 gb. Github is also open-source software. I have no idea where they get money from but it doesn’t seem to be advertising. Get a Github account and then install git and any other dependancies you might need using Homebrew. What you need to do is clone a folder on your computer to a repository on Github. To get a nice URL for your website like <code class="language-plaintext highlighter-rouge">github-username.github.io</code>, create a repository of the same name. Go to the <code class="language-plaintext highlighter-rouge">pages</code> section of settings for that repo, and enable Github Pages.
+<br /></p>
+
+<p><img src="/assets/jekyllreflection/github.png" alt="fsdf" />
+<br />
+Ok, now there needs to be an easy way of updating the repo straight from your computer where you edit it. You do this by cloning a folder to your repo in terminal. Get the URL of the desired repo by hitting the <code class="language-plaintext highlighter-rouge">code</code> button on it page on Github, then in terminal</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ cd /where-you-want-site
+$ git clone URL-from-Github name-of-website-folder
+</code></pre></div></div>
+<p>Then drag and drop the contents of the other website folder into this new one. If permissions are set correctly for you to push straight onto the main branch of the repo then you can submit changes by hitting</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>$ cd /where-you-want-site
+$ git add -A
+$ git commit -m "desciption of any changes made"
+$ git push
+</code></pre></div></div>
+<p>Wait 30 minutes, and Github will be hosting your website at <code class="language-plaintext highlighter-rouge">https://github-username.github.io</code></p>
+
+<p>The other thing I did to get a jump start on the blog is to populate my empty website with one of the templates listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org/</a>. I used <a href="https://github.com/forever-jekyll/forever-jekyll">Forever Jekyll</a> as stated in the footer of this website, but this theme has its issues. I’ve definitely had to tailor it to my liking. To populate a repo, you can copy-paste the contents or fork it.</p>
+
+<h3 id="troubleshooting">Troubleshooting</h3>
+
+<p>Most of the personalization I did to the website I ‘ve been doing by trial and error. I’ll make a couple changes to the <code class="language-plaintext highlighter-rouge">_includes</code> html files and see what it does. I managed to add the <a href="https://pacificyew.github.io/TreesofBC">Trees of BC</a> navigation header which works when I host the website locally but now when I let Github Pages compile it.</p>
+
+<p>This brings me to the main troubleshooting point which is that Github Pages doesn’t do everything that you might want it to. It only hosts static sites, and any plugins you might want to add probably won’t work. If found this out the hard way by creating some really nice maps for my tree project which ended up not working because they required a plugin called leaflet. A complete list of dependancy versions for jekyll compatible with Pages is <a href="https://pages.github.com/versions/">found here</a>. To remedy the problem with the maps, I found that you could really easily make google maps with markers and then link them to a website page as such:</p>
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>&lt;iframe 
+  width="720"
+  height="500"
+  frameborder="0" style="border:0"
+  src="https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK"&gt;
+&lt;/iframe&gt;
+</code></pre></div></div>
+
+<p>This brings me to another point. Posts for jekyll are written in Markdown which is, for my purposes at least, a simplified version of html. You can take snippets of html (most of which I find by trolling forums) and put them straight into your markdown blog post. For the same of demonstration, an identical post to this one is also posted on the blog. This way, you can see which symbols do what. This post is a good example because I integrate some pictures, manipulate the text alignment, add hyperlinks and mess around with the text a bit.</p>
+
+<h3 id="plans-for-the-future">Plans for the Future</h3>
+
+<p>I want to really personalize this blog because I’m going to use it for a long time. If the <a href="https://pacificyew.github.io/TreesofBC">Trees of BC</a> wasn’t 404’ed, the information I’ve compiled during my tree project would be visible there. Its actually all written, I just can’t figure out why Pages doesn’t like it. I want a whole other page of posts to be listed on this page with a post for each variety of tree. Having one static website host two separate blogs is quite difficult and I won’t get to it any time soon, but I think it would work really well.</p>
+
+<p>I also want to spice up the visuals a bit. Right now everything is white and boring. I would love cool patterns down the margins on the sides or maybe pictures in the background.</p>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Vítor Galvão, Mike McQuaid, Synoli. (2019). “Homebrew Logo”. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>Tom Preston-Werner. (2020). “Jekyll Logo”. CC BY 4.0 <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
