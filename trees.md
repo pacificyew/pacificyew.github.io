@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: default
 title: Trees of BC
 permalink: /treesofBC
-tags: about, pacificyew
 ---
+## Trees of BC
 
 This page maintains a running list and map of the trees measured and documents in my [Big Tree Inquiry.](https://pacificyew.github.io/content/demo/2021/09/23/InquiryOutline/) It is also populated with direct quotations from "Plants of Coastal British Columbia"[^1] describing the trees included in my projects. I do not claim ownership or authorship in any form for these desriptions. The intention of these quotes is to enhance the educational qualities of this blog. I set to profit in no way from this brilliant ecological work. Note, there is error associated with the reported values below. I haven't gotten around to reporting nice numbers yet. It will be done.
 
