@@ -1,4 +1,38 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-17T14:38:39-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pacific Yew</title><subtitle>A hub for technology, photography, and trees.</subtitle><entry><title type="html">EDCI 352 - Physics and Multiliteracies</title><link href="http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1/" rel="alternate" type="text/html" title="EDCI 352 - Physics and Multiliteracies" /><published>2021-10-14T00:00:00-07:00</published><updated>2021-10-14T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1/">&lt;p&gt;&lt;img src=&quot;/assets/352ass1/a.jpg&quot; alt=&quot;Fig. 1&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-10-29T13:53:38-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pacific Yew</title><subtitle>A hub for technology, photography, and trees.</subtitle><entry><title type="html">EDCI 336</title><link href="http://localhost:4000/content/demo/2021/10/29/Small-Number/" rel="alternate" type="text/html" title="EDCI 336" /><published>2021-10-29T00:00:00-07:00</published><updated>2021-10-29T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/29/Small-Number</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/29/Small-Number/">&lt;p&gt;This post summarizes most of the ideas featured in our classes over the last few weeks.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/smallnumber/mathcatcher.jpg&quot; alt=&quot;sdf&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mathcatcher&quot;&gt;Mathcatcher&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sfu.ca/mathcatcher.html&quot;&gt;Mathcatcher&lt;/a&gt; is a math education program developped by a team of engaged professors at SFU. The motivation behind the program is to engage a wide demographic of students through indigenous storytelling. The programm does outreach and workshops at schools around Canada and has succeeded in constructing a network of math and indigenous language educators around the counrty.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-involvement-with-mathcatcher&quot;&gt;My Involvement with Mathcatcher&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/smallnumber/logo.png&quot; align=&quot;right&quot; width=&quot;340xpx&quot; /&gt;
+I am currently a research assistant for the Math department at SFU under Dr. Veselin Jungic. Veselin is effectively the father of the project and he is responsible for organizing pretty much everything. I am responsible for editing and directing the &lt;a href=&quot;https://www.sfu.ca/mathcatcher/StoriesMovies.html&quot;&gt;Mathcatcher videos&lt;/a&gt;. In particular, I have been working on the project since the beginning of this year and have produced all of the French, Spanish, a Gitxsan and a few Wet’suwet’en videos.&lt;/p&gt;
+
+&lt;h3 id=&quot;video-editing&quot;&gt;Video Editing&lt;/h3&gt;
+
+&lt;p&gt;I haven’t been posting as often as usual due to having to deal with ICBC and finding a new car which has occupied all my time. I have also been working on this exact project, so I decided that I would use it as a blog post and stone two birds at once. I employ Adobe Premiere to edit these videos and it has taken me a few years of hobby video-editing projects to get to this point. My editing involved layered masking in some circumstances to include translated titles while still preserving the original art of the video.&lt;/p&gt;
+
+&lt;p&gt;These skills can be applicable in the context of a high school classroom for example in the context of animations. In my own subject area of physics, kinematics and movemeent can be a tricky subject to teach. By demonstrating how to stop-motion animate objects moving around a screen or magazine cutouts moving around a page, students can visualize exactly what acceleration, velocity and displacement mean. To move an object you simply displace it to the desired location. To model velocity, you move the object one unit of distance every frame (or every camera exposure). For higher velocities, you can move the object larger units per frame. To model acceleration, you slowly increase or decrease the distance the object travels each frame.&lt;/p&gt;
+
+&lt;p&gt;I wanted to include an example of this old-fasshioned animating style, but unfortunately I don’t have time or space to set up my lab. In the future I might be able to post a sample. I need to find a way to embed locally hosted videos on this website first since I don’t really want to upload any of my personal work to youtube or vimeo. I feel this work is relevant to the topics of graphic design and editing that we were talking about a few weeks ago. An example of one of the videos I have helped to reate is shown below.&lt;/p&gt;
+
+&lt;div class=&quot;vimeo-wrapper&quot;&gt;
+  &lt;iframe src=&quot;https://player.vimeo.com/video/450946442&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;audio-editing&quot;&gt;Audio Editing&lt;/h3&gt;
+
+&lt;p&gt;Audio editing is also involved since some videos include soundscapes, some of which I record myself. For one video, I needed audio of a fish jumping out of the water. Since at the time I was living on Gambier island, I was able to go down to whispering creek the same day and record a salmon run which was happening at the time.&lt;/p&gt;
+
+&lt;p&gt;The most difficult audio to work with is dictation. Since most of the videos I am now dealing with are in Gitxsan and Wit’suwit’en, I have to piece together recordings of a language I barely understand. I have to say though after listening to many of these stories hundreds of times, I now have a short vocabulary in these languages.&lt;/p&gt;
+
+&lt;h3 id=&quot;cross-curricular&quot;&gt;Cross-Curricular&lt;/h3&gt;
+
+&lt;p&gt;I believe that this project is relevant to the PSII learning philosophies that the speaker outlined a couple weeks ago. In particular, that the Mathcatcher project is cross-curricular. The mathcatcher videos are a language revitalization program which really effectively veil math and logic problems. Each video contains a question at the end that students can take their time to think about. I has been motivated through storytelling, and in that way is also multi-modal. I believe that this project is proof that indigenous worldviews can be integrated into math education.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post summarizes most of the ideas featured in our classes over the last few weeks.</summary></entry><entry><title type="html">EDCI 352 - Physics and Multiliteracies</title><link href="http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1/" rel="alternate" type="text/html" title="EDCI 352 - Physics and Multiliteracies" /><published>2021-10-14T00:00:00-07:00</published><updated>2021-10-14T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1/">&lt;p&gt;&lt;img src=&quot;/assets/352ass1/a.jpg&quot; alt=&quot;Fig. 1&quot; /&gt;
 Reflection about integrating multiliteracies into physics and math classrooms&lt;/p&gt;
 
 &lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
@@ -287,7 +321,7 @@ $ git push
 
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[^1]: Vítor Galvão, Mike McQuaid, Synoli. (2019). &quot;Homebrew Logo&quot;. 
 [^2]: Tom Preston-Werner. (2020). &quot;Jekyll Logo&quot;. CC BY 4.0
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">&amp;lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot;/&amp;gt; This post is identical to the ‘Website Construction’ post, but with all the markdown script visible</summary></entry><entry><title type="html">Big Tree Inquiry - Konuckson Park</title><link href="http://localhost:4000/content/demo/2021/10/04/Inquiry2/" rel="alternate" type="text/html" title="Big Tree Inquiry - Konuckson Park" /><published>2021-10-04T00:00:00-07:00</published><updated>2021-10-04T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/04/Inquiry2</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/04/Inquiry2/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug1.JPG&quot; alt=&quot;Fig. 1&quot; /&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">&amp;lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot;/&amp;gt; This post is identical to the ‘Website Construction’ post, but with all the markdown script visible</summary></entry><entry><title type="html">Big Tree Inquiry - Konuckson Park</title><link href="http://localhost:4000/content/demo/2021/10/04/Inquiry2/" rel="alternate" type="text/html" title="Big Tree Inquiry - Konuckson Park" /><published>2021-10-04T00:00:00-07:00</published><updated>2021-10-04T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/04/Inquiry2</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/04/Inquiry2/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug1.JPG&quot; alt=&quot;sdfsdf&quot; /&gt;
 This post includes the first measurements of trees from Konuckson Park.&lt;/p&gt;
 
 &lt;h3 id=&quot;the-park&quot;&gt;The Park&lt;/h3&gt;
@@ -888,7 +922,50 @@ The Highlands municipality has their &lt;a href=&quot;https://www.highlands.ca/1
       &lt;p&gt;https://opendata.victoria.ca/ &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">A rough summary of project procedure and preliminary knowledge about local trees.</summary></entry><entry><title type="html">EDCI 336 - Open Resource Reflection</title><link href="http://localhost:4000/content/demo/2021/09/23/OpenResourceReflection/" rel="alternate" type="text/html" title="EDCI 336 - Open Resource Reflection" /><published>2021-09-23T00:00:00-07:00</published><updated>2021-09-23T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/09/23/OpenResourceReflection</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/09/23/OpenResourceReflection/">&lt;p&gt;Reflection on the use of open-source educational material online.&lt;/p&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">A rough summary of project procedure and preliminary knowledge about local trees.</summary></entry><entry><title type="html">Big Tree Inquiry - PSII Inquiry Tools</title><link href="http://localhost:4000/content/demo/2021/09/23/PSIIInquiryTools/" rel="alternate" type="text/html" title="Big Tree Inquiry - PSII Inquiry Tools" /><published>2021-09-23T00:00:00-07:00</published><updated>2021-09-23T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/09/23/PSIIInquiryTools</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/09/23/PSIIInquiryTools/">&lt;p&gt;&lt;img src=&quot;/assets/image/PSIItools.png&quot; alt=&quot;Lagdale1&quot; /&gt;
+An outline of the PSII inquiry steps applied in a walk through a local park.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-psii-inquiry-steps&quot;&gt;The PSII Inquiry Steps&lt;/h3&gt;
+
+&lt;p&gt;The Pacific School of Innovation and Inquiry has determined &lt;a href=&quot;https://learningstorm.org/inquiry-tools/&quot;&gt;steps for competency assessment&lt;/a&gt;. These steps are presented graphically below.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Starting&lt;/strong&gt;: Learner creates/co-creates a question or questions that are of a kind that will allow an inquiry or a quest to take place.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Deepening&lt;/strong&gt;: Learner takes on early research based on starting questions. May discuss with teacher and/or other learners to help flesh out ideas. Research may involve creating something or doing something besides just reading or talking. The goal is to improve the quality of the question(s) from Step 1.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Refining&lt;/strong&gt;: Learner creates new questions based on research and learning in Step 2. These could be expressed in a mind map (to show how learner got there), or just a new list of questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Planning&lt;/strong&gt;: Learner develops and plans learning activities, projects, sessions, experiences, etc. to address/explore new questions from Step 3, including timelines, assessment ideas, and resource needs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt;: Learner follows plans from Step 4, making modifications as needed. Daily and weekly work plans will reflect short-term goals. Assessment of learning will take place throughout this step. Reflection on learning is also part of this step.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;inquiry-steps-applied-to-tree-project&quot;&gt;Inquiry Steps Applied to Tree Project&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Starting&lt;/strong&gt;: I begin with the questions: “What is the biggest tree in Konuckson park?”, and “How will I find it?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Deepening&lt;/strong&gt;: I can increase my knowledge of Konuckson Park by contacting knowledge holders or finding resources regarding the history of the park. I can learn about the trees from literature. I can use GIS to hint at probable locations of trees.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Refining&lt;/strong&gt;: After some research, I now wonder: “What is the history of Konuckson Park?”, “Was the area ever cleared or human-managed?”, “How would this affect the history of the trees?”, “Where is the most probable location of a large tree?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Planning&lt;/strong&gt;: I then commit to physically exploring the partsof Konuckson park which I think would be the most likely to have large trees. Since it was a wet area, I suspect to be looking for large Cottonwoods or Cedars. The timeline and notes are recorded in this blog.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt;: After extensive searching, large trees were found. I now wonder if my research and explorations were exhaustive enough to merit moving on to a new area. I decide, my search was indeed exhaustive and continue to researching a new area (Phyllis Park). I can take what I learned from this cycle of the inquiry steps forward into future planning.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">An outline of the PSII inquiry steps applied in a walk through a local park.</summary></entry><entry><title type="html">EDCI 336 - Open Resource Reflection</title><link href="http://localhost:4000/content/demo/2021/09/23/OpenResourceReflection/" rel="alternate" type="text/html" title="EDCI 336 - Open Resource Reflection" /><published>2021-09-23T00:00:00-07:00</published><updated>2021-09-23T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/09/23/OpenResourceReflection</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/09/23/OpenResourceReflection/">&lt;p&gt;Reflection on the use of open-source educational material online.&lt;/p&gt;
 
 &lt;h3 id=&quot;favourite-open-sources-of-information&quot;&gt;Favourite Open Sources of Information&lt;/h3&gt;
 
@@ -981,64 +1058,4 @@ I’ve never taken a biology course in my life, but as I spend more time around 
       &lt;p&gt;Vancouver Park Board. Stanley Park Restoration Plan. Vancouver Park Boards and Recreation, Vancouver (2007) &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post is an outline of the free-inquiry project I will complete for EDCI 336.</summary></entry><entry><title type="html">Big Tree Inquiry - PSII Inquiry Tools</title><link href="http://localhost:4000/content/demo/2021/09/23/PSIIInquiryTools/" rel="alternate" type="text/html" title="Big Tree Inquiry - PSII Inquiry Tools" /><published>2021-09-23T00:00:00-07:00</published><updated>2021-09-23T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/09/23/PSIIInquiryTools</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/09/23/PSIIInquiryTools/">&lt;p&gt;&lt;img src=&quot;/assets/image/PSIItools.png&quot; alt=&quot;Lagdale1&quot; /&gt;
-An outline of the PSII inquiry steps applied in a walk through a local park.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-psii-inquiry-steps&quot;&gt;The PSII Inquiry Steps&lt;/h3&gt;
-
-&lt;p&gt;The Pacific School of Innovation and Inquiry has determined &lt;a href=&quot;https://learningstorm.org/inquiry-tools/&quot;&gt;steps for competency assessment&lt;/a&gt;. These steps are presented graphically below.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Starting&lt;/strong&gt;: Learner creates/co-creates a question or questions that are of a kind that will allow an inquiry or a quest to take place.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Deepening&lt;/strong&gt;: Learner takes on early research based on starting questions. May discuss with teacher and/or other learners to help flesh out ideas. Research may involve creating something or doing something besides just reading or talking. The goal is to improve the quality of the question(s) from Step 1.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Refining&lt;/strong&gt;: Learner creates new questions based on research and learning in Step 2. These could be expressed in a mind map (to show how learner got there), or just a new list of questions.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Planning&lt;/strong&gt;: Learner develops and plans learning activities, projects, sessions, experiences, etc. to address/explore new questions from Step 3, including timelines, assessment ideas, and resource needs.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt;: Learner follows plans from Step 4, making modifications as needed. Daily and weekly work plans will reflect short-term goals. Assessment of learning will take place throughout this step. Reflection on learning is also part of this step.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&quot;inquiry-steps-applied-to-tree-project&quot;&gt;Inquiry Steps Applied to Tree Project&lt;/h3&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Starting&lt;/strong&gt;: I begin with the questions: “What is the biggest tree in Konuckson park?”, and “How will I find it?”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Deepening&lt;/strong&gt;: I can increase my knowledge of Konuckson Park by contacting knowledge holders or finding resources regarding the history of the park. I can learn about the trees from literature. I can use GIS to hint at probable locations of trees.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Refining&lt;/strong&gt;: After some research, I now wonder: “What is the history of Konuckson Park?”, “Was the area ever cleared or human-managed?”, “How would this affect the history of the trees?”, “Where is the most probable location of a large tree?”&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Planning&lt;/strong&gt;: I then commit to physically exploring the partsof Konuckson park which I think would be the most likely to have large trees. Since it was a wet area, I suspect to be looking for large Cottonwoods or Cedars. The timeline and notes are recorded in this blog.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt;: After extensive searching, large trees were found. I now wonder if my research and explorations were exhaustive enough to merit moving on to a new area. I decide, my search was indeed exhaustive and continue to researching a new area (Phyllis Park). I can take what I learned from this cycle of the inquiry steps forward into future planning.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">An outline of the PSII inquiry steps applied in a walk through a local park.</summary></entry><entry><title type="html">An Introduction to Me</title><link href="http://localhost:4000/content/demo/2021/09/17/Introduction/" rel="alternate" type="text/html" title="An Introduction to Me" /><published>2021-09-17T00:00:00-07:00</published><updated>2021-09-17T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/09/17/Introduction</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/09/17/Introduction/">&lt;p&gt;&lt;img src=&quot;/assets/image/avatar.jpg&quot; alt=&quot;Fig. 1&quot; /&gt;
-This is my first official post on this blog. I have created it as part of the EDCI 336 class at UVic.&lt;/p&gt;
-
-&lt;h4 id=&quot;hello-world&quot;&gt;Hello World&lt;/h4&gt;
-
-&lt;p&gt;I have constructed this website from a template I found on &lt;a href=&quot;https://github.com/forever-jekyll/forever-jekyll&quot;&gt;Github&lt;/a&gt; using Jekyll. I don’t take credit for writing a lot of the skeleton of the website, but I’ll credit the actual authors and software developpers in the footers once I finish the skeleton.&lt;/p&gt;
-
-&lt;h4 id=&quot;about-me&quot;&gt;About Me&lt;/h4&gt;
-
-&lt;p&gt;I love trees, photography, physics and education. I believe this blog will be a good place to share these interests as well as complete the objectives for my EDCI 336 class.&lt;/p&gt;
-
-&lt;p&gt;I have opted to not use Wordpress as the platform for this project because I dont know how they handle data. I also don’t want to have to pay for my website. I hopefully will be able to use this site to host my CV, research, and cool projects in the future, so I wanted to really put the time into making something that I can own and completely control for the rest of my life.&lt;/p&gt;
-
-&lt;p&gt;I will be sharing quite a bit of my photography. I put a lot of thought into my pictures, and they’re a good demonstration of how art and science are two sides of the same coin.&lt;/p&gt;
-
-&lt;p&gt;Most of my photos relate to the natural world. Growing up in British Columbia, its difficult not to be connected to our enormous forests. I’m also really interested in climate science and modelling. Hopefully this will be a platform where I can share some ameteur studies that I’ve been planning to do for a few years.&lt;/p&gt;
-
-&lt;p&gt;Anyway, I’ll beat out the last few bugs on this website and hopefully it’ll be all smooth sailing from there.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This is my first official post on this blog. I have created it as part of the EDCI 336 class at UVic.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/image/favicon.png" /><media:content medium="image" url="http://localhost:4000/assets/image/favicon.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post is an outline of the free-inquiry project I will complete for EDCI 336.</summary></entry></feed>
