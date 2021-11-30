@@ -1,0 +1,89 @@
+I"�*<p><img src="/assets/inquiry3/queens2.jpg" align="right" width="355px" />
+This post dives into some of the history of Queens Park in New Westminster as well as summarizes measurements of the parks’ biggest trees.</p>
+
+<h3 id="the-park">The Park</h3>
+
+<h5 id="where">Where?</h5>
+
+<p>Although this original project was meant to explore forests around the Saanich peninsula, I had the chance to walk around my hometown of New West a few weeks ago and managed to take some measurements. Queens Park refers both to the neighbourhood in which I grew up and a very large area of land that is a municipal park in New Westminster. New Westminster deserves its own post in this blog just to give context to the neighbourhood.</p>
+
+<p><img src="/assets/inquiry3/queens3.svg" alt="queens" /></p>
+
+<p><img src="/assets/inquiry3/queens4.jpg" align="right" width="335px" />
+Firstly, its old. Not pre-colonial old, but fairly close to it. The town was formerly the capital of BC, and lies on the traditional territory of the Qiqéyt first nation. More about this later.</p>
+
+<p>I don’t think a more proud stronghold of proud colonial loyalists exists in such strength anywhere else in BC. That includes here in Victoria. New Westers are fanatics about where they live and relish romanticized details of what history they choose to remember. The royal engineer responsible for some of the civil planning in the town, Richard Moodie apparently ‘wanted to build a city of beauty in the wilderness’ and planned his city as an iconic visual metaphor for British dominance, ‘styled and located with the objective of reinforcing the authority of the Crown and of the robe’<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">1</a></sup>. To this end, he succeeded. The descendents of the founders of this town still largely live in New West. I was taught by some of them. Many of the attendees of New Wests Schools will be familiar with cringe-worthy manditory colonial traditions and historical hogwash that plagued our public education. The name of the city was given by Queen Victoria herself for what thats worth. Apparently, she didn’t like the name ‘Queensborough’.</p>
+
+<p>The city was built on stolen land. It was originally used by the Tsawwassen for processing fish. Ironically, this is still performed today, in a very different context. I know very little about the Tsawwassen and how they used the land I grew up on. At this point, few people do because of the political dominance of settler culture there. The BC governments ‘Geographical Names’ tool lists the region as:</p>
+
+<blockquote>
+  <p>“A place formerly inhabited by First Nations’ people, with no current population or that is usually uninhabited … An ancient Tsawwassen village site known as qiq8 (the Coast Salish spelling in 2005 draft for Tsawwassen Final Agreement), is located on the east bank of the Fraser River under todays Patullo Bridge.”</p>
+</blockquote>
+
+<p>Its safe to say that very little to none of the natural components are traditionally culturally modified. Very few trees in this region are old enough to pre-date settlement by colonial powers which occurred through the early 1800s.</p>
+
+<p>This is becoming a rant, but I made it a point of this inquiry project to examine the cultures and histories of different regions as a means of predicting where I might find the biggest trees. I swear this does have a purpose.</p>
+
+<h5 id="why">Why</h5>
+
+<p>New Westminsters’ strategic placement at the mouth of the fraser gave colonial powers control over the use of this waterway. The city had military intentions with onslaughts of American gold miners threatening the dominion of the Hudsons Bay company (in lieu of the Queen). Until 1980, it hosted the pen; a big stone prison. Next door, you would find a mental asylum for children which I promise, looks just about as horrible as it sounds. These two cheery places as well as the graveyards for their occupants are fittingly on the land originally zoned as the ‘Queens Park’.</p>
+
+<p>At the mouth of the Fraser, it was also a prime location for a resource extraction port. I was told in elementary school that visiting folks from Victoria nicknamed the town ‘stumpville’ after it was extensively logged clear in the mid 1800s. Probably not a great idea considering the steepness of the hill it was built on and the risk logging poses on landslides, but none have yet happened as far as I know.</p>
+
+<p>New Westminster was also supposed to be the terminus station for the CPR, which after some money moved around between rich land-owners downtown, came to skip New Westminster entirely. Even the highway 1 which was built in 1964 completely passes by New Westminster to its north. Knowing the attitudes of the people who live there, I can say with confidence that New West has remained a separate municipal entity intentionally. The municipal zoning around Queens park is one of a kind. ‘Heritage’ protection is violent there. The running joke is that there are only two kinds of land in New West; parks and a municipal strata.</p>
+
+<p>Theres basically only two areas; park and municipal.</p>
+
+<p>I declare without the 
+least sentimentality, I grieve and mourn the ruthless destruction of these most glorious trees. What a grand</p>
+
+<p>old Park this whole hill would make!</p>
+
+<p><img src="/assets/inquiry3/queens1.png" align="right" width="335px" /></p>
+<h5 id="when">When?</h5>
+<p>I cant for the life of me find any historical documents about the park or its previous uses. Even the Saanich Parks website doesn’t have an article about Konuckson. I resort to Provincial GIS layers to try and infer what the history of the area is. It likely isn’t accurate, but all I’m trying to do is guess where the biggest trees are so. Yeah.</p>
+
+<h5 id="what">What?</h5>
+<p>The image above is a city zoning map found on <a href="https://www.saanich.ca/EN/main/community/archives/collections-research.html">the Saanich archives.</a> It depicts the city subdivisions as cut in the year 1948. The entirety of what is now Konuckson park lies over the block of lots between Phylis, Bedford, Tudor and Minnie. These roads’ names have since changed, but what doesn’t make sense to me is where these subdivisions went. There are something like 50 lots here which somehow have become a park. More digging using government layers on <a href="https://maps.gov.bc.ca/ess/hm/imap4m/">imapsBC</a> reveals only about 10 of those original lots (the blocks south and north of the semi-circular lot 5) were turned into park. Since this was once private land, I did not expect to find anything old or big since settler landowners were privy to logging and clearing lots for agriculture.</p>
+
+<p><img src="/assets/inquiry2/Arb1.JPG" align="right" width="334px" />
+As a curious tangent, I also found an interesting layer shaded light green below through imapsBC. The dark green areas are parks with the biggest one in the center being Konuckson. The light green patches overlap privately owned lots but are nevertheless marked “Registered and Recognized historic places”. The <a href="https://catalogue.data.gov.bc.ca/dataset/a8d72ad9-2379-4d6d-9ff7-f3d0527dfb80">government data catalogue</a> describes this layer as:</p>
+
+<blockquote>
+  <p>“The Historic Environment Spatial Layer contains polygons and related attributes representing post-1846 historic places in British Columbia that are recorded on the provincial heritage register. It does not include any archaeological site information.<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">2</a></sup>”</p>
+</blockquote>
+
+<p><br />
+<img src="/assets/inquiry2/wow2.png" alt="Fig. 1" />
+Some of them actually are archaological sites, but this isn’t the place to talk about that. Most of them are “historic residences”. Other than that, its seems what were “roads” through the park no longer exist. I guess houses were never built on the Konuckson blocks, and the land in some places may be mostly undisturbed.</p>
+
+<p><img src="/assets/inquiry2/Doug2.JPG" align="right" width="340px" /></p>
+
+<h5 id="who">Who?</h5>
+<p>Judging by the way the park has been zoned historically, I expect the land management of this area to have been dominated by settlers throughout the lifespans of any trees that now live there. I know in some places, indigenous groups maintain gardens and spiritual trails to this day. I don’t know if that would be the case here considering the circumstances, but I will tread lightly. It is in a very convenient location close to Cadboro bay, and its beyond question that the area was used extensively by groups here prior to settler arrival.</p>
+
+<p>Settlers may have modified the land by clearing, burning, or introducing new species, pests and diseases into the native ecosystem here. This wouldn’t really be conducive to saving large trees.</p>
+
+<h5 id="why-1">Why?</h5>
+<p>Trees in parks generally aren’t cut down after they become parks. Its good reason to suspect that larger undisturbed areas might be found there. Also, the topographical shape of Konuckson is kind of like a bowl. It collects water, and the center of the park is quite wet; conducive to growing Cedar and Cottonwood. This is definitely an area to scout around.</p>
+
+<h3 id="what-we-found">What we Found</h3>
+<p><img src="/assets/inquiry2/Cotton1.JPG" align="right" width="340px" />
+Konuckson has many trails covering the entire park. Its hard to get lost if you know which way you want to walk. Some of the trails look maintained by the city. Others look like they were made by deer or people infrequently walking by. I don’t know what the indigenous relationship with the area is, but my girlfriend pointed out Rattlesnake everywhere in one particular area. There was a large boulder, a semi-circle of smaller boulders, and some older Arbutus. Perfect place for a campfire.</p>
+
+<p>The largest treee was easily the biggest Cottonwood I’ve ever seen right in the middle of the park where its the wettest. There are two Arbutus in one region that are about a meter across as well. The locations and measurements that we took are shown in the map below. Go check them out!</p>
+
+<iframe width="720" height="500" frameborder="0" style="border:0" src="https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK">
+</iframe>
+
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:2" role="doc-endnote">
+      <p>Scott, Laura Elaine (1983). The Imposition of British Culture as Portrayed in the New Westminster Capital Plan of 1859 to 1862. Simon Fraser University. p. 26. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:1" role="doc-endnote">
+      <p>New Westminster by TastyCakes is licensed under CC-BY-3.0 <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+:ET
