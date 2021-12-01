@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-30T13:24:51-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pacific Yew</title><subtitle>A hub for technology, photography, and trees.</subtitle><entry><title type="html">EDCI 336 - Google Earth and Forestry</title><link href="http://localhost:4000/content/demo/2021/11/30/GoogleEarth/" rel="alternate" type="text/html" title="EDCI 336 - Google Earth and Forestry" /><published>2021-11-30T00:00:00-08:00</published><updated>2021-11-30T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/30/GoogleEarth</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/30/GoogleEarth/">&lt;p&gt;&lt;img src=&quot;/assets/image/shot.png&quot; align=&quot;right&quot; width=&quot;355px&quot; /&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-12-01T11:32:15-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Pacific Yew</title><subtitle>A hub for technology, photography, and trees.</subtitle><entry><title type="html">Week 11 - Reflection</title><link href="http://localhost:4000/content/demo/2021/11/30/11GoogleEarth/" rel="alternate" type="text/html" title="Week 11 - Reflection" /><published>2021-11-30T00:00:00-08:00</published><updated>2021-11-30T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/30/11GoogleEarth</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/30/11GoogleEarth/">&lt;p&gt;&lt;img src=&quot;/assets/image/shot.png&quot; align=&quot;right&quot; width=&quot;355px&quot; /&gt;
 This post investigates some of the applications of google Earth with one contextualization in the field of Forestry. Google as a company has ethical issues, but is useful as a starting point in many investigations.&lt;/p&gt;
 
 &lt;h3 id=&quot;deforestation-in-bc&quot;&gt;Deforestation in BC&lt;/h3&gt;
@@ -22,610 +22,71 @@ This post investigates some of the applications of google Earth with one context
 &lt;iframe src=&quot;https://www.google.com/maps/d/u/0/embed?mid=18Ado9BmfH-YR5kyjhn71UJencSLYPCML&quot; width=&quot;720&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;The maximum allowable size of a small-scale community woodlot in the BC interior is 200 hectares. Again here, large companies have the right to level enormous areas within designated “Tree-Farm Licenses”.&lt;/p&gt;
-&lt;iframe src=&quot;https://www.google.com/maps/d/u/0/embed?mid=1VXRM8KcecEwdDG3s0Oak2fLa5G6KUHU2&quot; width=&quot;720&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post investigates some of the applications of google Earth with one contextualization in the field of Forestry. Google as a company has ethical issues, but is useful as a starting point in many investigations.</summary></entry><entry><title type="html">EDCI 336 - Video Editing</title><link href="http://localhost:4000/content/demo/2021/11/29/Small-Number/" rel="alternate" type="text/html" title="EDCI 336 - Video Editing" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/Small-Number</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/Small-Number/">&lt;p&gt;This post summarizes most of the ideas featured in our classes over the last few weeks.
-&lt;br /&gt;
-&lt;br /&gt;
-&lt;img src=&quot;/assets/smallnumber/mathcatcher.jpg&quot; alt=&quot;sdf&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;mathcatcher&quot;&gt;Mathcatcher&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.sfu.ca/mathcatcher.html&quot;&gt;Mathcatcher&lt;/a&gt; is a math education program developped by a team of engaged professors at SFU. The motivation behind the program is to engage a wide demographic of students through indigenous storytelling. The programm does outreach and workshops at schools around Canada and has succeeded in constructing a network of math and indigenous language educators around the counrty.&lt;/p&gt;
-
-&lt;h3 id=&quot;my-involvement-with-mathcatcher&quot;&gt;My Involvement with Mathcatcher&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/smallnumber/logo.png&quot; align=&quot;right&quot; width=&quot;340xpx&quot; /&gt;
-I am currently a research assistant for the Math department at SFU under Dr. Veselin Jungic. Veselin is effectively the father of the project and he is responsible for organizing pretty much everything. I am responsible for editing and directing the &lt;a href=&quot;https://www.sfu.ca/mathcatcher/StoriesMovies.html&quot;&gt;Mathcatcher videos&lt;/a&gt;. In particular, I have been working on the project since the beginning of this year and have produced all of the French, Spanish, a Gitxsan and a few Wet’suwet’en videos.&lt;/p&gt;
-
-&lt;h3 id=&quot;video-editing&quot;&gt;Video Editing&lt;/h3&gt;
-
-&lt;p&gt;I haven’t been posting as often as usual due to having to deal with ICBC and finding a new car which has occupied all my time. I have also been working on this exact project, so I decided that I would use it as a blog post and stone two birds at once. I employ Adobe Premiere to edit these videos and it has taken me a few years of hobby video-editing projects to get to this point. My editing involved layered masking in some circumstances to include translated titles while still preserving the original art of the video.&lt;/p&gt;
-
-&lt;p&gt;These skills can be applicable in the context of a high school classroom for example in the context of animations. In my own subject area of physics, kinematics and movemeent can be a tricky subject to teach. By demonstrating how to stop-motion animate objects moving around a screen or magazine cutouts moving around a page, students can visualize exactly what acceleration, velocity and displacement mean. To move an object you simply displace it to the desired location. To model velocity, you move the object one unit of distance every frame (or every camera exposure). For higher velocities, you can move the object larger units per frame. To model acceleration, you slowly increase or decrease the distance the object travels each frame.&lt;/p&gt;
-
-&lt;p&gt;I wanted to include an example of this old-fasshioned animating style, but unfortunately I don’t have time or space to set up my lab. In the future I might be able to post a sample. I need to find a way to embed locally hosted videos on this website first since I don’t really want to upload any of my personal work to youtube or vimeo. I feel this work is relevant to the topics of graphic design and editing that we were talking about a few weeks ago. An example of one of the videos I have helped to reate is shown below.&lt;/p&gt;
-
-&lt;div class=&quot;vimeo-wrapper&quot;&gt;
-  &lt;iframe src=&quot;https://player.vimeo.com/video/450946442&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;audio-editing&quot;&gt;Audio Editing&lt;/h3&gt;
-
-&lt;p&gt;Audio editing is also involved since some videos include soundscapes, some of which I record myself. For one video, I needed audio of a fish jumping out of the water. Since at the time I was living on Gambier island, I was able to go down to whispering creek the same day and record a salmon run which was happening at the time.&lt;/p&gt;
-
-&lt;p&gt;The most difficult audio to work with is dictation. Since most of the videos I am now dealing with are in Gitxsan and Wit’suwit’en, I have to piece together recordings of a language I barely understand. I have to say though after listening to many of these stories hundreds of times, I now have a short vocabulary in these languages.&lt;/p&gt;
-
-&lt;h3 id=&quot;cross-curricular&quot;&gt;Cross-Curricular&lt;/h3&gt;
-
-&lt;p&gt;I believe that this project is relevant to the PSII learning philosophies that the speaker outlined a couple weeks ago. In particular, that the Mathcatcher project is cross-curricular. The mathcatcher videos are a language revitalization program which really effectively veil math and logic problems. Each video contains a question at the end that students can take their time to think about. I has been motivated through storytelling, and in that way is also multi-modal. I believe that this project is proof that indigenous worldviews can be integrated into math education.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post summarizes most of the ideas featured in our classes over the last few weeks.</summary></entry><entry><title type="html">Big Tree Inquiry - Queens Park</title><link href="http://localhost:4000/content/demo/2021/11/07/Inquiry3/" rel="alternate" type="text/html" title="Big Tree Inquiry - Queens Park" /><published>2021-11-07T00:00:00-07:00</published><updated>2021-11-07T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/11/07/Inquiry3</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/07/Inquiry3/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry3/queens2.jpg&quot; align=&quot;right&quot; width=&quot;355px&quot; /&gt;
-This post dives into some of the history of Queens Park in New Westminster as well as summarizes measurements of the parks’ biggest trees.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-park&quot;&gt;The Park&lt;/h3&gt;
-
-&lt;h5 id=&quot;where&quot;&gt;Where?&lt;/h5&gt;
-
-&lt;p&gt;Although this original project was meant to explore forests around the Saanich peninsula, I had the chance to walk around my hometown of New West a few weeks ago and managed to take some measurements. Queens Park refers both to the neighbourhood in which I grew up and a very large area of land that is a municipal park in New Westminster. New Westminster deserves its own post in this blog just to give context to the neighbourhood.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry3/queens3.svg&quot; alt=&quot;queens&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry3/queens4.jpg&quot; align=&quot;right&quot; width=&quot;335px&quot; /&gt;
-Firstly, its old. Not pre-colonial old, but fairly close to it. The town was formerly the capital of BC, and lies on the traditional territory of the Qiqéyt first nation. More about this later.&lt;/p&gt;
-
-&lt;p&gt;I don’t think a more proud stronghold of proud colonial loyalists exists in such strength anywhere else in BC. That includes here in Victoria. New Westers are fanatics about where they live and relish romanticized details of what history they choose to remember. The royal engineer responsible for some of the civil planning in the town, Richard Moodie apparently ‘wanted to build a city of beauty in the wilderness’ and planned his city as an iconic visual metaphor for British dominance, ‘styled and located with the objective of reinforcing the authority of the Crown and of the robe’&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. To this end, he succeeded. The descendents of the founders of this town still largely live in New West. I was taught by some of them. Many of the attendees of New Wests Schools will be familiar with cringe-worthy manditory colonial traditions and historical hogwash that plagued our public education. The name of the city was given by Queen Victoria herself for what thats worth. Apparently, she didn’t like the name ‘Queensborough’.&lt;/p&gt;
-
-&lt;p&gt;The city was built on stolen land. It was originally used by the Tsawwassen for processing fish. Ironically, this is still performed today, in a very different context. I know very little about the Tsawwassen and how they used the land I grew up on. At this point, few people do because of the political dominance of settler culture there. The BC governments ‘Geographical Names’ tool lists the region as:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“A place formerly inhabited by First Nations’ people, with no current population or that is usually uninhabited … An ancient Tsawwassen village site known as qiq8 (the Coast Salish spelling in 2005 draft for Tsawwassen Final Agreement), is located on the east bank of the Fraser River under todays Patullo Bridge.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Its safe to say that very little to none of the natural components are traditionally culturally modified. Very few trees in this region are old enough to pre-date settlement by colonial powers which occurred through the early 1800s.&lt;/p&gt;
-
-&lt;p&gt;This is becoming a rant, but I made it a point of this inquiry project to examine the cultures and histories of different regions as a means of predicting where I might find the biggest trees. I swear this does have a purpose.&lt;/p&gt;
-
-&lt;h5 id=&quot;why&quot;&gt;Why&lt;/h5&gt;
-
-&lt;p&gt;New Westminsters’ strategic placement at the mouth of the fraser gave colonial powers control over the use of this waterway. The city had military intentions with onslaughts of American gold miners threatening the dominion of the Hudsons Bay company (in lieu of the Queen). Until 1980, it hosted the pen; a big stone prison. Next door, you would find a mental asylum for children which I promise, looks just about as horrible as it sounds. These two cheery places as well as the graveyards for their occupants are fittingly on the land originally zoned as the ‘Queens Park’.&lt;/p&gt;
-
-&lt;p&gt;At the mouth of the Fraser, it was also a prime location for a resource extraction port. I was told in elementary school that visiting folks from Victoria nicknamed the town ‘stumpville’ after it was extensively logged clear in the mid 1800s. Probably not a great idea considering the steepness of the hill it was built on and the risk logging poses on landslides, but none have yet happened as far as I know.&lt;/p&gt;
-
-&lt;p&gt;New Westminster was also supposed to be the terminus station for the CPR, which after some money moved around between rich land-owners downtown, came to skip New Westminster entirely. Even the highway 1 which was built in 1964 completely passes by New Westminster to its north. Knowing the attitudes of the people who live there, I can say with confidence that New West has remained a separate municipal entity intentionally. The municipal zoning around Queens park is one of a kind. ‘Heritage’ protection is violent there. The running joke is that there are only two kinds of land in New West; parks and a municipal strata.&lt;/p&gt;
-
-&lt;p&gt;Theres basically only two areas; park and municipal.&lt;/p&gt;
-
-&lt;p&gt;I declare without the 
-least sentimentality, I grieve and mourn the ruthless destruction of these most glorious trees. What a grand&lt;/p&gt;
-
-&lt;p&gt;old Park this whole hill would make!&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry3/queens1.png&quot; align=&quot;right&quot; width=&quot;335px&quot; /&gt;&lt;/p&gt;
-&lt;h5 id=&quot;when&quot;&gt;When?&lt;/h5&gt;
-&lt;p&gt;I cant for the life of me find any historical documents about the park or its previous uses. Even the Saanich Parks website doesn’t have an article about Konuckson. I resort to Provincial GIS layers to try and infer what the history of the area is. It likely isn’t accurate, but all I’m trying to do is guess where the biggest trees are so. Yeah.&lt;/p&gt;
-
-&lt;h5 id=&quot;what&quot;&gt;What?&lt;/h5&gt;
-&lt;p&gt;The image above is a city zoning map found on &lt;a href=&quot;https://www.saanich.ca/EN/main/community/archives/collections-research.html&quot;&gt;the Saanich archives.&lt;/a&gt; It depicts the city subdivisions as cut in the year 1948. The entirety of what is now Konuckson park lies over the block of lots between Phylis, Bedford, Tudor and Minnie. These roads’ names have since changed, but what doesn’t make sense to me is where these subdivisions went. There are something like 50 lots here which somehow have become a park. More digging using government layers on &lt;a href=&quot;https://maps.gov.bc.ca/ess/hm/imap4m/&quot;&gt;imapsBC&lt;/a&gt; reveals only about 10 of those original lots (the blocks south and north of the semi-circular lot 5) were turned into park. Since this was once private land, I did not expect to find anything old or big since settler landowners were privy to logging and clearing lots for agriculture.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Arb1.JPG&quot; align=&quot;right&quot; width=&quot;334px&quot; /&gt;
-As a curious tangent, I also found an interesting layer shaded light green below through imapsBC. The dark green areas are parks with the biggest one in the center being Konuckson. The light green patches overlap privately owned lots but are nevertheless marked “Registered and Recognized historic places”. The &lt;a href=&quot;https://catalogue.data.gov.bc.ca/dataset/a8d72ad9-2379-4d6d-9ff7-f3d0527dfb80&quot;&gt;government data catalogue&lt;/a&gt; describes this layer as:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The Historic Environment Spatial Layer contains polygons and related attributes representing post-1846 historic places in British Columbia that are recorded on the provincial heritage register. It does not include any archaeological site information.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/inquiry2/wow2.png&quot; alt=&quot;Fig. 1&quot; /&gt;
-Some of them actually are archaological sites, but this isn’t the place to talk about that. Most of them are “historic residences”. Other than that, its seems what were “roads” through the park no longer exist. I guess houses were never built on the Konuckson blocks, and the land in some places may be mostly undisturbed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug2.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;who&quot;&gt;Who?&lt;/h5&gt;
-&lt;p&gt;Judging by the way the park has been zoned historically, I expect the land management of this area to have been dominated by settlers throughout the lifespans of any trees that now live there. I know in some places, indigenous groups maintain gardens and spiritual trails to this day. I don’t know if that would be the case here considering the circumstances, but I will tread lightly. It is in a very convenient location close to Cadboro bay, and its beyond question that the area was used extensively by groups here prior to settler arrival.&lt;/p&gt;
-
-&lt;p&gt;Settlers may have modified the land by clearing, burning, or introducing new species, pests and diseases into the native ecosystem here. This wouldn’t really be conducive to saving large trees.&lt;/p&gt;
-
-&lt;h5 id=&quot;why-1&quot;&gt;Why?&lt;/h5&gt;
-&lt;p&gt;Trees in parks generally aren’t cut down after they become parks. Its good reason to suspect that larger undisturbed areas might be found there. Also, the topographical shape of Konuckson is kind of like a bowl. It collects water, and the center of the park is quite wet; conducive to growing Cedar and Cottonwood. This is definitely an area to scout around.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-we-found&quot;&gt;What we Found&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Cotton1.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;
-Konuckson has many trails covering the entire park. Its hard to get lost if you know which way you want to walk. Some of the trails look maintained by the city. Others look like they were made by deer or people infrequently walking by. I don’t know what the indigenous relationship with the area is, but my girlfriend pointed out Rattlesnake everywhere in one particular area. There was a large boulder, a semi-circle of smaller boulders, and some older Arbutus. Perfect place for a campfire.&lt;/p&gt;
-
-&lt;p&gt;The largest treee was easily the biggest Cottonwood I’ve ever seen right in the middle of the park where its the wettest. There are two Arbutus in one region that are about a meter across as well. The locations and measurements that we took are shown in the map below. Go check them out!&lt;/p&gt;
-
-&lt;iframe width=&quot;720&quot; height=&quot;500&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Scott, Laura Elaine (1983). The Imposition of British Culture as Portrayed in the New Westminster Capital Plan of 1859 to 1862. Simon Fraser University. p. 26. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;New Westminster by TastyCakes is licensed under CC-BY-3.0 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post dives into some of the history of Queens Park in New Westminster as well as summarizes measurements of the parks’ biggest trees.</summary></entry><entry><title type="html">Big Tree Inquiry - Queens Park</title><link href="http://localhost:4000/content/demo/2021/10/17/Inquiry3/" rel="alternate" type="text/html" title="Big Tree Inquiry - Queens Park" /><published>2021-10-17T00:00:00-07:00</published><updated>2021-10-17T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/17/Inquiry3</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/17/Inquiry3/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry3/queens1.png&quot; align=&quot;right&quot; width=&quot;335px&quot; /&gt;
-This post dives into some of the history of Queens Park in New Westminster as well as summarizes measurements of the parks’ biggest trees.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-park&quot;&gt;The Park&lt;/h3&gt;
-
-&lt;h5 id=&quot;where&quot;&gt;Where?&lt;/h5&gt;
-&lt;p&gt;Although this original project was meant to explore forests around the Saanich peninsula, I had the chance to walk around my hometown of New West a few weeks ago and managed to take some measurements. Queens Park refers both to the neighbourhood in which I grew up and a very large area of land that is a municipal park in New Westminster&lt;/p&gt;
-
-&lt;h5 id=&quot;when&quot;&gt;When?&lt;/h5&gt;
-&lt;p&gt;I cant for the life of me find any historical documents about the park or its previous uses. Even the Saanich Parks website doesn’t have an article about Konuckson. I resort to Provincial GIS layers to try and infer what the history of the area is. It likely isn’t accurate, but all I’m trying to do is guess where the biggest trees are so. Yeah.&lt;/p&gt;
-
-&lt;h5 id=&quot;what&quot;&gt;What?&lt;/h5&gt;
-&lt;p&gt;The image above is a city zoning map found on &lt;a href=&quot;https://www.saanich.ca/EN/main/community/archives/collections-research.html&quot;&gt;the Saanich archives.&lt;/a&gt; It depicts the city subdivisions as cut in the year 1948. The entirety of what is now Konuckson park lies over the block of lots between Phylis, Bedford, Tudor and Minnie. These roads’ names have since changed, but what doesn’t make sense to me is where these subdivisions went. There are something like 50 lots here which somehow have become a park. More digging using government layers on &lt;a href=&quot;https://maps.gov.bc.ca/ess/hm/imap4m/&quot;&gt;imapsBC&lt;/a&gt; reveals only about 10 of those original lots (the blocks south and north of the semi-circular lot 5) were turned into park. Since this was once private land, I did not expect to find anything old or big since settler landowners were privy to logging and clearing lots for agriculture.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Arb1.JPG&quot; align=&quot;right&quot; width=&quot;334px&quot; /&gt;
-As a curious tangent, I also found an interesting layer shaded light green below through imapsBC. The dark green areas are parks with the biggest one in the center being Konuckson. The light green patches overlap privately owned lots but are nevertheless marked “Registered and Recognized historic places”. The &lt;a href=&quot;https://catalogue.data.gov.bc.ca/dataset/a8d72ad9-2379-4d6d-9ff7-f3d0527dfb80&quot;&gt;government data catalogue&lt;/a&gt; describes this layer as:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The Historic Environment Spatial Layer contains polygons and related attributes representing post-1846 historic places in British Columbia that are recorded on the provincial heritage register. It does not include any archaeological site information.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/inquiry2/wow2.png&quot; alt=&quot;Fig. 1&quot; /&gt;
-Some of them actually are archaological sites, but this isn’t the place to talk about that. Most of them are “historic residences”. Other than that, its seems what were “roads” through the park no longer exist. I guess houses were never built on the Konuckson blocks, and the land in some places may be mostly undisturbed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug2.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;&lt;/p&gt;
-&lt;h5 id=&quot;who&quot;&gt;Who?&lt;/h5&gt;
-&lt;p&gt;Judging by the way the park has been zoned historically, I expect the land management of this area to have been dominated by settlers throughout the lifespans of any trees that now live there. I know in some places, indigenous groups maintain gardens and spiritual trails to this day. I don’t know if that would be the case here considering the circumstances, but I will tread lightly. It is in a very convenient location close to Cadboro bay, and its beyond question that the area was used extensively by groups here prior to settler arrival.&lt;/p&gt;
-
-&lt;p&gt;Settlers may have modified the land by clearing, burning, or introducing new species, pests and diseases into the native ecosystem here. This wouldn’t really be conducive to saving large trees.&lt;/p&gt;
-
-&lt;h5 id=&quot;why&quot;&gt;Why?&lt;/h5&gt;
-&lt;p&gt;Trees in parks generally aren’t cut down after they become parks. Its good reason to suspect that larger undisturbed areas might be found there. Also, the topographical shape of Konuckson is kind of like a bowl. It collects water, and the center of the park is quite wet; conducive to growing Cedar and Cottonwood. This is definitely an area to scout around.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-we-found&quot;&gt;What we Found&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Cotton1.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;
-Konuckson has many trails covering the entire park. Its hard to get lost if you know which way you want to walk. Some of the trails look maintained by the city. Others look like they were made by deer or people infrequently walking by. I don’t know what the indigenous relationship with the area is, but my girlfriend pointed out Rattlesnake everywhere in one particular area. There was a large boulder, a semi-circle of smaller boulders, and some older Arbutus. Perfect place for a campfire.&lt;/p&gt;
-
-&lt;p&gt;The largest treee was easily the biggest Cottonwood I’ve ever seen right in the middle of the park where its the wettest. There are two Arbutus in one region that are about a meter across as well. The locations and measurements that we took are shown in the map below. Go check them out!&lt;/p&gt;
-
-&lt;iframe width=&quot;720&quot; height=&quot;500&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Theresa McFarland, “Historic Environment Spatial Layer”  2018-05-08 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post dives into some of the history of Queens Park in New Westminster as well as summarizes measurements of the parks’ biggest trees.</summary></entry><entry><title type="html">EDCI 352 - Physics and Multiliteracies</title><link href="http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1/" rel="alternate" type="text/html" title="EDCI 352 - Physics and Multiliteracies" /><published>2021-10-14T00:00:00-07:00</published><updated>2021-10-14T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/14/EDCI352-Assignment1/">&lt;p&gt;&lt;img src=&quot;/assets/352ass1/a.jpg&quot; alt=&quot;Fig. 1&quot; /&gt;
-Reflection about integrating multiliteracies into physics and math classrooms&lt;/p&gt;
-
-&lt;h3 id=&quot;introduction&quot;&gt;Introduction&lt;/h3&gt;
-
-&lt;p&gt;This post is an exploration of literacy events that occurred during my observations at Esquimalt high school. In this reflection, I describe how my views on my fields of math and physics have become increasingly critical as I learn more of the multiliteracies methodology. Even after the shift to a more holistic curriculum, present math and physics teachers and professors struggle to acknowledge that they are teaching a language. Appealing to very narrow perceptions of literacy in these topics, modern students are exposed to exorbitant amounts of rigid content. Explication is overwhelmingly performed through the single medium of lecture, and assessment though standardized exams. I later evaluate the difference between literacy and multiliteracies focusing on what modern physics and math literacy looks like. I then construct a working definition of multiliteracies and describe how I would incorporate the methodologies into my own classroom.&lt;/p&gt;
-
-&lt;h3 id=&quot;physics-is-a-language&quot;&gt;Physics is a Language&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/meme1.jpg&quot; align=&quot;right&quot; width=&quot;370px&quot; /&gt;
-When meeting new people, I have noticed that individuals mostly refer to their education or occupations as means to quickly define theirselves. Your major or job can suggest a lot about you in a very brief time; your interests, political ideologies, culture, and beyond. Piaget might suggest this is because people can quickly associate a new name and face with their pre-concieved schema of your position&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. Unfortunately, the reputation commonly attributed to my academic subject area is of an introverted lab dweller, someone who “does” math, or else a person who translates code. I am a physicist, and whenever I tell people this I am reminded that the same characterization that repels many students from math and science also afflicts my first impressions on potential new friends. This very common perception of physics underlines a systemic problem within education; physics and math are inaccessible fields of knowledge.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/b.jpg&quot; alt=&quot;Fig. 3&quot; /&gt;
-A string of literacy events has helped me understand from where these perceptions of the field originate, how systemic elitism and abuse within the fields propagate inaccessibility of knowledge, and how these issues can be mitigated by multiliteracies teaching practices. At Esquimalt, I have met a teacher whose teaching style matches that of most of my own mentors. “Stand and deliver” a heavily regimented dose of rules to associate with previously learned rules. This is done through the form of a lecture during which students take notes. The individual I observed appeals to a “singular” and “emphatic” view of mathematical literacy which, to quote Cope and Kalantzis (2015), means they&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“accommodate the modern insistence that everyone has at least ‘basic’ levels of competency” and that it “is presented as a single, official or standard form.”&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/c.jpg&quot; align=&quot;right&quot; width=&quot;360px&quot; /&gt;
-Most subject areas in high school have undergone a transition; students no longer obtain a “literacy”, but “Multiliteracies”. This transition is marked by cross-curricular studies, multi-modal assessment strategies, various forms of expression and other qualities pertaining to global and malleable ways of knowing. Physics and math lag behind most other subjects in terms of this transition. I say this with confidence from the perspective of a physics student who has taken over 100 courses in the subject, and as an observer of current science teachers at Esquimalt. One factor slowing this transition could be that mathematicians and physicists refuse to regard their discipline as a language, or that doing so is somehow an attack on the objectivity of the “truth” communicated in their topics.&lt;/p&gt;
-
-&lt;p&gt;Physics and math are languages. They are modes of communication, and I learned them in the exact same way I would any other language. When learning French, I started with a dictionary to help me translate. I learned verb conjugations, sentence structures and other rules that preface speaking, reading and writing. Obviously, many of these processes were combined to expedite the process but thats the point.&lt;/p&gt;
-
-&lt;p&gt;Math and physics are learned through english. Each term or expression has an analogous english translation. In fact, most “natural philosophy” from Aristotle through to Newtons papers on calculus are written almost completely in languages other than math. Math is a set of very complicated statements in English summarized in a very short form. Admitting this precludes nothing about the power this language has to summarize logic and to motivate and predict physical observations. We learn the rules of the language, its structure and symbols, but this process is divorced completely from speaking and storytelling. Paul Lockhart (2009) captures this perfectly in “A Mathematicians Lament”:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Meanwhile, on the other side of town, a painter has just awakened from a similar 
-nightmare… I was surprised to find myself in a regular school classroom — no  easels, no tubes of  paint. “Oh  we  don’t  actually  apply  paint  until  high  school,” I was told by the  students. “In  seventh grade we mostly study colors and applicators.” They showed me a worksheet. On one side were swatches of color with blank spaces next to them. They were told to write in the names. “I like painting,” one of them remarked, “they tell me what to do and I do it. It’s easy!”&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/d.jpg&quot; alt=&quot;Fig. 5&quot; /&gt;&lt;/p&gt;
-
-&lt;h3 id=&quot;what-does-literacy-in-physics-currently-look-like&quot;&gt;What Does Literacy in Physics Currently Look Like?&lt;/h3&gt;
-
-&lt;p&gt;At every level of academia, practitioners of mathematics and physics propagate a narrative that their subjects are only expressible through a single medium and can be understood only by a particular type of individual. This is congruent with the original intention of industrialized public education. Before the mid-1990s, the level of education one achieved and rate of acceptance into the work force were closely related. As Anstey and Bull (2018) remark,&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“If jobs are for life, then the set of 
-communication skills and knowledge necessary for those jobs is finite and 
-identifiable.”&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Physics literacy is then the basic knowledge of certain rules and applications of math that have been canonized by institutions for the sake of quickly efficiently propelling learners into the work force.&lt;/p&gt;
-
-&lt;p&gt;With the adoption of new technologies, education levels now have less bearing on job prospects since many professions are completely automated. The focus of education has now shifted towards a model that produces versatile critical thinkers who can adapt to a wider range of disciplines. In physics and math, the BC curriculum has now been adjusted to allow for holistic “multiliteracies” teaching styles. However, as far as I have observed, the adoption of this new curriculum and the opportunities it presents have very negligibly been adopted by physics teachers at any level of education.
-&lt;img src=&quot;/assets/352ass1/cur.png&quot; align=&quot;right&quot; width=&quot;350px&quot; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;understandings&quot;&gt;Understandings&lt;/h5&gt;
-
-&lt;p&gt;The BC physics curriculum (2021) is outlined by 3 components: “understandings”, “competencies” and “content”. Understandings are the 3 or 4 main big ideas of each course. For Physics 12, one big idea is that&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“Forces can cause linear and circular motion.”&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;From the perspective of a physics teacher attempting to adopt a holistic approach to teaching, summarizing the big ideas of each course is useful since it helps plan the time allotted to each segment of the course. It also gives suggestion towards free-inquiry projects which are useful for harnessing the unique learning qualities of each student.&lt;/p&gt;
-
-&lt;h5 id=&quot;core-competencies&quot;&gt;Core Competencies&lt;/h5&gt;
-
-&lt;p&gt;Instead of assuming students are a bank of knowledge that can be filled with content, assessment now appeals to social constructivism. Under Lev Vygotskys&lt;sup id=&quot;fnref:1:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; model, the social interactions of a student with their peers or teacher play a crucial role in their learning. The BC curriculum core competencies refer to the soft skills students gain by participating in class. Teachers are legally obligated to focus on developing these competencies. They should be more important to an educator than the content itself since they are intended to set the standards by which students are adjudicated. For Physics 12, one core competency is&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“Processing and analyzing data and information; apply First Peoples perspectives and knowledge, other ways of knowing, and local knowledge as sources of information.”&lt;sup id=&quot;fnref:5:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Shifting the assessment from students’ knowledge of content to their competencies is a major step for multiliteracies education. By developing students’ soft skills using content to guide exploration, learners gain a larger tool-set they can use to acquire and transmit knowledge. Taking the time to hook students, harness their creativity, and allowing them to express their selves through many modes of communication is what will persuade them to dig deeper into the content of a subject.&lt;/p&gt;
-
-&lt;h5 id=&quot;content&quot;&gt;Content&lt;/h5&gt;
-
-&lt;p&gt;The content of the BC curriculum is like the skeleton of a course. It is necessary as a tool for scaffolding the students’ competencies. However, bones alone are no body of their own. Only combined with the “competencies” and “understandings” can a holistic course outline be produced. Under a multiliteracies approach to teaching, content and curriculum are separate and distinct. Instead of running a perpetual circuit of explicating an unchanging textbook, this new curriculum forces teachers to account for a diversity of constantly changing perspectives. “Content” here is simply the list of things students should know. For Physics 12, one piece of content is&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“uniform circular motion: centripetal force and acceleration … changes to apparent weight.”&lt;sup id=&quot;fnref:5:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h5 id=&quot;aversion-to-change&quot;&gt;Aversion to Change&lt;/h5&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/e.jpg&quot; align=&quot;right&quot; width=&quot;350px&quot; /&gt;
-Although the new curriculum provides an impetus for teachers to present math and physics as languages, my experience at Esquimalt has shown me that it does nothing to force mentors to change their practice. In particular, the topic of “transformations” was being taught in a Pre-Calculus 12 class I was observing. The teacher presented it the exact same way that I had been taught ages ago. The new curriculum specifies very little of the content that this individual was teaching, so why not take that opportunity to present the content in ways that more effectively reached the audience? If a teacher can walk into a classroom and teach math in the exact same way one might have done a century ago without backlash suggests to me that the institutionalized definition of “physics literacy” needs to be changed.&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/7fw49NqiTQw&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;h3 id=&quot;multiliteracies-in-physics&quot;&gt;Multiliteracies in Physics&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/f.jpg&quot; align=&quot;right&quot; width=&quot;375px&quot; /&gt;
-Until this point, I have used the terms “multiliteracies” and “holistic learning” interchangeably. The word holistic implies inclusiveness; consideration of otherwise disparate ideas. “Multiliteracies”, as opposed to “literacy” refers to a teaching style that incorporates many perspectives on a topic, encourages critical thinking and accounts for multiple modalities of expression and learning. This view on teaching aligns with my drive to present math and physics as languages. Considering all techniques, exercises and projects I have seen used in an English or French class, the possibilities for multiliteracies in physics education now seem endless. Gibberish in math can be intentional. Language does not need to communicate logical statements. In “The Jabberwocky” Lewis Carroll uses this as a literary technique:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;&lt;img src=&quot;/assets/352ass1/g.jpg&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;
-“’Twas brillig, and the slithy toves          &lt;br /&gt;Did gyre and gimble in the wabe:       &lt;br /&gt;All mimsy were the borogoves,       &lt;br /&gt;And the mome raths outgrabe…”&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;As a multiliteracies teacher, I would incorporate a more social constructivist model in my classroom. Starting with the premise that math is a language, I plan to use inquiry-based learning, indigenous ways of knowing, collaborative projects, and assessments incorporating creative and critical thinking to devlop students’ competencies and understandings. If components of content act as vehicles to scaffold learning rather than structure it, students have more flexibility to explore topics in math that interest them. By working collaboratively, I would argue with the research of Vygotsky and Piaget behind me, that students learn more effectively. The rate at which I would present material would be tailored to the progress of the class, not the size of a textbook. This ensures content stays within their zone of proximal development. Without the race against time to cover enormous contents, students have the chance to internalize and reflect on their learning as well.&lt;/p&gt;
-
-&lt;p&gt;The claims that physics and math can only be taught through a single medium and can only be learned by specific people are both fallacies. Universities and high school administration are struggling to determine why the disciplines of math and physics are so heavily dominated by white economically stable men. I believe it is because these fields do not accommodate multiliteracies. Only the most privileged and economically stable individuals skilled at responding to standardized exams are able to survive high attrition rates of physics and math programs. Students responsible for caring for family, those who work, and those who cant effectively demonstrate their knowledge through prescribed standardized exams statistically do not graduate. Only a specific demographic of people can accumulate the advantages needed to get through their programs, and proceed to employ the same teaching strategies on the next generation of students. Of all the science teachers I asked at Esquimalt, none of them knew how to incorporate indigenous ways of knowing into their classrooms. The teacher who sparked my idea for this post effectively said that math is by nature not an indigenous creation and therefore was not eligible to be indigenized. Those who have survived the high attrition rate of that particular Pre-Calculus 12 course already fit the alarming demographic that composes our universities.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/i.jpg&quot; align=&quot;right&quot; width=&quot;375px&quot; /&gt;
-I now introduce myself as a “theoretical linguist” because I don’t want to be associated with the inaccessible fields that are physics and math. By addressing the way physics and math are taught, and modernizing them to account for multiliteracies, I believe much of the discrimination and elitism endemic to these fields would disappear. It is time for teachers in this field to Ted Aokis view that&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“education is not a journey, rather to be educated means to travel with a different view”&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h3 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h3&gt;
-
-&lt;p&gt;There are three main understandings I have derived from this reflection activity. Firstly, teaching physics and math as languages is a technique much more conducive to integrating multiliteracies methodologies. Math is more than a collection of rules, and just like any language can be manipulated for artistic purposes. Secondly, integrating a multiliteracies methodology could have the effect of enhancing the learning experience for students. A more diverse demographic of students is likely to participate in a class that allows many modes of expression, collaboration, and creative inquiry-based assessment. Thirdly, and most importantly, integrating a more holistic teaching style within classrooms will help dissolve institutionalized elitism and discrimination which have ultimately always defined the fields of physics and math. Students empowered to use math to tell stories, to model their cultural traditions, and to otherwise communicate will be amazing scientists. Making these fields accessible to a demographic of people previously barred from research, academia may be exposed to perspectives never before considered. Math and physics require creativity, otherwise they would never change. I look forward to meeting theoretical linguists like myself who also want to change the way we interact with math as a society.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/352ass1/h.jpg&quot; alt=&quot;Fig. 5&quot; /&gt;&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Hoy, A. W. (2020). &lt;em&gt;Educational psychology&lt;/em&gt;. Pearson. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:1:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Cope, B., &amp;amp; Kalantzis, M. (2015). &lt;em&gt;A pedagogy of multiliteracies: Learning by design&lt;/em&gt;. Palgrave Macmillan. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Lockhart, P. (2009). &lt;em&gt;A mathematician’s lament&lt;/em&gt;. Bellevue Literary Press. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Anstey Michèle, &amp;amp; Bull, G. (2018). &lt;em&gt;Foundations of multiliteracies: Reading, writing and talking in the 21st Century&lt;/em&gt;. Routledge. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Government of British Columbia. (2021). &lt;em&gt;Physics 12&lt;/em&gt;. Building student success - B.C. curriculum. Retrieved October 15, 2021, from https://curriculum.gov.bc.ca/curriculum/science/12/physics. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt; &lt;a href=&quot;#fnref:5:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; &lt;a href=&quot;#fnref:5:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Lucasfilm. (1981). &lt;em&gt;Empire strikes back.&lt;/em&gt; &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Carroll, L., &amp;amp; Tenniel, J. (1933). &lt;em&gt;The collected verse of Lewis Carroll&lt;/em&gt;. The Macmillan Company. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Carson, T. (2012, October 9). &lt;em&gt;Faculty of Education Magazine&lt;/em&gt;. Illuminate. Retrieved October 15, 2021, from https://illuminate.ualberta.ca/content/tribute-dr-ted-aoki-1919-2012. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">Reflection about integrating multiliteracies into physics and math classrooms</summary></entry><entry><title type="html">EDCI 336 - Website Construction</title><link href="http://localhost:4000/content/demo/2021/10/13/Jekyll-Reflection/" rel="alternate" type="text/html" title="EDCI 336 - Website Construction" /><published>2021-10-13T00:00:00-07:00</published><updated>2021-10-13T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/13/Jekyll-Reflection</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/13/Jekyll-Reflection/">&lt;p&gt;&lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot; /&gt;
-This website is no longer in its infancy. This post outlines the process by which I created this blog.&lt;/p&gt;
-
-&lt;h3 id=&quot;homebrew&quot;&gt;Homebrew&lt;/h3&gt;
-
-&lt;p&gt;I don’t really have much coding experience. Most of my data crunching was done in MATLAB in my undergrad. I had a course in Fortran, but those skills dont really translate to useful languages that are actually used today. The most useful thing i learned was navigating my computer using bash. Creating and deleting files, editing documents, and writing programs from the command line.&lt;img src=&quot;/assets/jekyllreflection/homebrew.png&quot; align=&quot;right&quot; width=&quot;230px&quot; /&gt;UNIX based computers do this with a “terminal” program, Windows computers have DOS and whatever they call their command line. This is basically where my knowledge ended before this program. Anyone who is looking at this post for advice, look elsewhere; I basically just banged my head against it for a couple months.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Homebrew is a free open-source package manager that operates from command line on UNIX-based operating systems. It was created in 2009. I used Homebrew to install jekyll and its dependancies as well as other useful software that I didnt know existed before this. Homebrew installs into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/usr/local&lt;/code&gt; by default. Hit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Cmd + Shift + .&lt;/code&gt; to see otherwise hidden folders in Finder. Dont delete any of them for no reason though, apple hid them for a reason. Running&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;in Terminal will install Homebrew. The &lt;a href=&quot;https://brew.sh/&quot;&gt;Homebrew webiste&lt;/a&gt; contains analytics data, programs, changelogs etc. Homebrew was necessary for installing Jekyll which is the main compiler for the website. After all the programs necessary for jekyll were installed, I haven’t really used Homebrew much.&lt;/p&gt;
-
-&lt;h3 id=&quot;jekyll&quot;&gt;Jekyll&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
-
-&lt;p&gt;Jekyll is a program that compiles websites. It is written in Ruby by Github founder Tom Preston-Werner. A host of volunteers maintains the software, and its most stable release was 4.2.0 in 2020. Detailed instructions for its installation are on &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;their website&lt;/a&gt;. If you are running the latest operating systems of MacOS, I think it will probably work as advertised. For the rest of us stuck in late 2015, Jekyll only works with a particular version of Ruby installed (&amp;gt;2.5.0). Newer versions for whatever reason dont like being installed. I had issues with OpenSSH not being the right version. I don’t honestly remember what I did to get everything to install properly but forums are your friend. People with actual modern computers probably won’t have the issues I did since&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Jekyll requires Ruby v2.5.0 or higher. macOS Big Sur 11.x ships with Ruby 2.6.3. Check your Ruby version using ruby -v.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I mostly followed the instructions on the &lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot;&gt;Jekyll website&lt;/a&gt; for the installation. Once set up, define a folder that you want to permanently be the website folder, then hit&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ gem install bundler jekyll
-$ jekyll name-of-new-website
-$ cd name-of-new-website
-$ bundle exec jekyll serve
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;The last line here hosts the website locally and updates every time you make a change to it. You can turn off your internet and work on it remotely. To view it in your browser go to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt;.&lt;/p&gt;
-
-&lt;h3 id=&quot;github&quot;&gt;Github&lt;/h3&gt;
-
-&lt;p&gt;Now there needs to be some way to host the website. &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github pages&lt;/a&gt; does this for free as long as you can keep your website to under 1 gb. Github is also open-source software. I have no idea where they get money from but it doesn’t seem to be advertising. Get a Github account and then install git and any other dependancies you might need using Homebrew. What you need to do is clone a folder on your computer to a repository on Github. To get a nice URL for your website like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github-username.github.io&lt;/code&gt;, create a repository of the same name. Go to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pages&lt;/code&gt; section of settings for that repo, and enable Github Pages.
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/jekyllreflection/github.png&quot; alt=&quot;fsdf&quot; /&gt;
-&lt;br /&gt;
-Ok, now there needs to be an easy way of updating the repo straight from your computer where you edit it. You do this by cloning a folder to your repo in terminal. Get the URL of the desired repo by hitting the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code&lt;/code&gt; button on it page on Github, then in terminal&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
-$ git clone URL-from-Github name-of-website-folder
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Then drag and drop the contents of the other website folder into this new one. If permissions are set correctly for you to push straight onto the main branch of the repo then you can submit changes by hitting&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
-$ git add -A
-$ git commit -m &quot;desciption of any changes made&quot;
-$ git push
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Wait 30 minutes, and Github will be hosting your website at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://github-username.github.io&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;The other thing I did to get a jump start on the blog is to populate my empty website with one of the templates listed on &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;http://jekyllthemes.org/&lt;/a&gt;. I used &lt;a href=&quot;https://github.com/forever-jekyll/forever-jekyll&quot;&gt;Forever Jekyll&lt;/a&gt; as stated in the footer of this website, but this theme has its issues. I’ve definitely had to tailor it to my liking. To populate a repo, you can copy-paste the contents or fork it.&lt;/p&gt;
-
-&lt;h3 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h3&gt;
-
-&lt;p&gt;Most of the personalization I did to the website I ‘ve been doing by trial and error. I’ll make a couple changes to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes&lt;/code&gt; html files and see what it does. I managed to add the &lt;a href=&quot;https://pacificyew.github.io/TreesofBC&quot;&gt;Trees of BC&lt;/a&gt; navigation header which works when I host the website locally but now when I let Github Pages compile it.&lt;/p&gt;
-
-&lt;p&gt;This brings me to the main troubleshooting point which is that Github Pages doesn’t do everything that you might want it to. It only hosts static sites, and any plugins you might want to add probably won’t work. If found this out the hard way by creating some really nice maps for my tree project which ended up not working because they required a plugin called leaflet. A complete list of dependancy versions for jekyll compatible with Pages is &lt;a href=&quot;https://pages.github.com/versions/&quot;&gt;found here&lt;/a&gt;. To remedy the problem with the maps, I found that you could really easily make google maps with markers and then link them to a website page as such:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;iframe 
-  width=&quot;720&quot;
-  height=&quot;500&quot;
-  frameborder=&quot;0&quot; style=&quot;border:0&quot;
-  src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&amp;gt;
-&amp;lt;/iframe&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This brings me to another point. Posts for jekyll are written in Markdown which is, for my purposes at least, a simplified version of html. You can take snippets of html (most of which I find by trolling forums) and put them straight into your markdown blog post. For the same of demonstration, an identical post to this one is also posted on the blog. This way, you can see which symbols do what. This post is a good example because I integrate some pictures, manipulate the text alignment, add hyperlinks and mess around with the text a bit.&lt;/p&gt;
-
-&lt;h3 id=&quot;plans-for-the-future&quot;&gt;Plans for the Future&lt;/h3&gt;
-
-&lt;p&gt;I want to really personalize this blog because I’m going to use it for a long time. If the &lt;a href=&quot;https://pacificyew.github.io/TreesofBC&quot;&gt;Trees of BC&lt;/a&gt; wasn’t 404’ed, the information I’ve compiled during my tree project would be visible there. Its actually all written, I just can’t figure out why Pages doesn’t like it. I want a whole other page of posts to be listed on this page with a post for each variety of tree. Having one static website host two separate blogs is quite difficult and I won’t get to it any time soon, but I think it would work really well.&lt;/p&gt;
-
-&lt;p&gt;I also want to spice up the visuals a bit. Right now everything is white and boring. I would love cool patterns down the margins on the sides or maybe pictures in the background.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Vítor Galvão, Mike McQuaid, Synoli. (2019). “Homebrew Logo”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Tom Preston-Werner. (2020). “Jekyll Logo”. CC BY 4.0 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This website is no longer in its infancy. This post outlines the process by which I created this blog.</summary></entry><entry><title type="html">EDCI 336 - Markdown Demonstration</title><link href="http://localhost:4000/content/demo/2021/10/13/Jekyll-Reflection-markdown/" rel="alternate" type="text/html" title="EDCI 336 - Markdown Demonstration" /><published>2021-10-13T00:00:00-07:00</published><updated>2021-10-13T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/13/Jekyll-Reflection-markdown</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/13/Jekyll-Reflection-markdown/">&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot;/&amp;gt;&lt;/code&gt;
-This post is identical to the ‘Website Construction’ post, but with all the markdown script visible&lt;/p&gt;
-
-&lt;p&gt;website is no longer in its infancy. This post outlines the process by which I created this blog.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Homebrew&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;I don’t really have much coding experience. Most of my data crunching was done in MATLAB in my undergrad. I had a course in Fortran, but those skills dont really translate to useful languages that are actually used today. The most useful thing i learned was navigating my computer using bash. Creating and deleting files, editing documents, and writing programs from the command line.&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img src=&quot;/assets/jekyllreflection/homebrew.png&quot; align=&quot;right&quot; width=&quot;230px&quot;/&amp;gt;&lt;/code&gt;UNIX based computers do this with a “terminal” program, Windows computers have DOS and whatever they call their command line. This is basically where my knowledge ended before this program. Anyone who is looking at this post for advice, look elsewhere; I basically just banged my head against it for a couple months.&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[^1]&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Homebrew is a free open-source package manager that operates from command line on UNIX-based operating systems. It was created in 2009. I used Homebrew to install jekyll and its dependancies as well as other useful software that I didnt know existed before this. Homebrew installs into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/usr/local&lt;/code&gt; by default. Hit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Cmd + Shift + .&lt;/code&gt; to see otherwise hidden folders in Finder. Dont delete any of them for no reason though, apple hid them for a reason. Running&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;in Terminal will install Homebrew. The &lt;a href=&quot;https://brew.sh/&quot;&gt;Homebrew webiste&lt;/a&gt; contains analytics data, programs, changelogs etc. Homebrew was necessary for installing Jekyll which is the main compiler for the website. After all the programs necessary for jekyll were installed, I haven’t really used Homebrew much.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Jekyll[^2]&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Jekyll is a program that compiles websites. It is written in Ruby by Github founder Tom Preston-Werner. A host of volunteers maintains the software, and its most stable release was 4.2.0 in 2020. Detailed instructions for its installation are on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[their website](https://jekyllrb.com/docs/)&lt;/code&gt;. If you are running the latest operating systems of MacOS, I think it will probably work as advertised. For the rest of us stuck in late 2015, Jekyll only works with a particular version of Ruby installed (&amp;gt;2.5.0). Newer versions for whatever reason dont like being installed. I had issues with OpenSSH not being the right version. I don’t honestly remember what I did to get everything to install properly but forums are your friend. People with actual modern computers probably won’t have the issues I did since&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“Jekyll requires Ruby v2.5.0 or higher. macOS Big Sur 11.x ships with Ruby 2.6.3. Check your Ruby version using ruby -v.”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;I mostly followed the instructions on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Jekyll website](https://jekyllrb.com/docs/installation/macos/)&lt;/code&gt; for the installation. Once set up, define a folder that you want to permanently be the website folder, then hit&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ gem install bundler jekyll
-$ jekyll name-of-new-website
-$ cd name-of-new-website
-$ bundle exec jekyll serve
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;The last line here hosts the website locally and updates every time you make a change to it. You can turn off your internet and work on it remotely. To view it in your browser go to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Github&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Now there needs to be some way to host the website. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Github pages](https://pages.github.com/)&lt;/code&gt; does this for free as long as you can keep your website to under 1 gb. Github is also open-source software. I have no idea where they get money from but it doesn’t seem to be advertising. Get a Github account and then install git and any other dependancies you might need using Homebrew. What you need to do is clone a folder on your computer to a repository on Github. To get a nice URL for your website like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github-username.github.io&lt;/code&gt;, create a repository of the same name. Go to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pages&lt;/code&gt; section of settings for that repo, and enable Github Pages.
-&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;![fsdf](/assets/jekyllreflection/github.png)&lt;/code&gt;
-&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt;
-Ok, now there needs to be an easy way of updating the repo straight from your computer where you edit it. You do this by cloning a folder to your repo in terminal. Get the URL of the desired repo by hitting the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code&lt;/code&gt; button on it page on Github, then in terminal&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
-$ git clone URL-from-Github name-of-website-folder
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Then drag and drop the contents of the other website folder into this new one. If permissions are set correctly for you to push straight onto the main branch of the repo then you can submit changes by hitting&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
-$ git add -A
-$ git commit -m &quot;desciption of any changes made&quot;
-$ git push
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-&lt;p&gt;Wait 30 minutes, and Github will be hosting your website at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://github-username.github.io&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;The other thing I did to get a jump start on the blog is to populate my empty website with one of the templates listed on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[http://jekyllthemes.org/](http://jekyllthemes.org/)&lt;/code&gt;. I used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Forever Jekyll](https://github.com/forever-jekyll/forever-jekyll)&lt;/code&gt; as stated in the footer of this website, but this theme has its issues. I’ve definitely had to tailor it to my liking. To populate a repo, you can copy-paste the contents or fork it.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Troubleshooting&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;Most of the personalization I did to the website I ‘ve been doing by trial and error. I’ll make a couple changes to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes&lt;/code&gt; html files and see what it does. I managed to add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Trees of BC](https://pacificyew.github.io/TreesofBC)&lt;/code&gt; navigation header which works when I host the website locally but now when I let Github Pages compile it.&lt;/p&gt;
-
-&lt;p&gt;This brings me to the main troubleshooting point which is that Github Pages doesn’t do everything that you might want it to. It only hosts static sites, and any plugins you might want to add probably won’t work. If found this out the hard way by creating some really nice maps for my tree project which ended up not working because they required a plugin called leaflet. A complete list of dependancy versions for jekyll compatible with Pages is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[found here](https://pages.github.com/versions/)&lt;/code&gt;. To remedy the problem with the maps, I found that you could really easily make google maps with markers and then link them to a website page as such:&lt;/p&gt;
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;iframe 
-  width=&quot;720&quot;
-  height=&quot;500&quot;
-  frameborder=&quot;0&quot; style=&quot;border:0&quot;
-  src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&amp;gt;
-&amp;lt;/iframe&amp;gt;
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
-
-&lt;p&gt;This brings me to another point. Posts for jekyll are written in Markdown which is, for my purposes at least, a simplified version of html. You can take snippets of html (most of which I find by trolling forums) and put them straight into your markdown blog post. For the same of demonstration, an identical post to this one is also posted on the blog. This way, you can see which symbols do what. This post is a good example because I integrate some pictures, manipulate the text alignment, add hyperlinks and mess around with the text a bit.&lt;/p&gt;
-
-&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Plans for the Future&lt;/code&gt;&lt;/p&gt;
-
-&lt;p&gt;I want to really personalize this blog because I’m going to use it for a long time. If the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Trees of BC](https://pacificyew.github.io/TreesofBC)&lt;/code&gt; wasn’t 404’ed, the information I’ve compiled during my tree project would be visible there. Its actually all written, I just can’t figure out why Pages doesn’t like it. I want a whole other page of posts to be listed on this page with a post for each variety of tree. Having one static website host two separate blogs is quite difficult and I won’t get to it any time soon, but I think it would work really well.&lt;/p&gt;
-
-&lt;p&gt;I also want to spice up the visuals a bit. Right now everything is white and boring. I would love cool patterns down the margins on the sides or maybe pictures in the background.&lt;/p&gt;
-
-&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[^1]: Vítor Galvão, Mike McQuaid, Synoli. (2019). &quot;Homebrew Logo&quot;. 
-[^2]: Tom Preston-Werner. (2020). &quot;Jekyll Logo&quot;. CC BY 4.0
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">&amp;lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot;/&amp;gt; This post is identical to the ‘Website Construction’ post, but with all the markdown script visible</summary></entry><entry><title type="html">Big Tree Inquiry - Konuckson Park</title><link href="http://localhost:4000/content/demo/2021/10/04/Inquiry2/" rel="alternate" type="text/html" title="Big Tree Inquiry - Konuckson Park" /><published>2021-10-04T00:00:00-07:00</published><updated>2021-10-04T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/10/04/Inquiry2</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/10/04/Inquiry2/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug1.JPG&quot; alt=&quot;sdfsdf&quot; /&gt;
-This post includes the first measurements of trees from Konuckson Park.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-park&quot;&gt;The Park&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/wow.png&quot; align=&quot;right&quot; width=&quot;335px&quot; /&gt;&lt;/p&gt;
-
-&lt;h5 id=&quot;where&quot;&gt;Where?&lt;/h5&gt;
-&lt;p&gt;Konuckson Park is located in the center of ten-mile point in Saanich, 10 minutes south of the university by bike. It is a walk away from Cadboro bay and is worth the hike because I believe it contains one of the largest Cottonwoods on the peninsula.&lt;/p&gt;
-
-&lt;h5 id=&quot;when&quot;&gt;When?&lt;/h5&gt;
-&lt;p&gt;I cant for the life of me find any historical documents about the park or its previous uses. Even the Saanich Parks website doesn’t have an article about Konuckson. I resort to Provincial GIS layers to try and infer what the history of the area is. It likely isn’t accurate, but all I’m trying to do is guess where the biggest trees are so. Yeah.&lt;/p&gt;
-
-&lt;h5 id=&quot;what&quot;&gt;What?&lt;/h5&gt;
-&lt;p&gt;The image above is a city zoning map found on &lt;a href=&quot;https://www.saanich.ca/EN/main/community/archives/collections-research.html&quot;&gt;the Saanich archives.&lt;/a&gt; It depicts the city subdivisions as cut in the year 1948. The entirety of what is now Konuckson park lies over the block of lots between Phylis, Bedford, Tudor and Minnie. These roads’ names have since changed, but what doesn’t make sense to me is where these subdivisions went. There are something like 50 lots here which somehow have become a park. More digging using government layers on &lt;a href=&quot;https://maps.gov.bc.ca/ess/hm/imap4m/&quot;&gt;imapsBC&lt;/a&gt; reveals only about 10 of those original lots (the blocks south and north of the semi-circular lot 5) were turned into park. Since this was once private land, I did not expect to find anything old or big since settler landowners were privy to logging and clearing lots for agriculture.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Arb1.JPG&quot; align=&quot;right&quot; width=&quot;334px&quot; /&gt;
-As a curious tangent, I also found an interesting layer shaded light green below through imapsBC. The dark green areas are parks with the biggest one in the center being Konuckson. The light green patches overlap privately owned lots but are nevertheless marked “Registered and Recognized historic places”. The &lt;a href=&quot;https://catalogue.data.gov.bc.ca/dataset/a8d72ad9-2379-4d6d-9ff7-f3d0527dfb80&quot;&gt;government data catalogue&lt;/a&gt; describes this layer as:&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;“The Historic Environment Spatial Layer contains polygons and related attributes representing post-1846 historic places in British Columbia that are recorded on the provincial heritage register. It does not include any archaeological site information.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;img src=&quot;/assets/inquiry2/wow2.png&quot; alt=&quot;Fig. 1&quot; /&gt;
-Some of them actually are archaological sites, but this isn’t the place to talk about that. Most of them are “historic residences”. Other than that, its seems what were “roads” through the park no longer exist. I guess houses were never built on the Konuckson blocks, and the land in some places may be mostly undisturbed.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug2.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;&lt;/p&gt;
-&lt;h5 id=&quot;who&quot;&gt;Who?&lt;/h5&gt;
-&lt;p&gt;Judging by the way the park has been zoned historically, I expect the land management of this area to have been dominated by settlers throughout the lifespans of any trees that now live there. I know in some places, indigenous groups maintain gardens and spiritual trails to this day. I don’t know if that would be the case here considering the circumstances, but I will tread lightly. It is in a very convenient location close to Cadboro bay, and its beyond question that the area was used extensively by groups here prior to settler arrival.&lt;/p&gt;
-
-&lt;p&gt;Settlers may have modified the land by clearing, burning, or introducing new species, pests and diseases into the native ecosystem here. This wouldn’t really be conducive to saving large trees.&lt;/p&gt;
-
-&lt;h5 id=&quot;why&quot;&gt;Why?&lt;/h5&gt;
-&lt;p&gt;Trees in parks generally aren’t cut down after they become parks. Its good reason to suspect that larger undisturbed areas might be found there. Also, the topographical shape of Konuckson is kind of like a bowl. It collects water, and the center of the park is quite wet; conducive to growing Cedar and Cottonwood. This is definitely an area to scout around.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-we-found&quot;&gt;What we Found&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Cotton1.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;
-Konuckson has many trails covering the entire park. Its hard to get lost if you know which way you want to walk. Some of the trails look maintained by the city. Others look like they were made by deer or people infrequently walking by. I don’t know what the indigenous relationship with the area is, but my girlfriend pointed out Rattlesnake everywhere in one particular area. There was a large boulder, a semi-circle of smaller boulders, and some older Arbutus. Perfect place for a campfire.&lt;/p&gt;
-
-&lt;p&gt;The largest treee was easily the biggest Cottonwood I’ve ever seen right in the middle of the park where its the wettest. There are two Arbutus in one region that are about a meter across as well. The locations and measurements that we took are shown in the map below. Go check them out!&lt;/p&gt;
-
-&lt;iframe width=&quot;720&quot; height=&quot;500&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&gt;
-&lt;/iframe&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Theresa McFarland, “Historic Environment Spatial Layer”  2018-05-08 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post includes the first measurements of trees from Konuckson Park.</summary></entry><entry><title type="html">EDCI 336 - Tech In The Classroom</title><link href="http://localhost:4000/content/demo/2021/09/29/DigitalFootprint/" rel="alternate" type="text/html" title="EDCI 336 - Tech In The Classroom" /><published>2021-09-29T00:00:00-07:00</published><updated>2021-09-29T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/09/29/DigitalFootprint</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/09/29/DigitalFootprint/">&lt;p&gt;Reflection on the role of technology in education.&lt;/p&gt;
-
-&lt;h3 id=&quot;social-stigma-and-technology-in-classrooms&quot;&gt;Social Stigma and Technology in Classrooms&lt;/h3&gt;
-
-&lt;p&gt;For the longest time, marijuana was a highly “controlled” substance in Canada. Simple posession of the plant could land you in jail with a criminal record. Despite this, millions of Canadians still took the risks of using the plant, cultivating it, and selling it. There are reasons for taking this risk. Marijuana has been shown to help treat chronic pain, sleep disturbance, anxiety, nausea, and anorexia.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; There is also research to suggest that weed can enhance creativity for some people.&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;The question emerges, if the substance was so widely used, and had proven benefits in certain cases, why was the interaction with this plant so taboo? Does this stigma still exist after legalization?&lt;/p&gt;
-
-&lt;p&gt;Throughout my time in high school, a war was waged against technology in the classroom. I have observed that instead of using technology to their advantage, many teachers, especially those taught industrial models of education, treat phones and computers like digital narcotics. The environment created for me and my peers in high school was not conducive to technological literacy. Instead, teachers would confiscate our property, even going so far as to break them in one case I experienced.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/image/student1.jpg&quot; alt=&quot;student1&quot; /&gt;
-The archtype of “gamers” and other derivatives of tech culture carry the the social stigma regarding techonology; that it destroys creativity and makes you anti-social. Similarly, the ‘stoner’ archtype of the cannabis user propagates the artificial narrative that weed makes individuals lazy, less productive, or less creative. Neither of these stereotypes have any basis in truth.&lt;/p&gt;
-
-&lt;p&gt;This narrow-mindedness towards the opportunities that techology presents is similar to Canadas war on weed. Instead of researching the potential of the plant, it was outlawed. 
-The time has come to embrace technology in the classroom. Most students own smartphones and computers. Most of them carry their techonology on their person.&lt;/p&gt;
-
-&lt;p&gt;To prohibit something only creates uneeded division in any group. To prohibit a behaviour, such as the use of technology, divides a class into those who use phones and those who dont. A result of any division is alienation; being an outsider to a group.&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; As Henri Tajfel theorized in his social identity theory, simple divisions into in-groups and out-groups are the basis of prejudice.&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; Since this necessarily occurs when a teacher restricts the use of technology, some consequences could be that:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/image/segregation1.jpg&quot; align=&quot;right&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Alientated students refuse to participate in class.&lt;/li&gt;
-  &lt;li&gt;Students are restricted from mode of communication they could effectively use to demonstrate understanding.&lt;/li&gt;
-  &lt;li&gt;Students fight with the teacher.&lt;/li&gt;
-  &lt;li&gt;Students fight amongst each other.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;benefits-of-technology-in-the-classroom&quot;&gt;Benefits of technology in the Classroom&lt;/h3&gt;
-
-&lt;p&gt;So, why then should we decriminalize technology in the classroom? As the EDCI 336 speaker said this week, students are going to use their phones in class regardless of what you do. Why not use them to your advantage as a teacher? Furthermore, technology influences every aspect of life now from job seeking to picking up your groceries. To not teach students the benefits an pitfalls of technology would be doing them a disservice.&lt;/p&gt;
-
-&lt;p&gt;In the digital age, some people just use technology as their primary mode of communication. This fact should not be construed as a disorder but rather a utilization of available tools. The progress of research as a species has produced a new set of tools that our parents never had, and hence, a generational gap. This occurred with the advent of the printing press, again with telephones, automobiles etc., Vsauce has a good video discussing how technology creates generational gaps.&lt;/p&gt;
-
-&lt;div class=&quot;youtube-wrapper&quot;&gt;
-  &lt;iframe src=&quot;https://www.youtube.com/embed/LD0x7ho_IYc&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br /&gt;
-Tech literacy is real, and teachers need to account for students who use technology as a means of communicating. Many apps and programs can help complex learners demonstrate their understanding of a subject in a way that has never been possible before.&lt;/p&gt;
-
-&lt;p&gt;As platforms, many social media outlets facilitate a level personal expression that students might be uncomfortable exercising in person. Showcasing art, projects, and other work can be done in an ethically responsible way through the internet. These platforms also have the power to connect otherwise disparate groups of people which can have both positive and negative consequences, but for the sake of this argument, it can help facilitate discussions between students which otherwise might not have happened.&lt;/p&gt;
-
-&lt;p&gt;The internet is also the largest source of information humans have ever had immediate access to. Although this fact, and the way it is employed is also a double-edged sword, the efficiency with which students can now learn basic concepts through the use of the internet is reall a force to be harnessed. Take for example math. Many practice problems for any high school unit are available and are a google search away. Step-by-step instructions are available to help those who need the extra hand. Although this would seem to render the role of a teacher useless, it takes one to teach students how to use these tools.&lt;/p&gt;
-
-&lt;h3 id=&quot;pitfalls-of-technology-in-the-classroom&quot;&gt;Pitfalls of Technology in the Classroom&lt;/h3&gt;
-
-&lt;p&gt;To extend the analogy made at the beginning of this post slightly further, just like weed, technology can be addicting.&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; As a result, like anything addictive, excess use can be detrimental leading even to dependancy. I have spent this time arguing that technology has its place in classrooms, but I don’t believe that its role should extend beyond that of a tool.&lt;/p&gt;
-
-&lt;p&gt;Overuse of technology can restrict learning in many ways. The most obvious way is that students might not pay attention in class. Although there can be many reasons why a student might refuse to pay attention to a teacher, texting a friend or playing a game are definitely two of them. Generally, I don’t think teachers are entitled to the attention of their students. I think teachers need to convince their audience that what they say has both meaning and relevance. Failure to capture the attention of students could be a result of a generational gap, or simply a breakdown in communication, but if the majority of students are playing on their phones during class, it probably means the material being taught doesn’t resonate with them in a meaningful way. Its the job of the teacher to fix this problem rather than condemn a symptom of it.&lt;/p&gt;
-
-&lt;p&gt;Addiction to technology can complicate its role as a tool. Earlier the value of social media was pointed out. The pitfalls of social media, especially in the event of an addiction should now be summarized. The concept of an echo chamber emerges by segregating communities based on political, social or any other preferences. As stated before, social identity theory suggests that divisions between individuals necessitates prejudice. In this sense, many social media platforms have actually become the roots for racism and a host of other social problems, despite simultaneously uniting social justice groups. Social media platforms also open another platform for bullying.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/image/epistemology1.jpg&quot; align=&quot;right&quot; width=&quot;340xpx&quot; /&gt;
-Technology, if used incorrectly can miseducate students. A whole host of falsities exist on the internet, some of which are maliciouly and intentionally propagated to the student audience. This is why teaching tech literacy necessarily means teaching critical thinking. The ancient episdemological question; “what do we know, and how do we know it?” is very relevant here. To use the internet efficiently, students need to be taught&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;how to process data and information,&lt;/li&gt;
-  &lt;li&gt;how to effectively search for what they are looking for,&lt;/li&gt;
-  &lt;li&gt;how to spot misinformation,&lt;/li&gt;
-  &lt;li&gt;how to weigh conflicting sources,&lt;/li&gt;
-  &lt;li&gt;how to identify their own ways of knowing&lt;/li&gt;
-  &lt;li&gt;how to take what they have learned and construct their own balanced opinion.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;None of these critical aspects of tech literacy can be learned overnight, but this fact reinforces the reasons why we need to bring technology into the classroom.&lt;/p&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Aggarwal SK, Blinderman CD. Cannabis for Symptom Control #279. J Palliat Med. 2014 May 1;17(5):612–4. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Bar-Lev Schleider L, Mechoulam R, Lederman V, Hilou M, Lencovsky O, Betzalel O, et al. Prospective analysis of safety and efficacy of medical cannabis in large unselected population of patients with cancer. Eur J Intern Med. 2018;49:37–43. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Bridgeman MB, Abazia DT. Medicinal cannabis: History, pharmacology, and implications for the acute care setting. P T. 2017;42(3):180–8. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Walsh Z, Callaway R, Belle-Isle L, Capler R, Kay R, Lucas P, et al. Cannabis for therapeutic purposes: Patient characteristics, access, and reasons for use. Int J Drug Policy. 2013;24(6):511–6. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Tart CT. Marijuana intoxication: common experiences. Nature. 1970; 226:701–704. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Green B, Kavanagh D, Young R. Being stoned: a review of self-reported cannabis effects. Drug Alcohol Rev. 2003; 22:453–460. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Tajfel, H. (1970). Experiments in Intergroup Discrimination. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Tajfel, H. (1978). “The achievement of group differentiation (pp. 77-98)”. Differentiation between social groups. Studies in the social psychology of intergroup relations. London: Academic Press. p. 474. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Serenko, Alexander and Turel, Ofir (2015) “Integrating Technology Addiction and Use: An Empirical Investigation of Facebook Users,” AIS Transactions on Replication Research: Vol. 1 , Article 2. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">Reflection on the role of technology in education.</summary></entry><entry><title type="html">Big Tree Inquiry - What is Known</title><link href="http://localhost:4000/content/demo/2021/09/26/Inquiry1/" rel="alternate" type="text/html" title="Big Tree Inquiry - What is Known" /><published>2021-09-26T00:00:00-07:00</published><updated>2021-09-26T00:00:00-07:00</updated><id>http://localhost:4000/content/demo/2021/09/26/Inquiry1</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/09/26/Inquiry1/">&lt;p&gt;&lt;img src=&quot;/assets/image/clearcut1.jpg&quot; alt=&quot;Fig. 1&quot; /&gt;
+&lt;iframe src=&quot;https://www.google.com/maps/d/u/0/embed?mid=1VXRM8KcecEwdDG3s0Oak2fLa5G6KUHU2&quot; width=&quot;720&quot; height=&quot;480&quot;&gt;&lt;/iframe&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post investigates some of the applications of google Earth with one contextualization in the field of Forestry. Google as a company has ethical issues, but is useful as a starting point in many investigations.</summary></entry><entry><title type="html">Week 10 - Group Final Project</title><link href="http://localhost:4000/content/demo/2021/11/30/10reflection/" rel="alternate" type="text/html" title="Week 10 - Group Final Project" /><published>2021-11-30T00:00:00-08:00</published><updated>2021-11-30T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/30/10reflection</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/30/10reflection/">&lt;p&gt;&lt;img src=&quot;/assets/image/sco.png&quot; align=&quot;right&quot; width=&quot;225px&quot; /&gt;
+This post sumarizes some of the group work that has been done on the final project for this class. The subject of our presentation is student usage of social media. It can be played here:&lt;br /&gt;&lt;br /&gt;&lt;audio controls=&quot;controls&quot; src=&quot;/assets/image/podcast.mp3&quot;&gt;Your browser does not support the HTML5 Audio element.&lt;/audio&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-social-dilemna&quot;&gt;The Social Dilemna&lt;/h3&gt;
+
+&lt;p&gt;This project was largely inspired by the documentary ‘The Social Dilemna’ directed by Jeff Orlowski. We watched this documentary as reasearch for our group. The film inspired many of our subsequent discussions. In particular, I was focused on techniques of minimizing students’ use of phones within the classroom and furthermore, whether we should.&lt;/p&gt;
+
+&lt;h3 id=&quot;tracking-social-media-usage&quot;&gt;Tracking Social Media Usage&lt;/h3&gt;
+
+&lt;p&gt;We began the exploration by tracking our own social media usage. In the fallout of watching the documentary, most of my groupmates were eager to undergo self-reflections regarding their own behaviour. I don’t have social media, so I chose to adapt this activity to overall screen time on my phone to investigate exactly what it was that I do with my phone time.&lt;/p&gt;
+
+&lt;p&gt;My own usage was around 1 hour of screen time a day. Most of that time spent on the web browser on my phone. It didn’t really surprise me to see that most of that time was actually used on Wikipedia. I have a habit when someone mentions something in passing that I want to know more about, I visit the wikipedia page. I find its an awesome resource of links to academic papers. The articles themselves usually provide a pretty good outline of the subject.&lt;/p&gt;
+
+&lt;h3 id=&quot;should-students-be-deprived-of-social-media&quot;&gt;Should Students be Deprived of Social Media?&lt;/h3&gt;
+
+&lt;p&gt;As discussed in the podcast, it is surprising to realize that despite knowing the negative impacts of social media, and its cost on our time for relatively little benfit, many people still abuse these outlets. This, we agree is part of the problem; that social media is addictive. This fact plays a large role in a classroom. How can a teacher possibly compete with a program tailor made to abuse psychology to its advantage?&lt;/p&gt;
+
+&lt;p&gt;With any addictive compound, there would be public funding for programs that would host presentations and outline the dangers and health effects for students. This happens today for abuse of drugs that could contain fentanyl. It happens with weed. In the 80s and 90s, the subject was cigarettes. My question is what makes social media so different from these other abuses?&lt;/p&gt;
+
+&lt;p&gt;I believe the answer is that those who would be conducting the presentations in the first place, and even the creators of social media themselves are also addicted to what they have created.&lt;/p&gt;
+
+&lt;p&gt;Herein lies the Social Dilemna. Is it the teachers role to treat students for dependancy and addiction? Our conclusion awaits in our presentation.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post sumarizes some of the group work that has been done on the final project for this class. The subject of our presentation is student usage of social media. It can be played here:Your browser does not support the HTML5 Audio element.</summary></entry><entry><title type="html">Week 2 - Reflection</title><link href="http://localhost:4000/content/demo/2021/11/29/2PSIIInquiryTools/" rel="alternate" type="text/html" title="Week 2 - Reflection" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/2PSIIInquiryTools</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/2PSIIInquiryTools/">&lt;p&gt;&lt;img src=&quot;/assets/image/PSIItools.png&quot; alt=&quot;Lagdale1&quot; /&gt;
+An outline of the PSII inquiry steps applied in a walk through a local park.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-psii-inquiry-steps&quot;&gt;The PSII Inquiry Steps&lt;/h3&gt;
+
+&lt;p&gt;The Pacific School of Innovation and Inquiry has determined &lt;a href=&quot;https://learningstorm.org/inquiry-tools/&quot;&gt;steps for competency assessment&lt;/a&gt;. These steps are presented graphically below.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Starting&lt;/strong&gt;: Learner creates/co-creates a question or questions that are of a kind that will allow an inquiry or a quest to take place.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Deepening&lt;/strong&gt;: Learner takes on early research based on starting questions. May discuss with teacher and/or other learners to help flesh out ideas. Research may involve creating something or doing something besides just reading or talking. The goal is to improve the quality of the question(s) from Step 1.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Refining&lt;/strong&gt;: Learner creates new questions based on research and learning in Step 2. These could be expressed in a mind map (to show how learner got there), or just a new list of questions.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Planning&lt;/strong&gt;: Learner develops and plans learning activities, projects, sessions, experiences, etc. to address/explore new questions from Step 3, including timelines, assessment ideas, and resource needs.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt;: Learner follows plans from Step 4, making modifications as needed. Daily and weekly work plans will reflect short-term goals. Assessment of learning will take place throughout this step. Reflection on learning is also part of this step.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;inquiry-steps-applied-to-tree-project&quot;&gt;Inquiry Steps Applied to Tree Project&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Starting&lt;/strong&gt;: I begin with the questions: “What is the biggest tree in Konuckson park?”, and “How will I find it?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Deepening&lt;/strong&gt;: I can increase my knowledge of Konuckson Park by contacting knowledge holders or finding resources regarding the history of the park. I can learn about the trees from literature. I can use GIS to hint at probable locations of trees.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Refining&lt;/strong&gt;: After some research, I now wonder: “What is the history of Konuckson Park?”, “Was the area ever cleared or human-managed?”, “How would this affect the history of the trees?”, “Where is the most probable location of a large tree?”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Planning&lt;/strong&gt;: I then commit to physically exploring the partsof Konuckson park which I think would be the most likely to have large trees. Since it was a wet area, I suspect to be looking for large Cottonwoods or Cedars. The timeline and notes are recorded in this blog.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Learning&lt;/strong&gt;: After extensive searching, large trees were found. I now wonder if my research and explorations were exhaustive enough to merit moving on to a new area. I decide, my search was indeed exhaustive and continue to researching a new area (Phyllis Park). I can take what I learned from this cycle of the inquiry steps forward into future planning.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">An outline of the PSII inquiry steps applied in a walk through a local park.</summary></entry><entry><title type="html">Week 3 - Inquiry</title><link href="http://localhost:4000/content/demo/2021/11/29/3Inquiry1/" rel="alternate" type="text/html" title="Week 3 - Inquiry" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/3Inquiry1</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/3Inquiry1/">&lt;p&gt;&lt;img src=&quot;/assets/image/clearcut1.jpg&quot; alt=&quot;Fig. 1&quot; /&gt;
 A rough summary of project procedure and preliminary knowledge about local trees.&lt;/p&gt;
 
 &lt;h3 id=&quot;tree-search-details&quot;&gt;Tree Search Details&lt;/h3&gt;
@@ -1082,4 +543,349 @@ The Highlands municipality has their &lt;a href=&quot;https://www.highlands.ca/1
       &lt;p&gt;https://opendata.victoria.ca/ &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">A rough summary of project procedure and preliminary knowledge about local trees.</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">A rough summary of project procedure and preliminary knowledge about local trees.</summary></entry><entry><title type="html">Week 3 - Reflection</title><link href="http://localhost:4000/content/demo/2021/11/29/3OpenResourceReflection/" rel="alternate" type="text/html" title="Week 3 - Reflection" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/3OpenResourceReflection</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/3OpenResourceReflection/">&lt;p&gt;Reflection on the use of open-source educational material online.&lt;/p&gt;
+
+&lt;h3 id=&quot;favourite-open-sources-of-information&quot;&gt;Favourite Open Sources of Information&lt;/h3&gt;
+
+&lt;p&gt;My immediate reflections about this week center around my two favourite open sources of educational material - Wikipedia and the Creative Commons. Both have pros and cons, but I will be using both in my own future work.&lt;/p&gt;
+
+&lt;h5 id=&quot;wikipedia&quot;&gt;Wikipedia&lt;/h5&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Wikipedia&quot;&gt;Wikipedia&lt;/a&gt;; the free encyclopedia has a bad reputation for not being accurate. Although its true in some cases, all sources of information, including peer-reviewed journals are subject to inaccuracies once in a while. I believe the strength of wikipedia is its ability to compile useful information. In published articles that have been reviewed, most claims are cited, providing a long list of shortcuts to potentially very reputable sources. Wikipdeia is also powered by the Creative Commons, and the many forms of information embedded in articles (images, gifs, videos) compliment the acticles themselves.&lt;/p&gt;
+
+&lt;h5 id=&quot;creative-commons&quot;&gt;Creative Commons&lt;/h5&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://creativecommons.org/&quot;&gt;Creative Commons&lt;/a&gt; is a hub for open-access media. It is a public databas of content free from many copyright legislation. This database is useful in education because it can be embedded and cited freely when building your own resources. Many works can also be manipulated and adjusted and republished. I hope to eventually register some of the work on this blog in the Creative Commons.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">Reflection on the use of open-source educational material online.</summary></entry><entry><title type="html">Week 4 - Reflection</title><link href="http://localhost:4000/content/demo/2021/11/29/4DigitalFootprint/" rel="alternate" type="text/html" title="Week 4 - Reflection" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/4DigitalFootprint</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/4DigitalFootprint/">&lt;p&gt;Reflection on the role of technology in education.&lt;/p&gt;
+
+&lt;h3 id=&quot;social-stigma-and-technology-in-classrooms&quot;&gt;Social Stigma and Technology in Classrooms&lt;/h3&gt;
+
+&lt;p&gt;For the longest time, marijuana was a highly “controlled” substance in Canada. Simple posession of the plant could land you in jail with a criminal record. Despite this, millions of Canadians still took the risks of using the plant, cultivating it, and selling it. There are reasons for taking this risk. Marijuana has been shown to help treat chronic pain, sleep disturbance, anxiety, nausea, and anorexia.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt; There is also research to suggest that weed can enhance creativity for some people.&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;The question emerges, if the substance was so widely used, and had proven benefits in certain cases, why was the interaction with this plant so taboo? Does this stigma still exist after legalization?&lt;/p&gt;
+
+&lt;p&gt;Throughout my time in high school, a war was waged against technology in the classroom. I have observed that instead of using technology to their advantage, many teachers, especially those taught industrial models of education, treat phones and computers like digital narcotics. The environment created for me and my peers in high school was not conducive to technological literacy. Instead, teachers would confiscate our property, even going so far as to break them in one case I experienced.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/image/student1.jpg&quot; alt=&quot;student1&quot; /&gt;
+The archtype of “gamers” and other derivatives of tech culture carry the the social stigma regarding techonology; that it destroys creativity and makes you anti-social. Similarly, the ‘stoner’ archtype of the cannabis user propagates the artificial narrative that weed makes individuals lazy, less productive, or less creative. Neither of these stereotypes have any basis in truth.&lt;/p&gt;
+
+&lt;p&gt;This narrow-mindedness towards the opportunities that techology presents is similar to Canadas war on weed. Instead of researching the potential of the plant, it was outlawed. 
+The time has come to embrace technology in the classroom. Most students own smartphones and computers. Most of them carry their techonology on their person.&lt;/p&gt;
+
+&lt;p&gt;To prohibit something only creates uneeded division in any group. To prohibit a behaviour, such as the use of technology, divides a class into those who use phones and those who dont. A result of any division is alienation; being an outsider to a group.&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt; As Henri Tajfel theorized in his social identity theory, simple divisions into in-groups and out-groups are the basis of prejudice.&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; Since this necessarily occurs when a teacher restricts the use of technology, some consequences could be that:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/image/segregation1.jpg&quot; align=&quot;right&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Alientated students refuse to participate in class.&lt;/li&gt;
+  &lt;li&gt;Students are restricted from mode of communication they could effectively use to demonstrate understanding.&lt;/li&gt;
+  &lt;li&gt;Students fight with the teacher.&lt;/li&gt;
+  &lt;li&gt;Students fight amongst each other.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;benefits-of-technology-in-the-classroom&quot;&gt;Benefits of technology in the Classroom&lt;/h3&gt;
+
+&lt;p&gt;So, why then should we decriminalize technology in the classroom? As the EDCI 336 speaker said this week, students are going to use their phones in class regardless of what you do. Why not use them to your advantage as a teacher? Furthermore, technology influences every aspect of life now from job seeking to picking up your groceries. To not teach students the benefits an pitfalls of technology would be doing them a disservice.&lt;/p&gt;
+
+&lt;p&gt;In the digital age, some people just use technology as their primary mode of communication. This fact should not be construed as a disorder but rather a utilization of available tools. The progress of research as a species has produced a new set of tools that our parents never had, and hence, a generational gap. This occurred with the advent of the printing press, again with telephones, automobiles etc., Vsauce has a good video discussing how technology creates generational gaps.&lt;/p&gt;
+
+&lt;div class=&quot;youtube-wrapper&quot;&gt;
+  &lt;iframe src=&quot;https://www.youtube.com/embed/LD0x7ho_IYc&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br /&gt;
+Tech literacy is real, and teachers need to account for students who use technology as a means of communicating. Many apps and programs can help complex learners demonstrate their understanding of a subject in a way that has never been possible before.&lt;/p&gt;
+
+&lt;p&gt;As platforms, many social media outlets facilitate a level personal expression that students might be uncomfortable exercising in person. Showcasing art, projects, and other work can be done in an ethically responsible way through the internet. These platforms also have the power to connect otherwise disparate groups of people which can have both positive and negative consequences, but for the sake of this argument, it can help facilitate discussions between students which otherwise might not have happened.&lt;/p&gt;
+
+&lt;p&gt;The internet is also the largest source of information humans have ever had immediate access to. Although this fact, and the way it is employed is also a double-edged sword, the efficiency with which students can now learn basic concepts through the use of the internet is reall a force to be harnessed. Take for example math. Many practice problems for any high school unit are available and are a google search away. Step-by-step instructions are available to help those who need the extra hand. Although this would seem to render the role of a teacher useless, it takes one to teach students how to use these tools.&lt;/p&gt;
+
+&lt;h3 id=&quot;pitfalls-of-technology-in-the-classroom&quot;&gt;Pitfalls of Technology in the Classroom&lt;/h3&gt;
+
+&lt;p&gt;To extend the analogy made at the beginning of this post slightly further, just like weed, technology can be addicting.&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; As a result, like anything addictive, excess use can be detrimental leading even to dependancy. I have spent this time arguing that technology has its place in classrooms, but I don’t believe that its role should extend beyond that of a tool.&lt;/p&gt;
+
+&lt;p&gt;Overuse of technology can restrict learning in many ways. The most obvious way is that students might not pay attention in class. Although there can be many reasons why a student might refuse to pay attention to a teacher, texting a friend or playing a game are definitely two of them. Generally, I don’t think teachers are entitled to the attention of their students. I think teachers need to convince their audience that what they say has both meaning and relevance. Failure to capture the attention of students could be a result of a generational gap, or simply a breakdown in communication, but if the majority of students are playing on their phones during class, it probably means the material being taught doesn’t resonate with them in a meaningful way. Its the job of the teacher to fix this problem rather than condemn a symptom of it.&lt;/p&gt;
+
+&lt;p&gt;Addiction to technology can complicate its role as a tool. Earlier the value of social media was pointed out. The pitfalls of social media, especially in the event of an addiction should now be summarized. The concept of an echo chamber emerges by segregating communities based on political, social or any other preferences. As stated before, social identity theory suggests that divisions between individuals necessitates prejudice. In this sense, many social media platforms have actually become the roots for racism and a host of other social problems, despite simultaneously uniting social justice groups. Social media platforms also open another platform for bullying.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/image/epistemology1.jpg&quot; align=&quot;right&quot; width=&quot;340xpx&quot; /&gt;
+Technology, if used incorrectly can miseducate students. A whole host of falsities exist on the internet, some of which are maliciouly and intentionally propagated to the student audience. This is why teaching tech literacy necessarily means teaching critical thinking. The ancient episdemological question; “what do we know, and how do we know it?” is very relevant here. To use the internet efficiently, students need to be taught&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;how to process data and information,&lt;/li&gt;
+  &lt;li&gt;how to effectively search for what they are looking for,&lt;/li&gt;
+  &lt;li&gt;how to spot misinformation,&lt;/li&gt;
+  &lt;li&gt;how to weigh conflicting sources,&lt;/li&gt;
+  &lt;li&gt;how to identify their own ways of knowing&lt;/li&gt;
+  &lt;li&gt;how to take what they have learned and construct their own balanced opinion.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;None of these critical aspects of tech literacy can be learned overnight, but this fact reinforces the reasons why we need to bring technology into the classroom.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Aggarwal SK, Blinderman CD. Cannabis for Symptom Control #279. J Palliat Med. 2014 May 1;17(5):612–4. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Bar-Lev Schleider L, Mechoulam R, Lederman V, Hilou M, Lencovsky O, Betzalel O, et al. Prospective analysis of safety and efficacy of medical cannabis in large unselected population of patients with cancer. Eur J Intern Med. 2018;49:37–43. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Bridgeman MB, Abazia DT. Medicinal cannabis: History, pharmacology, and implications for the acute care setting. P T. 2017;42(3):180–8. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Walsh Z, Callaway R, Belle-Isle L, Capler R, Kay R, Lucas P, et al. Cannabis for therapeutic purposes: Patient characteristics, access, and reasons for use. Int J Drug Policy. 2013;24(6):511–6. &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Tart CT. Marijuana intoxication: common experiences. Nature. 1970; 226:701–704. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Green B, Kavanagh D, Young R. Being stoned: a review of self-reported cannabis effects. Drug Alcohol Rev. 2003; 22:453–460. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Tajfel, H. (1970). Experiments in Intergroup Discrimination. &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Tajfel, H. (1978). “The achievement of group differentiation (pp. 77-98)”. Differentiation between social groups. Studies in the social psychology of intergroup relations. London: Academic Press. p. 474. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Serenko, Alexander and Turel, Ofir (2015) “Integrating Technology Addiction and Use: An Empirical Investigation of Facebook Users,” AIS Transactions on Replication Research: Vol. 1 , Article 2. &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">Reflection on the role of technology in education.</summary></entry><entry><title type="html">Week 4 - Inquiry</title><link href="http://localhost:4000/content/demo/2021/11/29/4Inquiry2/" rel="alternate" type="text/html" title="Week 4 - Inquiry" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/4Inquiry2</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/4Inquiry2/">&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug1.JPG&quot; alt=&quot;sdfsdf&quot; /&gt;
+This post includes the first measurements of trees from Konuckson Park.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-park&quot;&gt;The Park&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/wow.png&quot; align=&quot;right&quot; width=&quot;335px&quot; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&quot;where&quot;&gt;Where?&lt;/h5&gt;
+&lt;p&gt;Konuckson Park is located in the center of ten-mile point in Saanich, 10 minutes south of the university by bike. It is a walk away from Cadboro bay and is worth the hike because I believe it contains one of the largest Cottonwoods on the peninsula.&lt;/p&gt;
+
+&lt;h5 id=&quot;when&quot;&gt;When?&lt;/h5&gt;
+&lt;p&gt;I cant for the life of me find any historical documents about the park or its previous uses. Even the Saanich Parks website doesn’t have an article about Konuckson. I resort to Provincial GIS layers to try and infer what the history of the area is. It likely isn’t accurate, but all I’m trying to do is guess where the biggest trees are so. Yeah.&lt;/p&gt;
+
+&lt;h5 id=&quot;what&quot;&gt;What?&lt;/h5&gt;
+&lt;p&gt;The image above is a city zoning map found on &lt;a href=&quot;https://www.saanich.ca/EN/main/community/archives/collections-research.html&quot;&gt;the Saanich archives.&lt;/a&gt; It depicts the city subdivisions as cut in the year 1948. The entirety of what is now Konuckson park lies over the block of lots between Phylis, Bedford, Tudor and Minnie. These roads’ names have since changed, but what doesn’t make sense to me is where these subdivisions went. There are something like 50 lots here which somehow have become a park. More digging using government layers on &lt;a href=&quot;https://maps.gov.bc.ca/ess/hm/imap4m/&quot;&gt;imapsBC&lt;/a&gt; reveals only about 10 of those original lots (the blocks south and north of the semi-circular lot 5) were turned into park. Since this was once private land, I did not expect to find anything old or big since settler landowners were privy to logging and clearing lots for agriculture.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Arb1.JPG&quot; align=&quot;right&quot; width=&quot;334px&quot; /&gt;
+As a curious tangent, I also found an interesting layer shaded light green below through imapsBC. The dark green areas are parks with the biggest one in the center being Konuckson. The light green patches overlap privately owned lots but are nevertheless marked “Registered and Recognized historic places”. The &lt;a href=&quot;https://catalogue.data.gov.bc.ca/dataset/a8d72ad9-2379-4d6d-9ff7-f3d0527dfb80&quot;&gt;government data catalogue&lt;/a&gt; describes this layer as:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“The Historic Environment Spatial Layer contains polygons and related attributes representing post-1846 historic places in British Columbia that are recorded on the provincial heritage register. It does not include any archaeological site information.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;br /&gt;
+&lt;img src=&quot;/assets/inquiry2/wow2.png&quot; alt=&quot;Fig. 1&quot; /&gt;
+Some of them actually are archaological sites, but this isn’t the place to talk about that. Most of them are “historic residences”. Other than that, its seems what were “roads” through the park no longer exist. I guess houses were never built on the Konuckson blocks, and the land in some places may be mostly undisturbed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Doug2.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;&lt;/p&gt;
+&lt;h5 id=&quot;who&quot;&gt;Who?&lt;/h5&gt;
+&lt;p&gt;Judging by the way the park has been zoned historically, I expect the land management of this area to have been dominated by settlers throughout the lifespans of any trees that now live there. I know in some places, indigenous groups maintain gardens and spiritual trails to this day. I don’t know if that would be the case here considering the circumstances, but I will tread lightly. It is in a very convenient location close to Cadboro bay, and its beyond question that the area was used extensively by groups here prior to settler arrival.&lt;/p&gt;
+
+&lt;p&gt;Settlers may have modified the land by clearing, burning, or introducing new species, pests and diseases into the native ecosystem here. This wouldn’t really be conducive to saving large trees.&lt;/p&gt;
+
+&lt;h5 id=&quot;why&quot;&gt;Why?&lt;/h5&gt;
+&lt;p&gt;Trees in parks generally aren’t cut down after they become parks. Its good reason to suspect that larger undisturbed areas might be found there. Also, the topographical shape of Konuckson is kind of like a bowl. It collects water, and the center of the park is quite wet; conducive to growing Cedar and Cottonwood. This is definitely an area to scout around.&lt;/p&gt;
+
+&lt;h3 id=&quot;what-we-found&quot;&gt;What we Found&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/inquiry2/Cotton1.JPG&quot; align=&quot;right&quot; width=&quot;340px&quot; /&gt;
+Konuckson has many trails covering the entire park. Its hard to get lost if you know which way you want to walk. Some of the trails look maintained by the city. Others look like they were made by deer or people infrequently walking by. I don’t know what the indigenous relationship with the area is, but my girlfriend pointed out Rattlesnake everywhere in one particular area. There was a large boulder, a semi-circle of smaller boulders, and some older Arbutus. Perfect place for a campfire.&lt;/p&gt;
+
+&lt;p&gt;The largest treee was easily the biggest Cottonwood I’ve ever seen right in the middle of the park where its the wettest. There are two Arbutus in one region that are about a meter across as well. The locations and measurements that we took are shown in the map below. Go check them out!&lt;/p&gt;
+
+&lt;iframe width=&quot;720&quot; height=&quot;500&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Theresa McFarland, “Historic Environment Spatial Layer”  2018-05-08 &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post includes the first measurements of trees from Konuckson Park.</summary></entry><entry><title type="html">Week 5 - Inquiry</title><link href="http://localhost:4000/content/demo/2021/11/29/5Jekyll-Reflection/" rel="alternate" type="text/html" title="Week 5 - Inquiry" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/5Jekyll-Reflection</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/5Jekyll-Reflection/">&lt;p&gt;&lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot; /&gt;
+This website is no longer in its infancy. This post outlines the process by which I created this blog.&lt;/p&gt;
+
+&lt;h3 id=&quot;homebrew&quot;&gt;Homebrew&lt;/h3&gt;
+
+&lt;p&gt;I don’t really have much coding experience. Most of my data crunching was done in MATLAB in my undergrad. I had a course in Fortran, but those skills dont really translate to useful languages that are actually used today. The most useful thing i learned was navigating my computer using bash. Creating and deleting files, editing documents, and writing programs from the command line.&lt;img src=&quot;/assets/jekyllreflection/homebrew.png&quot; align=&quot;right&quot; width=&quot;230px&quot; /&gt;UNIX based computers do this with a “terminal” program, Windows computers have DOS and whatever they call their command line. This is basically where my knowledge ended before this program. Anyone who is looking at this post for advice, look elsewhere; I basically just banged my head against it for a couple months.&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Homebrew is a free open-source package manager that operates from command line on UNIX-based operating systems. It was created in 2009. I used Homebrew to install jekyll and its dependancies as well as other useful software that I didnt know existed before this. Homebrew installs into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/usr/local&lt;/code&gt; by default. Hit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Cmd + Shift + .&lt;/code&gt; to see otherwise hidden folders in Finder. Dont delete any of them for no reason though, apple hid them for a reason. Running&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;in Terminal will install Homebrew. The &lt;a href=&quot;https://brew.sh/&quot;&gt;Homebrew webiste&lt;/a&gt; contains analytics data, programs, changelogs etc. Homebrew was necessary for installing Jekyll which is the main compiler for the website. After all the programs necessary for jekyll were installed, I haven’t really used Homebrew much.&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll&quot;&gt;Jekyll&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/h3&gt;
+
+&lt;p&gt;Jekyll is a program that compiles websites. It is written in Ruby by Github founder Tom Preston-Werner. A host of volunteers maintains the software, and its most stable release was 4.2.0 in 2020. Detailed instructions for its installation are on &lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;their website&lt;/a&gt;. If you are running the latest operating systems of MacOS, I think it will probably work as advertised. For the rest of us stuck in late 2015, Jekyll only works with a particular version of Ruby installed (&amp;gt;2.5.0). Newer versions for whatever reason dont like being installed. I had issues with OpenSSH not being the right version. I don’t honestly remember what I did to get everything to install properly but forums are your friend. People with actual modern computers probably won’t have the issues I did since&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Jekyll requires Ruby v2.5.0 or higher. macOS Big Sur 11.x ships with Ruby 2.6.3. Check your Ruby version using ruby -v.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I mostly followed the instructions on the &lt;a href=&quot;https://jekyllrb.com/docs/installation/macos/&quot;&gt;Jekyll website&lt;/a&gt; for the installation. Once set up, define a folder that you want to permanently be the website folder, then hit&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ gem install bundler jekyll
+$ jekyll name-of-new-website
+$ cd name-of-new-website
+$ bundle exec jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The last line here hosts the website locally and updates every time you make a change to it. You can turn off your internet and work on it remotely. To view it in your browser go to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;github&quot;&gt;Github&lt;/h3&gt;
+
+&lt;p&gt;Now there needs to be some way to host the website. &lt;a href=&quot;https://pages.github.com/&quot;&gt;Github pages&lt;/a&gt; does this for free as long as you can keep your website to under 1 gb. Github is also open-source software. I have no idea where they get money from but it doesn’t seem to be advertising. Get a Github account and then install git and any other dependancies you might need using Homebrew. What you need to do is clone a folder on your computer to a repository on Github. To get a nice URL for your website like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github-username.github.io&lt;/code&gt;, create a repository of the same name. Go to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pages&lt;/code&gt; section of settings for that repo, and enable Github Pages.
+&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/jekyllreflection/github.png&quot; alt=&quot;fsdf&quot; /&gt;
+&lt;br /&gt;
+Ok, now there needs to be an easy way of updating the repo straight from your computer where you edit it. You do this by cloning a folder to your repo in terminal. Get the URL of the desired repo by hitting the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code&lt;/code&gt; button on it page on Github, then in terminal&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
+$ git clone URL-from-Github name-of-website-folder
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Then drag and drop the contents of the other website folder into this new one. If permissions are set correctly for you to push straight onto the main branch of the repo then you can submit changes by hitting&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
+$ git add -A
+$ git commit -m &quot;desciption of any changes made&quot;
+$ git push
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Wait 30 minutes, and Github will be hosting your website at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://github-username.github.io&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The other thing I did to get a jump start on the blog is to populate my empty website with one of the templates listed on &lt;a href=&quot;http://jekyllthemes.org/&quot;&gt;http://jekyllthemes.org/&lt;/a&gt;. I used &lt;a href=&quot;https://github.com/forever-jekyll/forever-jekyll&quot;&gt;Forever Jekyll&lt;/a&gt; as stated in the footer of this website, but this theme has its issues. I’ve definitely had to tailor it to my liking. To populate a repo, you can copy-paste the contents or fork it.&lt;/p&gt;
+
+&lt;h3 id=&quot;troubleshooting&quot;&gt;Troubleshooting&lt;/h3&gt;
+
+&lt;p&gt;Most of the personalization I did to the website I ‘ve been doing by trial and error. I’ll make a couple changes to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes&lt;/code&gt; html files and see what it does. I managed to add the &lt;a href=&quot;https://pacificyew.github.io/TreesofBC&quot;&gt;Trees of BC&lt;/a&gt; navigation header which works when I host the website locally but now when I let Github Pages compile it.&lt;/p&gt;
+
+&lt;p&gt;This brings me to the main troubleshooting point which is that Github Pages doesn’t do everything that you might want it to. It only hosts static sites, and any plugins you might want to add probably won’t work. If found this out the hard way by creating some really nice maps for my tree project which ended up not working because they required a plugin called leaflet. A complete list of dependancy versions for jekyll compatible with Pages is &lt;a href=&quot;https://pages.github.com/versions/&quot;&gt;found here&lt;/a&gt;. To remedy the problem with the maps, I found that you could really easily make google maps with markers and then link them to a website page as such:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;iframe 
+  width=&quot;720&quot;
+  height=&quot;500&quot;
+  frameborder=&quot;0&quot; style=&quot;border:0&quot;
+  src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&amp;gt;
+&amp;lt;/iframe&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This brings me to another point. Posts for jekyll are written in Markdown which is, for my purposes at least, a simplified version of html. You can take snippets of html (most of which I find by trolling forums) and put them straight into your markdown blog post. For the same of demonstration, an identical post to this one is also posted on the blog. This way, you can see which symbols do what. This post is a good example because I integrate some pictures, manipulate the text alignment, add hyperlinks and mess around with the text a bit.&lt;/p&gt;
+
+&lt;h3 id=&quot;plans-for-the-future&quot;&gt;Plans for the Future&lt;/h3&gt;
+
+&lt;p&gt;I want to really personalize this blog because I’m going to use it for a long time. If the &lt;a href=&quot;https://pacificyew.github.io/TreesofBC&quot;&gt;Trees of BC&lt;/a&gt; wasn’t 404’ed, the information I’ve compiled during my tree project would be visible there. Its actually all written, I just can’t figure out why Pages doesn’t like it. I want a whole other page of posts to be listed on this page with a post for each variety of tree. Having one static website host two separate blogs is quite difficult and I won’t get to it any time soon, but I think it would work really well.&lt;/p&gt;
+
+&lt;p&gt;I also want to spice up the visuals a bit. Right now everything is white and boring. I would love cool patterns down the margins on the sides or maybe pictures in the background.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Vítor Galvão, Mike McQuaid, Synoli. (2019). “Homebrew Logo”. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Tom Preston-Werner. (2020). “Jekyll Logo”. CC BY 4.0 &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This website is no longer in its infancy. This post outlines the process by which I created this blog.</summary></entry><entry><title type="html">Week 5 - Reflection</title><link href="http://localhost:4000/content/demo/2021/11/29/5Small-Number/" rel="alternate" type="text/html" title="Week 5 - Reflection" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/5Small-Number</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/5Small-Number/">&lt;p&gt;This post summarizes most of the ideas featured in our classes over the last two weeks regarding the creation of resources and working with graphics.
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img src=&quot;/assets/smallnumber/mathcatcher.jpg&quot; alt=&quot;sdf&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;mathcatcher&quot;&gt;Mathcatcher&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.sfu.ca/mathcatcher.html&quot;&gt;Mathcatcher&lt;/a&gt; is a math education program developped by a team of engaged professors at SFU. The motivation behind the program is to engage a wide demographic of students through indigenous storytelling. The programm does outreach and workshops at schools around Canada and has succeeded in constructing a network of math and indigenous language educators around the counrty.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-involvement-with-mathcatcher&quot;&gt;My Involvement with Mathcatcher&lt;/h3&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/smallnumber/logo.png&quot; align=&quot;right&quot; width=&quot;340xpx&quot; /&gt;
+I am currently a research assistant for the Math department at SFU under Dr. Veselin Jungic. Veselin is effectively the father of the project and he is responsible for organizing pretty much everything. I am responsible for editing and directing the &lt;a href=&quot;https://www.sfu.ca/mathcatcher/StoriesMovies.html&quot;&gt;Mathcatcher videos&lt;/a&gt;. In particular, I have been working on the project since the beginning of this year and have produced all of the French, Spanish, a Gitxsan and a few Wet’suwet’en videos.&lt;/p&gt;
+
+&lt;h3 id=&quot;video-editing&quot;&gt;Video Editing&lt;/h3&gt;
+
+&lt;p&gt;I haven’t been posting as often as usual due to having to deal with ICBC and finding a new car which has occupied all my time. I have also been working on this exact project, so I decided that I would use it as a blog post and stone two birds at once. I employ Adobe Premiere to edit these videos and it has taken me a few years of hobby video-editing projects to get to this point. My editing involved layered masking in some circumstances to include translated titles while still preserving the original art of the video.&lt;/p&gt;
+
+&lt;p&gt;These skills can be applicable in the context of a high school classroom for example in the context of animations. In my own subject area of physics, kinematics and movemeent can be a tricky subject to teach. By demonstrating how to stop-motion animate objects moving around a screen or magazine cutouts moving around a page, students can visualize exactly what acceleration, velocity and displacement mean. To move an object you simply displace it to the desired location. To model velocity, you move the object one unit of distance every frame (or every camera exposure). For higher velocities, you can move the object larger units per frame. To model acceleration, you slowly increase or decrease the distance the object travels each frame.&lt;/p&gt;
+
+&lt;p&gt;I wanted to include an example of this old-fasshioned animating style, but unfortunately I don’t have time or space to set up my lab. In the future I might be able to post a sample. I need to find a way to embed locally hosted videos on this website first since I don’t really want to upload any of my personal work to youtube or vimeo. I feel this work is relevant to the topics of graphic design and editing that we were talking about a few weeks ago. An example of one of the videos I have helped to reate is shown below.&lt;/p&gt;
+
+&lt;div class=&quot;vimeo-wrapper&quot;&gt;
+  &lt;iframe src=&quot;https://player.vimeo.com/video/450946442&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h3 id=&quot;audio-editing&quot;&gt;Audio Editing&lt;/h3&gt;
+
+&lt;p&gt;Audio editing is also involved since some videos include soundscapes, some of which I record myself. For one video, I needed audio of a fish jumping out of the water. Since at the time I was living on Gambier island, I was able to go down to whispering creek the same day and record a salmon run which was happening at the time.&lt;/p&gt;
+
+&lt;p&gt;The most difficult audio to work with is dictation. Since most of the videos I am now dealing with are in Gitxsan and Wit’suwit’en, I have to piece together recordings of a language I barely understand. I have to say though after listening to many of these stories hundreds of times, I now have a short vocabulary in these languages.&lt;/p&gt;
+
+&lt;h3 id=&quot;cross-curricular&quot;&gt;Cross-Curricular&lt;/h3&gt;
+
+&lt;p&gt;I believe that this project is relevant to the PSII learning philosophies that the speaker outlined a couple weeks ago. In particular, that the Mathcatcher project is cross-curricular. The mathcatcher videos are a language revitalization program which really effectively veil math and logic problems. Each video contains a question at the end that students can take their time to think about. I has been motivated through storytelling, and in that way is also multi-modal. I believe that this project is proof that indigenous worldviews can be integrated into math education.&lt;/p&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">This post summarizes most of the ideas featured in our classes over the last two weeks regarding the creation of resources and working with graphics.</summary></entry><entry><title type="html">Week 6 - Inquiry</title><link href="http://localhost:4000/content/demo/2021/11/29/6Jekyll-Reflection-markdown/" rel="alternate" type="text/html" title="Week 6 - Inquiry" /><published>2021-11-29T00:00:00-08:00</published><updated>2021-11-29T00:00:00-08:00</updated><id>http://localhost:4000/content/demo/2021/11/29/6Jekyll-Reflection-markdown</id><content type="html" xml:base="http://localhost:4000/content/demo/2021/11/29/6Jekyll-Reflection-markdown/">&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot;/&amp;gt;&lt;/code&gt;
+This post I tried to invert the inquiry post from last week. The post is identical to the ‘Website Construction’ post, but with all the markdown script visible. It was actually harder to do than I originally thought, but is worth it to reveal how the language works.&lt;/p&gt;
+
+&lt;p&gt;website is no longer in its infancy. This post outlines the process by which I created this blog.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Homebrew&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I don’t really have much coding experience. Most of my data crunching was done in MATLAB in my undergrad. I had a course in Fortran, but those skills dont really translate to useful languages that are actually used today. The most useful thing i learned was navigating my computer using bash. Creating and deleting files, editing documents, and writing programs from the command line.&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;img src=&quot;/assets/jekyllreflection/homebrew.png&quot; align=&quot;right&quot; width=&quot;230px&quot;/&amp;gt;&lt;/code&gt;UNIX based computers do this with a “terminal” program, Windows computers have DOS and whatever they call their command line. This is basically where my knowledge ended before this program. Anyone who is looking at this post for advice, look elsewhere; I basically just banged my head against it for a couple months.&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[^1]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Homebrew is a free open-source package manager that operates from command line on UNIX-based operating systems. It was created in 2009. I used Homebrew to install jekyll and its dependancies as well as other useful software that I didnt know existed before this. Homebrew installs into &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;/usr/local&lt;/code&gt; by default. Hit &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Cmd + Shift + .&lt;/code&gt; to see otherwise hidden folders in Finder. Dont delete any of them for no reason though, apple hid them for a reason. Running&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;/bin/bash -c &quot;$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;in Terminal will install Homebrew. The &lt;a href=&quot;https://brew.sh/&quot;&gt;Homebrew webiste&lt;/a&gt; contains analytics data, programs, changelogs etc. Homebrew was necessary for installing Jekyll which is the main compiler for the website. After all the programs necessary for jekyll were installed, I haven’t really used Homebrew much.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Jekyll[^2]&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Jekyll is a program that compiles websites. It is written in Ruby by Github founder Tom Preston-Werner. A host of volunteers maintains the software, and its most stable release was 4.2.0 in 2020. Detailed instructions for its installation are on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[their website](https://jekyllrb.com/docs/)&lt;/code&gt;. If you are running the latest operating systems of MacOS, I think it will probably work as advertised. For the rest of us stuck in late 2015, Jekyll only works with a particular version of Ruby installed (&amp;gt;2.5.0). Newer versions for whatever reason dont like being installed. I had issues with OpenSSH not being the right version. I don’t honestly remember what I did to get everything to install properly but forums are your friend. People with actual modern computers probably won’t have the issues I did since&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Jekyll requires Ruby v2.5.0 or higher. macOS Big Sur 11.x ships with Ruby 2.6.3. Check your Ruby version using ruby -v.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I mostly followed the instructions on the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Jekyll website](https://jekyllrb.com/docs/installation/macos/)&lt;/code&gt; for the installation. Once set up, define a folder that you want to permanently be the website folder, then hit&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ gem install bundler jekyll
+$ jekyll name-of-new-website
+$ cd name-of-new-website
+$ bundle exec jekyll serve
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;The last line here hosts the website locally and updates every time you make a change to it. You can turn off your internet and work on it remotely. To view it in your browser go to &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;localhost:4000&lt;/code&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Github&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Now there needs to be some way to host the website. &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Github pages](https://pages.github.com/)&lt;/code&gt; does this for free as long as you can keep your website to under 1 gb. Github is also open-source software. I have no idea where they get money from but it doesn’t seem to be advertising. Get a Github account and then install git and any other dependancies you might need using Homebrew. What you need to do is clone a folder on your computer to a repository on Github. To get a nice URL for your website like &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;github-username.github.io&lt;/code&gt;, create a repository of the same name. Go to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;pages&lt;/code&gt; section of settings for that repo, and enable Github Pages.
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;![fsdf](/assets/jekyllreflection/github.png)&lt;/code&gt;
+&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;&amp;lt;br&amp;gt;&lt;/code&gt;
+Ok, now there needs to be an easy way of updating the repo straight from your computer where you edit it. You do this by cloning a folder to your repo in terminal. Get the URL of the desired repo by hitting the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;code&lt;/code&gt; button on it page on Github, then in terminal&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
+$ git clone URL-from-Github name-of-website-folder
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Then drag and drop the contents of the other website folder into this new one. If permissions are set correctly for you to push straight onto the main branch of the repo then you can submit changes by hitting&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;$ cd /where-you-want-site
+$ git add -A
+$ git commit -m &quot;desciption of any changes made&quot;
+$ git push
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;Wait 30 minutes, and Github will be hosting your website at &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;https://github-username.github.io&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;The other thing I did to get a jump start on the blog is to populate my empty website with one of the templates listed on &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[http://jekyllthemes.org/](http://jekyllthemes.org/)&lt;/code&gt;. I used &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Forever Jekyll](https://github.com/forever-jekyll/forever-jekyll)&lt;/code&gt; as stated in the footer of this website, but this theme has its issues. I’ve definitely had to tailor it to my liking. To populate a repo, you can copy-paste the contents or fork it.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Troubleshooting&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;Most of the personalization I did to the website I ‘ve been doing by trial and error. I’ll make a couple changes to the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;_includes&lt;/code&gt; html files and see what it does. I managed to add the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Trees of BC](https://pacificyew.github.io/TreesofBC)&lt;/code&gt; navigation header which works when I host the website locally but now when I let Github Pages compile it.&lt;/p&gt;
+
+&lt;p&gt;This brings me to the main troubleshooting point which is that Github Pages doesn’t do everything that you might want it to. It only hosts static sites, and any plugins you might want to add probably won’t work. If found this out the hard way by creating some really nice maps for my tree project which ended up not working because they required a plugin called leaflet. A complete list of dependancy versions for jekyll compatible with Pages is &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[found here](https://pages.github.com/versions/)&lt;/code&gt;. To remedy the problem with the maps, I found that you could really easily make google maps with markers and then link them to a website page as such:&lt;/p&gt;
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;lt;iframe 
+  width=&quot;720&quot;
+  height=&quot;500&quot;
+  frameborder=&quot;0&quot; style=&quot;border:0&quot;
+  src=&quot;https://www.google.com/maps/d/embed?mid=1StAOnbgdOCSCagiKEdqfr10P4phAsUqK&quot;&amp;gt;
+&amp;lt;/iframe&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This brings me to another point. Posts for jekyll are written in Markdown which is, for my purposes at least, a simplified version of html. You can take snippets of html (most of which I find by trolling forums) and put them straight into your markdown blog post. For the same of demonstration, an identical post to this one is also posted on the blog. This way, you can see which symbols do what. This post is a good example because I integrate some pictures, manipulate the text alignment, add hyperlinks and mess around with the text a bit.&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;### Plans for the Future&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;I want to really personalize this blog because I’m going to use it for a long time. If the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;[Trees of BC](https://pacificyew.github.io/TreesofBC)&lt;/code&gt; wasn’t 404’ed, the information I’ve compiled during my tree project would be visible there. Its actually all written, I just can’t figure out why Pages doesn’t like it. I want a whole other page of posts to be listed on this page with a post for each variety of tree. Having one static website host two separate blogs is quite difficult and I won’t get to it any time soon, but I think it would work really well.&lt;/p&gt;
+
+&lt;p&gt;I also want to spice up the visuals a bit. Right now everything is white and boring. I would love cool patterns down the margins on the sides or maybe pictures in the background.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[^1]: Vítor Galvão, Mike McQuaid, Synoli. (2019). &quot;Homebrew Logo&quot;. 
+[^2]: Tom Preston-Werner. (2020). &quot;Jekyll Logo&quot;. CC BY 4.0
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name></name></author><category term="content" /><category term="demo" /><summary type="html">&amp;lt;img src=&quot;/assets/jekyllreflection/jekyll.png&quot; align=&quot;right&quot; width=&quot;330px&quot;/&amp;gt; This post I tried to invert the inquiry post from last week. The post is identical to the ‘Website Construction’ post, but with all the markdown script visible. It was actually harder to do than I originally thought, but is worth it to reveal how the language works.</summary></entry></feed>
