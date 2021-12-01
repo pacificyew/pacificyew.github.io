@@ -19,12 +19,30 @@
 } ,
   
   {
+    "title"    : "Week 10 - Inquiry",
+    "category" : "content, demo",
+    "url"      : "/content/demo/2021/11/30/10Inquiry/",
+    "date"     : "November 30, 2021",
+    "excerpt"  : "\nThis post presents where I plan to go next with my inquiry project.\n\nLIDAR\n\nI haven’t had the time to invest heavily in learning ArcGIS to interpret real global positioning data. I really want to try to predict the locations of old trees using LI...",
+    "content"  : "\nThis post presents where I plan to go next with my inquiry project.\n\nLIDAR\n\nI haven’t had the time to invest heavily in learning ArcGIS to interpret real global positioning data. I really want to try to predict the locations of old trees using LIDAR. The data itself looks really cool on heatmaps. I think this prceedure would be most effective in the context of a larger contiguous forest with some more substantial topography. The problem with this project on the Saanich peninsula is that it is very flat and rocky. Most of the trees here are Douglas Firs which all grow to around the same height and Arbutuses cant be seen underneath the foliage from the air. I think this would be especially effective in the context of Gambier island where I’m from.\n\nIndigenous Knowledge\n\nThe other perspective I want to integrate into this project is indigenous knowledge. There is an established protocol for accessing indigenous knowledge which does take time and I believe is outside the scope of this course. I will however be inversting time to contact local nations to learn more about the history of land management in different areas. This will likely require some knowlege of technology in the context of education, since meeting with individuals from the nation will likely require an online presentation. I would want to carefully prepare a slide-deck for such a presentation and would use some of the graphics and animating skills we learned during the PowerPoint lesson.\n\n"
+} ,
+  
+  {
     "title"    : "Week 9 - Reflection",
     "category" : "content, demo",
     "url"      : "/content/demo/2021/11/29/9reflection/",
     "date"     : "November 29, 2021",
     "excerpt"  : "\nThis post is a reflection regarding accessible learning and the presentation from BCEdAccess.\n\nPhones in the classroom\n\nThe main reflection I had about this presentation is how useful technology can be in the context of accessible education and s...",
     "content"  : "\nThis post is a reflection regarding accessible learning and the presentation from BCEdAccess.\n\nPhones in the classroom\n\nThe main reflection I had about this presentation is how useful technology can be in the context of accessible education and students with exceptionalities. This topic ties in both with an inquiry project I’m conducting at Esquimalt, as well as the group project I am working on in this class.\n\nAt Esquimalt, I’m investigating assessment methods and how they can be discriminatory. One topic that has come out of that discussion is the role that phones play in classrooms. It is clear that some students are aided greatly if not are dependant on accessible learning software on their devices. Despite this, many teachers prohibit the use of phones or other technologies in their classrooms. This is very clearly a disriminatory practice, and was touched on by our speaker during the question period.\n\nFor my group project, I am researching protocols with how to get students to break their addiction to social media in the class and put down their phones. The scope of this project are the psychological and cultural effects of social media in general.\n\nShould We Take Phones?\n\nMany teachers take phones from students in their classess. In spite of the examples of where phones can be useful mentioned earlier, I do think there is a place for teachers to discourage over-use of phones. Digging deeper into the group assignment of this course had us all critiquing and reflecting on the film ‘The Social Dilemna’. The film doesn’t mention anything groundbreaking that people don’t already generally know, but it does a good job bringing all the effects of social media into one place (except the positive ones). Younger students are overwhelmingly addicted to social media, and I think its fair for them to be aksed to take a break for the short duration of classes. Taking phones should always be handled on a case-by-case basis since students may depend on their phones for reasons other than social media.\n\n"
+} ,
+  
+  {
+    "title"    : "Week 9 - Inquiry",
+    "category" : "content, demo",
+    "url"      : "/content/demo/2021/11/29/9Inquiry/",
+    "date"     : "November 29, 2021",
+    "excerpt"  : "This post outlines how some of the content in the EDTech class can be integrated into my Big Tree Inquiry.\n\nDigital Footprint\n\nIt is in my own nature to not want to share my personal work and research, especially when I cant control how that infor...",
+    "content"  : "This post outlines how some of the content in the EDTech class can be integrated into my Big Tree Inquiry.\n\nDigital Footprint\n\nIt is in my own nature to not want to share my personal work and research, especially when I cant control how that information is further shared. Im torn as to what the role of this blog should be in my life, and I think I want to keep it relatviely private in the sense that I won’t be sharing it with my classes. That being said, it should be at the level that I wouldn’t be scared if the students found it. These ideas circulated during the first presentation in the class in which the speaker outlined how we should shape our digital footprints.\n\nCommunication is Key\n\nCommunication is key in education. I believe that once I have published some of the information, and needless to say, once I have time to put more effort into the project, I might consider opening the blog up as a resource for inquiry projects in my own class. The methods by which I share the blog would probably refelect the techniques in this class.\n\nFor example, lets say I was doing a math lesson on geometry and we were investigating whether old trees or young trees put on more wood every year, I could open up a blog post on the projector as a resource to start the lesson. Google maps could be used to explore an area virtually, and the integrated maps could be used to show where local big trees are. If one was close to the school, we could even go there in person.\n\nWhere learning is online, the maps integration would also be helpful. Students who live in disparate parts of the province could optionally mark their position on an open public map. Hiking trips or tree explorations could be planned etc.\n"
 } ,
   
   {
@@ -37,7 +55,7 @@
 } ,
   
   {
-    "title"    : "Week 7 - Inquiry",
+    "title"    : "Week 8 - Inquiry",
     "category" : "content, demo",
     "url"      : "/content/demo/2021/11/29/8Inquiry/",
     "date"     : "November 29, 2021",
@@ -160,15 +178,6 @@
     "date"     : "November 29, 2021",
     "excerpt"  : "\nThis is my first official post on this blog. I have created it as part of the EDCI 336 class at UVic.\n\nHello World\n\nI have constructed this website from a template I found on Github using Jekyll. I don’t take credit for writing a lot of the skele...",
     "content"  : "\nThis is my first official post on this blog. I have created it as part of the EDCI 336 class at UVic.\n\nHello World\n\nI have constructed this website from a template I found on Github using Jekyll. I don’t take credit for writing a lot of the skeleton of the website, but I’ll credit the actual authors and software developpers in the footers once I finish the skeleton.\n\nAbout Me\n\nI love trees, photography, physics and education. I believe this blog will be a good place to share these interests as well as complete the objectives for my EDCI 336 class.\n\nI have opted to not use Wordpress as the platform for this project because I dont know how they handle data. I also don’t want to have to pay for my website. I hopefully will be able to use this site to host my CV, research, and cool projects in the future, so I wanted to really put the time into making something that I can own and completely control for the rest of my life.\n\nI will be sharing quite a bit of my photography. I put a lot of thought into my pictures, and they’re a good demonstration of how art and science are two sides of the same coin.\n\nMost of my photos relate to the natural world. Growing up in British Columbia, its difficult not to be connected to our enormous forests. I’m also really interested in climate science and modelling. Hopefully this will be a platform where I can share some ameteur studies that I’ve been planning to do for a few years.\n\nAnyway, I’ll beat out the last few bugs on this website and hopefully it’ll be all smooth sailing from there.\n"
-} ,
-  
-  {
-    "title"    : "Week 10 - Group Final Project",
-    "category" : "content, demo",
-    "url"      : "/content/demo/2021/11/29/10reflection/",
-    "date"     : "November 29, 2021",
-    "excerpt"  : "\nThis post sumarizes some of the group work that has been done on the final project for this class. The subject of our presentation is student usage of social media.\n\nThe Presentation\n\nThe final presentation can be found on the google drive \n\n\n   ...",
-    "content"  : "\nThis post sumarizes some of the group work that has been done on the final project for this class. The subject of our presentation is student usage of social media.\n\nThe Presentation\n\nThe final presentation can be found on the google drive \n\n\n    Your browser does not support the HTML5 Audio element.\n\n.\n\nThe Social Dilemna\n\nThis project was largely inspired by the documentary ‘The Social Dilemna’ directed by Jeff Orlowski. We watched this documentary as reasearch for our group. The film inspired many of our subsequent discussions\n\nTracking Social Media Usage\n\nWe began the exploration by tracking our own social media usage. In the fallout of watching the documentary The Social Dilme\n"
 } 
   
 ]
